@@ -1,0 +1,20 @@
+ANGLES CONSIDERED
+1. Le fonds Medallion gagne enormement tout en ayant tort presque une fois sur deux. Promise: comprendre comment un avantage minuscule devient une fortune par la repetition.
+2. Les quants ne predisent pas le futur, ils jouent au casino du bon cote de la table. Promise: montrer l'equivalence casino / strategie quant.
+3. Un modele de risque qui a fait sauter LTCM en 1998. Promise: montrer pourquoi les maths seules ne suffisent pas.
+4. Le trading haute frequence se joue en microsecondes. Promise: montrer pourquoi la vitesse est un avantage.
+5. Black-Scholes, l'equation qui donne un prix au risque. Promise: rendre une equation intuitive.
+CHOSEN: 1 (absorbe 2) -- paradoxe concret, chiffres verifiables, entierement animable (pieces, roulette, courbes).
+
+TOTAL: 8.25 / 9.0
+1 Opening + Angle      1.5/1.5  none
+2 Emotional arc        1.5/1.5  none
+3 Visual translatab.   1.0/1.0  none
+4 Escalation           1.0/1.0  none
+5 Tightness            1.0/1.0  none
+6 Audience calibration 0.75/1.0 3 named terms in 3 sentences (Medallion, Renaissance Technologies, Jim Simons, Robert Mercer)
+7 Closer               1.0/1.0  none
+8 Technical accuracy   0.25/0.5 66 pour cent est un rendement AVANT frais -- non precise, simplification trompeuse
+9 Moat                 0.5/0.5  before (pile ou face) / mechanism (loi des grands nombres) / after (1M paris)
+
+FIX: preciser "avant frais"; retirer Renaissance Technologies et le nom de Mercer du paragraphe 2.

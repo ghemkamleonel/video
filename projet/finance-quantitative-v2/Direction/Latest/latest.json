@@ -1,0 +1,103 @@
+{
+  "video_aspect_ratio": "landscape",
+  "scenes": [
+    {
+      "sceneIndex": 0,
+      "audioTranscriptPortion": "Entre mille neuf cent quatre-vingt-huit et deux mille dix-huit, un fonds d'investissement a gagné en moyenne soixante-six pour cent par an, avant frais.",
+      "videoDescription": "The scene unfolds in three phases. PHASE 1 -- THE FLIPPING COIN: From the very first frame an enormous gold coin fills roughly 60% of the frame height at center, already mid-flip -- spinning fast around its horizontal axis so it alternates between its face (engraved with a stylised rising price line) and its thin edge. Behind it a dark trading-floor background breathes: dozens of faint candlestick bars scroll slowly right to left across the full width, and a soft grid pulses. On 'mille neuf cent quatre-vingt-huit' the year label '1988' snaps in large at the left of the coin; on 'deux mille dix-huit' the label '2018' snaps in at the right and a thin glowing timeline draws between them under the coin. PHASE 2 -- THE CLIMB: The camera pushes in fast (rapid scale up) as, with each flip, a gold particle trail sprays off the coin and a huge counter above it climbs from '+0%' toward '+66%'. PHASE 3 -- THE NUMBER: On 'soixante-six pour cent par an' the counter locks at '+66 % / AN' in enormous bold type, the coin keeps spinning without ever landing, and a smaller caption 'avant frais' slides up below. The scene ends with the coin still spinning -- unresolved.",
+      "sceneStartTime": 0,
+      "sceneEndTime": 6810,
+      "sceneStartFrame": 0,
+      "sceneEndFrame": 213
+    },
+    {
+      "sceneIndex": 1,
+      "audioTranscriptPortion": "Ses fondateurs n'étaient pas des traders. C'étaient des mathématiciens, et ils se trompaient presque une fois sur deux.",
+      "videoDescription": "PHASE 1 -- NOT TRADERS: A large ringing old-style trading telephone and a ticker tape drain to greyscale and slide out to the left on 'pas des traders'. PHASE 2 -- MATHEMATICIANS: On 'mathematiciens' a huge dark chalkboard swings in from the right with 3D tilt and fills the center; white chalk equations write themselves stroke by stroke across it: a probability formula, a sum symbol, a bell curve sketch. PHASE 3 -- WRONG HALF THE TIME: On 'se trompaient presque une fois sur deux' the chalkboard compresses into a scoreboard with two big columns 'GAGNE' and 'PERDU'. Tally marks fire into both columns at high speed, almost evenly -- the two counters race neck and neck (for example 507 vs 493). Background: faint equations drift slowly upward edge to edge.",
+      "sceneStartTime": 7360,
+      "sceneEndTime": 12388,
+      "sceneStartFrame": 213,
+      "sceneEndFrame": 380
+    },
+    {
+      "sceneIndex": 2,
+      "audioTranscriptPortion": "Ce fonds s'appelle Medallion. Il a été créé par le mathématicien Jim Simons.",
+      "videoDescription": "A giant engraved bronze medal (a medallion) spins in from depth and lands flat at the center, filling roughly half the frame height, with a ribbon. On 'Medallion' the word 'MEDALLION' is engraved around its rim letter by letter with a metallic glint sweeping across. On 'Jim Simons' the camera pulls back and a plaque below the medal reveals 'JIM SIMONS -- MATHEMATICIEN' in large type. Around the medal, rings of tiny digits and formulas orbit slowly; the background is a deep navy field with a slowly rotating geometric lattice.",
+      "sceneStartTime": 12938,
+      "sceneEndTime": 16625,
+      "sceneStartFrame": 380,
+      "sceneEndFrame": 507
+    },
+    {
+      "sceneIndex": 3,
+      "audioTranscriptPortion": "L'un de ses dirigeants a résumé leur secret en une phrase : nous avons raison cinquante virgule soixante-quinze pour cent du temps. C'est à peine mieux qu'une pièce lancée en l'air.",
+      "videoDescription": "PHASE 1 -- THE QUOTE: A large quotation card slides up center: 'Nous avons raison 50,75 % du temps.' Words appear in hard sync with narration. PHASE 2 -- THE NUMBER: The card compresses and its number '50,75 %' grows huge at center, sitting on a horizontal precision bar ruler that spans 80% of the width, graduated from 0 to 100 with a center mark at 50. A marker needle slides to 50.75 -- barely right of the center line; the camera pushes in on the ruler so the tiny 0.75 gap between the 50 mark and the needle becomes visible as a thin glowing sliver. PHASE 3 -- COIN: On 'piece lancee en l'air' a large silver coin flips up from below on the 50 mark, spinning, showing how close the two numbers sit. Background: a soft field of floating coins drifting with parallax.",
+      "sceneStartTime": 17174,
+      "sceneEndTime": 24604,
+      "sceneStartFrame": 507,
+      "sceneEndFrame": 747
+    },
+    {
+      "sceneIndex": 4,
+      "audioTranscriptPortion": "Sur un seul pari, cet avantage est invisible. Misez un euro dix mille fois, et vous gagnez en moyenne cent cinquante euros, avec encore une chance sur quinze de perdre.",
+      "videoDescription": "PHASE 1 -- ONE BET: A single coin flip at center lands on '+1 EUR' or '-1 EUR' -- no visible pattern; caption 'UN PARI : INVISIBLE'. PHASE 2 -- 10 000 BETS: The camera pulls back to reveal a large line chart filling the frame: X axis 'PARIS' from 0 to 10 000, Y axis 'GAIN (EUR)'. A jagged random-walk line races from left to right, zigzagging up and down but drifting upward, while a straight dashed line shows the average slope. A bet counter at top right races to '10 000'. The line ends near '+150 EUR' and a bold label pops there. PHASE 3 -- STILL RISKY: A translucent shaded band around the dashed line shows the range of luck; its lower edge dips below the zero line, and the small area below zero glows red with the label '1 chance sur 15 de perdre'. Background: faint scrolling grid.",
+      "sceneStartTime": 25366,
+      "sceneEndTime": 33622,
+      "sceneStartFrame": 747,
+      "sceneEndFrame": 1017
+    },
+    {
+      "sceneIndex": 5,
+      "audioTranscriptPortion": "Misez un million de fois, et le gain moyen grimpe à quinze mille euros. Les écarts dus au hasard, eux, restent autour de mille euros. Perdre devient presque impossible.",
+      "videoDescription": "PHASE 1 -- ONE MILLION: The bet counter at top races to '1 000 000' while a large chart fills the frame: dozens of thin random-walk paths fan out from the origin at left and all climb to the right in a tight bundle. PHASE 2 -- 15 000 vs 1 000: On 'quinze mille euros' a tall gold bar labelled '+15 000 EUR' rises at the right end of the chart; on 'mille euros' a short grey bracket labelled '+/- 1 000 EUR' appears beside it, visibly tiny next to the gold bar. PHASE 3 -- IMPOSSIBLE TO LOSE: On 'Perdre devient presque impossible' the zero line at the bottom glows and the camera pushes in to show that no path comes anywhere near it; the words 'PERTE ~ 0 %' settle in large type. Background: subtle grid with drifting digits.",
+      "sceneStartTime": 34171,
+      "sceneEndTime": 42532,
+      "sceneStartFrame": 1017,
+      "sceneEndFrame": 1284
+    },
+    {
+      "sceneIndex": 6,
+      "audioTranscriptPortion": "Un casino fonctionne exactement comme ça. À la roulette, la banque ne garde que deux virgule sept pour cent de chaque mise. Elle ne devine jamais où tombera la bille. Elle compte sur les millions de tours.",
+      "videoDescription": "PHASE 1 -- THE WHEEL: A huge European roulette wheel seen from above fills roughly 70% of the frame height at center, spinning fast; 37 pockets alternate red and black with a single green pocket marked 0. Felt-green background with a soft vignette and glints of light sweeping. PHASE 2 -- 2,7 %: On 'deux virgule sept pour cent' the green 0 pocket glows, and a large label '1 / 37 = 2,7 %' appears at the right with a short line pointing to it. PHASE 3 -- NO GUESSING: On 'ne devine jamais' a white ball orbits the rim fast and bounces unpredictably into random pockets. PHASE 4 -- MILLIONS: On 'millions de tours' a spin counter at top races through millions while a pile of casino chips at the left side of the screen steadily grows taller.",
+      "sceneStartTime": 43081,
+      "sceneEndTime": 52356,
+      "sceneStartFrame": 1284,
+      "sceneEndFrame": 1579
+    },
+    {
+      "sceneIndex": 7,
+      "audioTranscriptPortion": "La finance quantitative applique cette logique aux marchés. Des ordinateurs fouillent des décennies de prix pour repérer de minuscules régularités. Ils les exploitent ensuite des milliers de fois par jour, en gardant chaque pari petit pour survivre aux séries perdantes.",
+      "videoDescription": "PHASE 1 -- TITLE: 'FINANCE QUANTITATIVE' appears huge at center then compresses upward into a header bar. PHASE 2 -- SCANNING: A long candlestick price chart covering decades scrolls across the full width; a glowing vertical scanner beam sweeps over it and every time it finds a tiny repeating micro-pattern, a small bracket highlights it and copies it upward into a growing row of matching patterns. A '@server rack' sits at the lower left with blinking lights feeding the beam. PHASE 3 -- MANY SMALL BETS: On 'des milliers de fois par jour' a rapid stream of small green and red bet tiles fires from the server toward the right; a counter shows trades per day. On 'chaque pari petit' every tile stays small, and on 'series perdantes' a run of several red tiles in a row passes without shaking a steady upward equity line drawn at the bottom.",
+      "sceneStartTime": 52905,
+      "sceneEndTime": 65219,
+      "sceneStartFrame": 1579,
+      "sceneEndFrame": 1965
+    },
+    {
+      "sceneIndex": 8,
+      "audioTranscriptPortion": "Ces régularités s'effacent dès que d'autres les découvrent, alors la recherche ne s'arrête jamais.",
+      "videoDescription": "PHASE 1 -- FADING EDGE: A glowing highlighted price pattern sits large at center inside a bracket. On 'd'autres les decouvrent' many additional scanner beams converge on it from all sides, and the pattern drains to greyscale and flattens until it disappears. PHASE 2 -- NEVER STOPS: On 'la recherche ne s'arrete jamais' the camera pulls back and a large magnifying lens sweeps right across an endless price chart, uncovering a new faint glowing pattern; a loop arrow orbits the lens continuously. Background: dark grid with drifting numbers.",
+      "sceneStartTime": 65769,
+      "sceneEndTime": 70030,
+      "sceneStartFrame": 1965,
+      "sceneEndFrame": 2109
+    },
+    {
+      "sceneIndex": 9,
+      "audioTranscriptPortion": "Un quant n'essaie donc pas de prédire demain. Il cherche une pièce très légèrement truquée, et il la lance plus souvent que tout le monde.",
+      "videoDescription": "PHASE 1 -- NOT PREDICTING: A large crystal ball at center flickers with a fog of question marks, then drains to greyscale and compresses into a single coin. PHASE 2 -- THE LOADED COIN: The coin grows huge at center, and a tiny glowing counterweight dot appears on one edge -- the coin is very slightly weighted. Caption: 'pas une prediction, un avantage'. PHASE 3 -- FLIP MORE: On 'plus souvent que tout le monde' the camera pulls back to reveal the coin multiplied into a grid of dozens of coins flipping at high speed; a flip counter races and a gold rising line draws across the bottom. Final title in huge type: 'REPETER, PAS PREDIRE'.",
+      "sceneStartTime": 70580,
+      "sceneEndTime": 76189,
+      "sceneStartFrame": 2109,
+      "sceneEndFrame": 2346
+    }
+  ],
+  "required_assets": [
+    {
+      "name": "server rack",
+      "asset-type": "asset",
+      "description": "A data center server rack"
+    }
+  ],
+  "totalFrames": 2346
+}

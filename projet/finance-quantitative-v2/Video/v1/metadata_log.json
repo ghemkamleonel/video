@@ -1,0 +1,49 @@
+{
+  "manifest": {
+    "metadata": {
+      "video_ratio": "16:9",
+      "video_style": "vox",
+      "viewport_width": 1920,
+      "viewport_height": 1080,
+      "totalFrames": 2346,
+      "totalScenes": 10
+    },
+    "Research": null,
+    "Scripts": "Outputs/finance-quantitative-v2/Scripts/script-user-input.md",
+    "Audio": "Outputs/finance-quantitative-v2/Audio/v1/Audio-v1.mp3",
+    "Direction": "Outputs/finance-quantitative-v2/Direction/v1/Direction-v1.json",
+    "Assets": "Outputs/finance-quantitative-v2/Assets/v1/Assets-v1.json",
+    "Design": {
+      "version": 0,
+      "path": null,
+      "current_gen_version": 0,
+      "subagents_completed": []
+    },
+    "Video": "Outputs/finance-quantitative-v2/Video/v1/Video-v1.tsx",
+    "Transcript": "Outputs/finance-quantitative-v2/Transcript/v0/Transcript-v0.json"
+  },
+  "generated": {
+    "asset_type": "Video",
+    "version": 1
+  },
+  "Video": {
+    "Course-Creation/Video/Scene/Scene-Creation-Prompt-Modular": null,
+    "prompt_tag": "production",
+    "type": "claude_cli",
+    "total_scenes": 10,
+    "scene_durations": [
+      213,
+      167,
+      127,
+      240,
+      270,
+      267,
+      295,
+      386,
+      144,
+      237
+    ],
+    "total_duration_frames": 2346,
+    "fps": 30
+  }
+}

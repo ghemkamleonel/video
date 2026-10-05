@@ -1,0 +1,66 @@
+diff --git a/scripts/claude_cli/content_audio/post_process.py b/scripts/claude_cli/content_audio/post_process.py
+index 06c64f9..8e683cb 100644
+--- a/scripts/claude_cli/content_audio/post_process.py
++++ b/scripts/claude_cli/content_audio/post_process.py
+@@ -24,6 +24,8 @@ from scripts.claude_cli.base_post_process import BasePostProcess
+ from scripts.logging_config import set_console_logging
+ from scripts.controllers.utils.decorators.try_catch import try_catch
+ from scripts.utility.elevenlabs_tts import generate_audio_batched as elevenlabs_generate
++from scripts.utility.config import ELEVENLABS_API_KEY
++from scripts.utility import offline_tts
+ from scripts.enums import AssetType
+ from scripts.claude_cli.content_video_direction.scene_timestamp_calculator import match_narration_to_transcript
+ 
+@@ -221,6 +223,13 @@ class PostProcessAudio(BasePostProcess):
+     async def _call_elevenlabs_api(self, text: str, model: str) -> Tuple[bool, Optional[str], Optional[str], int, int, str, int]:
+         audio_path, transcript_path = self._get_audio_paths()
+ 
++        if not ELEVENLABS_API_KEY and offline_tts.is_available():
++            self.logger.info(f"No ELEVENLABS_API_KEY -- using offline TTS: {audio_path}, {transcript_path}")
++            success, error_msg, affected_count, total_count, char_count = offline_tts.generate_audio(
++                text, str(audio_path), str(transcript_path)
++            )
++            return success, str(audio_path) if success else None, str(transcript_path) if success else None, affected_count, total_count, error_msg, char_count
++
+         self.logger.info(f"Audio generation starting with {model}: {audio_path}, {transcript_path}")
+ 
+         success, error_msg, affected_count, total_count, char_count = await elevenlabs_generate(
+diff --git a/scripts/claude_cli/content_video/post_process.py b/scripts/claude_cli/content_video/post_process.py
+index 1a55a3d..919aae7 100644
+--- a/scripts/claude_cli/content_video/post_process.py
++++ b/scripts/claude_cli/content_video/post_process.py
+@@ -46,7 +46,7 @@ def generate_remotion_composition(scenes_data: list) -> str:
+         series_lines.append(f'        </Series.Sequence>')
+     series_sequences = '\n'.join(series_lines)
+ 
+-    tokens = [t.strip() for t in MAPBOX_TOKENS.split(',') if t.strip()]
++    tokens = [t.strip() for t in (MAPBOX_TOKENS or '').split(',') if t.strip()]
+     mapbox_token = random.choice(tokens) if tokens else ""
+ 
+     result = template.replace('{{MAPBOX_TOKEN}}', mapbox_token)
+diff --git a/scripts/claude_cli/content_video/pre_process.py b/scripts/claude_cli/content_video/pre_process.py
+index e8779dd..916da64 100644
+--- a/scripts/claude_cli/content_video/pre_process.py
++++ b/scripts/claude_cli/content_video/pre_process.py
+@@ -47,7 +47,11 @@ class VideoPreProcess(BasePreProcess):
+         self.FPS = 30
+         self.MAX_SCENES_PER_SUBAGENT = 10
+         self.TOKEN_LIMIT = 23_000
+-        self._tiktoken_enc = tiktoken.get_encoding("cl100k_base")
++        try:
++            self._tiktoken_enc = tiktoken.get_encoding("cl100k_base")
++        except Exception:
++            # Encoding download blocked (offline) -- fall back to a ~4 chars/token estimate.
++            self._tiktoken_enc = None
+ 
+     @try_catch
+     def get_audio_transcript(self) -> list:
+@@ -112,6 +116,8 @@ class VideoPreProcess(BasePreProcess):
+ 
+     def _count_tokens(self, text: str) -> int:
+         """Count tokens using tiktoken's cl100k_base encoding."""
++        if self._tiktoken_enc is None:
++            return len(text) // 4 + 1
+         return len(self._tiktoken_enc.encode(text))
+ 
+     def _build_combined_prompt(

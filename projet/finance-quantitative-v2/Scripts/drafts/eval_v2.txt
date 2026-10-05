@@ -1,0 +1,10 @@
+TOTAL: 9.0 / 9.0
+1 Opening + Angle      1.5/1.5  none -- consequence chiffree + contradiction (tort une fois sur deux)
+2 Emotional arc        1.5/1.5  curiosite -> surprise (50,75%) -> comprehension (1M paris) -> recadrage (piece truquee)
+3 Visual translatab.   1.0/1.0  pieces, compteurs, courbes, roulette, flux de prix -- aucun humain
+4 Escalation           1.0/1.0  chaque paragraphe ajoute un cran
+5 Tightness            1.0/1.0  deux exemples max (10 000 / 1 000 000 ; casino)
+6 Audience calibration 1.0/1.0  un seul nom par phrase, concepts introduits avant d'etre nommes
+7 Closer               1.0/1.0  recadre sans resumer
+8 Technical accuracy   0.5/0.5  66% brut 1988-2018 (Zuckerman), citation 50,75% (Mercer), roulette europeenne 1/37 = 2,7%, P(perte|10k)~6,7%
+9 Moat                 0.5/0.5  before/mechanism/after presents

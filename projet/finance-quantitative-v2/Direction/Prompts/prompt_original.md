@@ -1,0 +1,48 @@
+<video_id>finance-quantitative</video_id>
+
+working_directory: /home/user/outscal/video-generator/prompts/orchestrator/direction. You will read all required references from this root directory.
+
+<input>
+<uploaded_assets>[]</uploaded_assets>
+<video_ratio>16:9</video_ratio>
+<viewport_width>1920</viewport_width>
+<viewport_height>1080</viewport_height>
+<art_style>{
+  "scene_guidelines": {
+    "alignment": "Strict center-axis alignment."
+  },
+  "audio_synchronization": {
+    "type": "Hard Sync",
+    "description": "Visual changes happen on the exact frame the syllable is spoken. If the narrator lists three items, the visual appears instantly on the first consonant of each item.",
+    "effect": "Creates a rhythmic, percussive visual style."
+  },
+  "camera_behavior": {
+    "type": "2D plane with Z-depth",
+    "moves": "Camera moves physically backward (Z-axis) to create room for new elements",
+    "parallax": "The foreground moves faster than the background during pans",
+    "framing": "Always perfectly centered symmetry"
+  },
+  "morph_logic": {
+    "rule": "Objects do not just vanish; they compress and become the building blocks of the next object/scene."
+  },
+  "effects": {
+    "emphasis_3d_tilt": "Elements tilt slightly in 3D perspective (rotateX/rotateY) when narration references them",
+    "camera_zoom": "Camera pulls back on Z-axis to reveal new elements, or pushes in to focus on a single element",
+    "blur": "Background elements blur to isolate the focal point during key moments",
+    "desaturation": "Elements drain to greyscale to signal failure, rejection, or obsolescence"
+  }
+}</art_style>
+<script>Entre mille neuf cent quatre-vingt-huit et deux mille dix-huit, un fonds d'investissement a gagné en moyenne soixante-six pour cent par an, avant frais. Ses fondateurs n'étaient pas des traders. C'étaient des mathématiciens, et ils se trompaient presque une fois sur deux.
+
+Ce fonds s'appelle Medallion. Il a été créé par le mathématicien Jim Simons. L'un de ses dirigeants a résumé leur secret en une phrase : nous avons raison cinquante virgule soixante-quinze pour cent du temps. C'est à peine mieux qu'une pièce lancée en l'air.
+
+Sur un seul pari, cet avantage est invisible. Misez un euro dix mille fois, et vous gagnez en moyenne cent cinquante euros, avec encore une chance sur quinze de perdre. Misez un million de fois, et le gain moyen grimpe à quinze mille euros. Les écarts dus au hasard, eux, restent autour de mille euros. Perdre devient presque impossible.
+
+Un casino fonctionne exactement comme ça. À la roulette, la banque ne garde que deux virgule sept pour cent de chaque mise. Elle ne devine jamais où tombera la bille. Elle compte sur les millions de tours.
+
+La finance quantitative applique cette logique aux marchés. Des ordinateurs fouillent des décennies de prix pour repérer de minuscules régularités. Ils les exploitent ensuite des milliers de fois par jour, en gardant chaque pari petit pour survivre aux séries perdantes. Ces régularités s'effacent dès que d'autres les découvrent, alors la recherche ne s'arrête jamais.
+
+Un quant n'essaie donc pas de prédire demain. Il cherche une pièce très légèrement truquée, et il la lance plus souvent que tout le monde.</script>
+
+</input>
+| CURRENT DATE: 05/10/2026

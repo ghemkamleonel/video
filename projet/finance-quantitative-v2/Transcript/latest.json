@@ -1,0 +1,1477 @@
+[
+  {
+    "word": "Entre",
+    "start_ms": 0,
+    "end_ms": 271
+  },
+  {
+    "word": "mille",
+    "start_ms": 272,
+    "end_ms": 543
+  },
+  {
+    "word": "neuf",
+    "start_ms": 544,
+    "end_ms": 770
+  },
+  {
+    "word": "cent",
+    "start_ms": 771,
+    "end_ms": 997
+  },
+  {
+    "word": "quatre-vingt-huit",
+    "start_ms": 998,
+    "end_ms": 1815
+  },
+  {
+    "word": "et",
+    "start_ms": 1816,
+    "end_ms": 1951
+  },
+  {
+    "word": "deux",
+    "start_ms": 1952,
+    "end_ms": 2178
+  },
+  {
+    "word": "mille",
+    "start_ms": 2179,
+    "end_ms": 2450
+  },
+  {
+    "word": "dix-huit",
+    "start_ms": 2451,
+    "end_ms": 2859
+  },
+  {
+    "word": ",",
+    "start_ms": 2860,
+    "end_ms": 2861
+  },
+  {
+    "word": "un",
+    "start_ms": 2860,
+    "end_ms": 2995
+  },
+  {
+    "word": "fonds",
+    "start_ms": 2996,
+    "end_ms": 3267
+  },
+  {
+    "word": "d'investissement",
+    "start_ms": 3268,
+    "end_ms": 4039
+  },
+  {
+    "word": "a",
+    "start_ms": 4040,
+    "end_ms": 4130
+  },
+  {
+    "word": "gagné",
+    "start_ms": 4131,
+    "end_ms": 4402
+  },
+  {
+    "word": "en",
+    "start_ms": 4403,
+    "end_ms": 4538
+  },
+  {
+    "word": "moyenne",
+    "start_ms": 4539,
+    "end_ms": 4902
+  },
+  {
+    "word": "soixante-six",
+    "start_ms": 4903,
+    "end_ms": 5492
+  },
+  {
+    "word": "pour",
+    "start_ms": 5493,
+    "end_ms": 5719
+  },
+  {
+    "word": "cent",
+    "start_ms": 5720,
+    "end_ms": 5946
+  },
+  {
+    "word": "par",
+    "start_ms": 5947,
+    "end_ms": 6127
+  },
+  {
+    "word": "an",
+    "start_ms": 6128,
+    "end_ms": 6264
+  },
+  {
+    "word": ",",
+    "start_ms": 6265,
+    "end_ms": 6266
+  },
+  {
+    "word": "avant",
+    "start_ms": 6265,
+    "end_ms": 6536
+  },
+  {
+    "word": "frais",
+    "start_ms": 6537,
+    "end_ms": 6808
+  },
+  {
+    "word": ".",
+    "start_ms": 6809,
+    "end_ms": 6810
+  },
+  {
+    "word": "Ses",
+    "start_ms": 7360,
+    "end_ms": 7504
+  },
+  {
+    "word": "fondateurs",
+    "start_ms": 7505,
+    "end_ms": 7904
+  },
+  {
+    "word": "n'étaient",
+    "start_ms": 7905,
+    "end_ms": 8268
+  },
+  {
+    "word": "pas",
+    "start_ms": 8269,
+    "end_ms": 8413
+  },
+  {
+    "word": "des",
+    "start_ms": 8414,
+    "end_ms": 8559
+  },
+  {
+    "word": "traders",
+    "start_ms": 8560,
+    "end_ms": 8850
+  },
+  {
+    "word": ".",
+    "start_ms": 8851,
+    "end_ms": 8852
+  },
+  {
+    "word": "C'étaient",
+    "start_ms": 9131,
+    "end_ms": 9558
+  },
+  {
+    "word": "des",
+    "start_ms": 9559,
+    "end_ms": 9729
+  },
+  {
+    "word": "mathématiciens",
+    "start_ms": 9730,
+    "end_ms": 10372
+  },
+  {
+    "word": ",",
+    "start_ms": 10373,
+    "end_ms": 10374
+  },
+  {
+    "word": "et",
+    "start_ms": 10373,
+    "end_ms": 10501
+  },
+  {
+    "word": "ils",
+    "start_ms": 10502,
+    "end_ms": 10672
+  },
+  {
+    "word": "se",
+    "start_ms": 10673,
+    "end_ms": 10801
+  },
+  {
+    "word": "trompaient",
+    "start_ms": 10802,
+    "end_ms": 11272
+  },
+  {
+    "word": "presque",
+    "start_ms": 11273,
+    "end_ms": 11615
+  },
+  {
+    "word": "une",
+    "start_ms": 11616,
+    "end_ms": 11787
+  },
+  {
+    "word": "fois",
+    "start_ms": 11788,
+    "end_ms": 12001
+  },
+  {
+    "word": "sur",
+    "start_ms": 12002,
+    "end_ms": 12172
+  },
+  {
+    "word": "deux",
+    "start_ms": 12173,
+    "end_ms": 12386
+  },
+  {
+    "word": ".",
+    "start_ms": 12387,
+    "end_ms": 12388
+  },
+  {
+    "word": "Ce",
+    "start_ms": 12938,
+    "end_ms": 13059
+  },
+  {
+    "word": "fonds",
+    "start_ms": 13060,
+    "end_ms": 13303
+  },
+  {
+    "word": "s'appelle",
+    "start_ms": 13304,
+    "end_ms": 13710
+  },
+  {
+    "word": "Medallion",
+    "start_ms": 13711,
+    "end_ms": 14116
+  },
+  {
+    "word": ".",
+    "start_ms": 14117,
+    "end_ms": 14118
+  },
+  {
+    "word": "Il",
+    "start_ms": 14398,
+    "end_ms": 14542
+  },
+  {
+    "word": "a",
+    "start_ms": 14543,
+    "end_ms": 14638
+  },
+  {
+    "word": "été",
+    "start_ms": 14639,
+    "end_ms": 14832
+  },
+  {
+    "word": "créé",
+    "start_ms": 14833,
+    "end_ms": 15074
+  },
+  {
+    "word": "par",
+    "start_ms": 15075,
+    "end_ms": 15268
+  },
+  {
+    "word": "le",
+    "start_ms": 15269,
+    "end_ms": 15413
+  },
+  {
+    "word": "mathématicien",
+    "start_ms": 15414,
+    "end_ms": 16090
+  },
+  {
+    "word": "Jim",
+    "start_ms": 16091,
+    "end_ms": 16284
+  },
+  {
+    "word": "Simons",
+    "start_ms": 16285,
+    "end_ms": 16623
+  },
+  {
+    "word": ".",
+    "start_ms": 16624,
+    "end_ms": 16625
+  },
+  {
+    "word": "L'un",
+    "start_ms": 17174,
+    "end_ms": 17391
+  },
+  {
+    "word": "de",
+    "start_ms": 17392,
+    "end_ms": 17522
+  },
+  {
+    "word": "ses",
+    "start_ms": 17523,
+    "end_ms": 17697
+  },
+  {
+    "word": "dirigeants",
+    "start_ms": 17698,
+    "end_ms": 18178
+  },
+  {
+    "word": "a",
+    "start_ms": 18179,
+    "end_ms": 18266
+  },
+  {
+    "word": "résumé",
+    "start_ms": 18267,
+    "end_ms": 18572
+  },
+  {
+    "word": "leur",
+    "start_ms": 18573,
+    "end_ms": 18790
+  },
+  {
+    "word": "secret",
+    "start_ms": 18791,
+    "end_ms": 19097
+  },
+  {
+    "word": "en",
+    "start_ms": 19098,
+    "end_ms": 19228
+  },
+  {
+    "word": "une",
+    "start_ms": 19229,
+    "end_ms": 19403
+  },
+  {
+    "word": "phrase",
+    "start_ms": 19404,
+    "end_ms": 19709
+  },
+  {
+    "word": ":",
+    "start_ms": 19710,
+    "end_ms": 19711
+  },
+  {
+    "word": "nous",
+    "start_ms": 19710,
+    "end_ms": 19927
+  },
+  {
+    "word": "avons",
+    "start_ms": 19928,
+    "end_ms": 20190
+  },
+  {
+    "word": "raison",
+    "start_ms": 20191,
+    "end_ms": 20496
+  },
+  {
+    "word": "cinquante",
+    "start_ms": 20497,
+    "end_ms": 20933
+  },
+  {
+    "word": "virgule",
+    "start_ms": 20934,
+    "end_ms": 21283
+  },
+  {
+    "word": "soixante-quinze",
+    "start_ms": 21284,
+    "end_ms": 21983
+  },
+  {
+    "word": "pour",
+    "start_ms": 21984,
+    "end_ms": 22201
+  },
+  {
+    "word": "cent",
+    "start_ms": 22202,
+    "end_ms": 22420
+  },
+  {
+    "word": "du",
+    "start_ms": 22421,
+    "end_ms": 22551
+  },
+  {
+    "word": "temps",
+    "start_ms": 22552,
+    "end_ms": 22814
+  },
+  {
+    "word": ".",
+    "start_ms": 22815,
+    "end_ms": 22816
+  },
+  {
+    "word": "C'est",
+    "start_ms": 23095,
+    "end_ms": 23304
+  },
+  {
+    "word": "à",
+    "start_ms": 23305,
+    "end_ms": 23374
+  },
+  {
+    "word": "peine",
+    "start_ms": 23375,
+    "end_ms": 23585
+  },
+  {
+    "word": "mieux",
+    "start_ms": 23586,
+    "end_ms": 23796
+  },
+  {
+    "word": "qu'une",
+    "start_ms": 23797,
+    "end_ms": 24042
+  },
+  {
+    "word": "pièce",
+    "start_ms": 24043,
+    "end_ms": 24253
+  },
+  {
+    "word": "lancée",
+    "start_ms": 24254,
+    "end_ms": 24498
+  },
+  {
+    "word": "en",
+    "start_ms": 24499,
+    "end_ms": 24604
+  },
+  {
+    "word": "l'air",
+    "start_ms": 24605,
+    "end_ms": 24815
+  },
+  {
+    "word": ".",
+    "start_ms": 24816,
+    "end_ms": 24817
+  },
+  {
+    "word": "Sur",
+    "start_ms": 25366,
+    "end_ms": 25591
+  },
+  {
+    "word": "un",
+    "start_ms": 25592,
+    "end_ms": 25761
+  },
+  {
+    "word": "seul",
+    "start_ms": 25762,
+    "end_ms": 26044
+  },
+  {
+    "word": "pari",
+    "start_ms": 26045,
+    "end_ms": 26327
+  },
+  {
+    "word": ",",
+    "start_ms": 26328,
+    "end_ms": 26329
+  },
+  {
+    "word": "cet",
+    "start_ms": 26328,
+    "end_ms": 26553
+  },
+  {
+    "word": "avantage",
+    "start_ms": 26554,
+    "end_ms": 27062
+  },
+  {
+    "word": "est",
+    "start_ms": 27063,
+    "end_ms": 27289
+  },
+  {
+    "word": "invisible",
+    "start_ms": 27290,
+    "end_ms": 27854
+  },
+  {
+    "word": ".",
+    "start_ms": 27855,
+    "end_ms": 27856
+  },
+  {
+    "word": "Misez",
+    "start_ms": 28136,
+    "end_ms": 28409
+  },
+  {
+    "word": "un",
+    "start_ms": 28410,
+    "end_ms": 28546
+  },
+  {
+    "word": "euro",
+    "start_ms": 28547,
+    "end_ms": 28774
+  },
+  {
+    "word": "dix",
+    "start_ms": 28775,
+    "end_ms": 28957
+  },
+  {
+    "word": "mille",
+    "start_ms": 28958,
+    "end_ms": 29232
+  },
+  {
+    "word": "fois",
+    "start_ms": 29233,
+    "end_ms": 29460
+  },
+  {
+    "word": ",",
+    "start_ms": 29461,
+    "end_ms": 29462
+  },
+  {
+    "word": "et",
+    "start_ms": 29461,
+    "end_ms": 29597
+  },
+  {
+    "word": "vous",
+    "start_ms": 29598,
+    "end_ms": 29826
+  },
+  {
+    "word": "gagnez",
+    "start_ms": 29827,
+    "end_ms": 30146
+  },
+  {
+    "word": "en",
+    "start_ms": 30147,
+    "end_ms": 30283
+  },
+  {
+    "word": "moyenne",
+    "start_ms": 30284,
+    "end_ms": 30648
+  },
+  {
+    "word": "cent",
+    "start_ms": 30649,
+    "end_ms": 30877
+  },
+  {
+    "word": "cinquante",
+    "start_ms": 30878,
+    "end_ms": 31334
+  },
+  {
+    "word": "euros",
+    "start_ms": 31335,
+    "end_ms": 31608
+  },
+  {
+    "word": ",",
+    "start_ms": 31609,
+    "end_ms": 31610
+  },
+  {
+    "word": "avec",
+    "start_ms": 31609,
+    "end_ms": 31837
+  },
+  {
+    "word": "encore",
+    "start_ms": 31838,
+    "end_ms": 32157
+  },
+  {
+    "word": "une",
+    "start_ms": 32158,
+    "end_ms": 32340
+  },
+  {
+    "word": "chance",
+    "start_ms": 32341,
+    "end_ms": 32660
+  },
+  {
+    "word": "sur",
+    "start_ms": 32661,
+    "end_ms": 32842
+  },
+  {
+    "word": "quinze",
+    "start_ms": 32843,
+    "end_ms": 33162
+  },
+  {
+    "word": "de",
+    "start_ms": 33163,
+    "end_ms": 33300
+  },
+  {
+    "word": "perdre",
+    "start_ms": 33301,
+    "end_ms": 33620
+  },
+  {
+    "word": ".",
+    "start_ms": 33621,
+    "end_ms": 33622
+  },
+  {
+    "word": "Misez",
+    "start_ms": 34171,
+    "end_ms": 34436
+  },
+  {
+    "word": "un",
+    "start_ms": 34437,
+    "end_ms": 34570
+  },
+  {
+    "word": "million",
+    "start_ms": 34571,
+    "end_ms": 34925
+  },
+  {
+    "word": "de",
+    "start_ms": 34926,
+    "end_ms": 35059
+  },
+  {
+    "word": "fois",
+    "start_ms": 35060,
+    "end_ms": 35281
+  },
+  {
+    "word": ",",
+    "start_ms": 35282,
+    "end_ms": 35283
+  },
+  {
+    "word": "et",
+    "start_ms": 35282,
+    "end_ms": 35414
+  },
+  {
+    "word": "le",
+    "start_ms": 35415,
+    "end_ms": 35548
+  },
+  {
+    "word": "gain",
+    "start_ms": 35549,
+    "end_ms": 35770
+  },
+  {
+    "word": "moyen",
+    "start_ms": 35771,
+    "end_ms": 36037
+  },
+  {
+    "word": "grimpe",
+    "start_ms": 36038,
+    "end_ms": 36348
+  },
+  {
+    "word": "à",
+    "start_ms": 36349,
+    "end_ms": 36437
+  },
+  {
+    "word": "quinze",
+    "start_ms": 36438,
+    "end_ms": 36748
+  },
+  {
+    "word": "mille",
+    "start_ms": 36749,
+    "end_ms": 37015
+  },
+  {
+    "word": "euros",
+    "start_ms": 37016,
+    "end_ms": 37281
+  },
+  {
+    "word": ".",
+    "start_ms": 37282,
+    "end_ms": 37283
+  },
+  {
+    "word": "Les",
+    "start_ms": 37563,
+    "end_ms": 37756
+  },
+  {
+    "word": "écarts",
+    "start_ms": 37757,
+    "end_ms": 38097
+  },
+  {
+    "word": "dus",
+    "start_ms": 38098,
+    "end_ms": 38292
+  },
+  {
+    "word": "au",
+    "start_ms": 38293,
+    "end_ms": 38438
+  },
+  {
+    "word": "hasard",
+    "start_ms": 38439,
+    "end_ms": 38779
+  },
+  {
+    "word": ",",
+    "start_ms": 38780,
+    "end_ms": 38781
+  },
+  {
+    "word": "eux",
+    "start_ms": 38780,
+    "end_ms": 38974
+  },
+  {
+    "word": ",",
+    "start_ms": 38975,
+    "end_ms": 38976
+  },
+  {
+    "word": "restent",
+    "start_ms": 38975,
+    "end_ms": 39363
+  },
+  {
+    "word": "autour",
+    "start_ms": 39364,
+    "end_ms": 39704
+  },
+  {
+    "word": "de",
+    "start_ms": 39705,
+    "end_ms": 39850
+  },
+  {
+    "word": "mille",
+    "start_ms": 39851,
+    "end_ms": 40142
+  },
+  {
+    "word": "euros",
+    "start_ms": 40143,
+    "end_ms": 40435
+  },
+  {
+    "word": ".",
+    "start_ms": 40436,
+    "end_ms": 40437
+  },
+  {
+    "word": "Perdre",
+    "start_ms": 40716,
+    "end_ms": 41088
+  },
+  {
+    "word": "devient",
+    "start_ms": 41089,
+    "end_ms": 41515
+  },
+  {
+    "word": "presque",
+    "start_ms": 41516,
+    "end_ms": 41942
+  },
+  {
+    "word": "impossible",
+    "start_ms": 41943,
+    "end_ms": 42530
+  },
+  {
+    "word": ".",
+    "start_ms": 42531,
+    "end_ms": 42532
+  },
+  {
+    "word": "Un",
+    "start_ms": 43081,
+    "end_ms": 43223
+  },
+  {
+    "word": "casino",
+    "start_ms": 43224,
+    "end_ms": 43558
+  },
+  {
+    "word": "fonctionne",
+    "start_ms": 43559,
+    "end_ms": 44083
+  },
+  {
+    "word": "exactement",
+    "start_ms": 44084,
+    "end_ms": 44609
+  },
+  {
+    "word": "comme",
+    "start_ms": 44610,
+    "end_ms": 44896
+  },
+  {
+    "word": "ça",
+    "start_ms": 44897,
+    "end_ms": 45040
+  },
+  {
+    "word": ".",
+    "start_ms": 45041,
+    "end_ms": 45042
+  },
+  {
+    "word": "À",
+    "start_ms": 45321,
+    "end_ms": 45405
+  },
+  {
+    "word": "la",
+    "start_ms": 45406,
+    "end_ms": 45534
+  },
+  {
+    "word": "roulette",
+    "start_ms": 45535,
+    "end_ms": 45919
+  },
+  {
+    "word": ",",
+    "start_ms": 45920,
+    "end_ms": 45921
+  },
+  {
+    "word": "la",
+    "start_ms": 45920,
+    "end_ms": 46047
+  },
+  {
+    "word": "banque",
+    "start_ms": 46048,
+    "end_ms": 46347
+  },
+  {
+    "word": "ne",
+    "start_ms": 46348,
+    "end_ms": 46475
+  },
+  {
+    "word": "garde",
+    "start_ms": 46476,
+    "end_ms": 46732
+  },
+  {
+    "word": "que",
+    "start_ms": 46733,
+    "end_ms": 46904
+  },
+  {
+    "word": "deux",
+    "start_ms": 46905,
+    "end_ms": 47118
+  },
+  {
+    "word": "virgule",
+    "start_ms": 47119,
+    "end_ms": 47460
+  },
+  {
+    "word": "sept",
+    "start_ms": 47461,
+    "end_ms": 47674
+  },
+  {
+    "word": "pour",
+    "start_ms": 47675,
+    "end_ms": 47888
+  },
+  {
+    "word": "cent",
+    "start_ms": 47889,
+    "end_ms": 48102
+  },
+  {
+    "word": "de",
+    "start_ms": 48103,
+    "end_ms": 48231
+  },
+  {
+    "word": "chaque",
+    "start_ms": 48232,
+    "end_ms": 48530
+  },
+  {
+    "word": "mise",
+    "start_ms": 48531,
+    "end_ms": 48745
+  },
+  {
+    "word": ".",
+    "start_ms": 48746,
+    "end_ms": 48747
+  },
+  {
+    "word": "Elle",
+    "start_ms": 49026,
+    "end_ms": 49229
+  },
+  {
+    "word": "ne",
+    "start_ms": 49230,
+    "end_ms": 49352
+  },
+  {
+    "word": "devine",
+    "start_ms": 49353,
+    "end_ms": 49639
+  },
+  {
+    "word": "jamais",
+    "start_ms": 49640,
+    "end_ms": 49925
+  },
+  {
+    "word": "où",
+    "start_ms": 49926,
+    "end_ms": 50048
+  },
+  {
+    "word": "tombera",
+    "start_ms": 50049,
+    "end_ms": 50376
+  },
+  {
+    "word": "la",
+    "start_ms": 50377,
+    "end_ms": 50499
+  },
+  {
+    "word": "bille",
+    "start_ms": 50500,
+    "end_ms": 50745
+  },
+  {
+    "word": ".",
+    "start_ms": 50746,
+    "end_ms": 50747
+  },
+  {
+    "word": "Elle",
+    "start_ms": 51026,
+    "end_ms": 51199
+  },
+  {
+    "word": "compte",
+    "start_ms": 51200,
+    "end_ms": 51444
+  },
+  {
+    "word": "sur",
+    "start_ms": 51445,
+    "end_ms": 51584
+  },
+  {
+    "word": "les",
+    "start_ms": 51585,
+    "end_ms": 51724
+  },
+  {
+    "word": "millions",
+    "start_ms": 51725,
+    "end_ms": 52039
+  },
+  {
+    "word": "de",
+    "start_ms": 52040,
+    "end_ms": 52144
+  },
+  {
+    "word": "tours",
+    "start_ms": 52145,
+    "end_ms": 52354
+  },
+  {
+    "word": ".",
+    "start_ms": 52355,
+    "end_ms": 52356
+  },
+  {
+    "word": "La",
+    "start_ms": 52905,
+    "end_ms": 53043
+  },
+  {
+    "word": "finance",
+    "start_ms": 53044,
+    "end_ms": 53417
+  },
+  {
+    "word": "quantitative",
+    "start_ms": 53418,
+    "end_ms": 54023
+  },
+  {
+    "word": "applique",
+    "start_ms": 54024,
+    "end_ms": 54443
+  },
+  {
+    "word": "cette",
+    "start_ms": 54444,
+    "end_ms": 54723
+  },
+  {
+    "word": "logique",
+    "start_ms": 54724,
+    "end_ms": 55096
+  },
+  {
+    "word": "aux",
+    "start_ms": 55097,
+    "end_ms": 55282
+  },
+  {
+    "word": "marchés",
+    "start_ms": 55283,
+    "end_ms": 55656
+  },
+  {
+    "word": ".",
+    "start_ms": 55657,
+    "end_ms": 55658
+  },
+  {
+    "word": "Des",
+    "start_ms": 55937,
+    "end_ms": 56109
+  },
+  {
+    "word": "ordinateurs",
+    "start_ms": 56110,
+    "end_ms": 56629
+  },
+  {
+    "word": "fouillent",
+    "start_ms": 56630,
+    "end_ms": 57062
+  },
+  {
+    "word": "des",
+    "start_ms": 57063,
+    "end_ms": 57235
+  },
+  {
+    "word": "décennies",
+    "start_ms": 57236,
+    "end_ms": 57668
+  },
+  {
+    "word": "de",
+    "start_ms": 57669,
+    "end_ms": 57798
+  },
+  {
+    "word": "prix",
+    "start_ms": 57799,
+    "end_ms": 58015
+  },
+  {
+    "word": "pour",
+    "start_ms": 58016,
+    "end_ms": 58232
+  },
+  {
+    "word": "repérer",
+    "start_ms": 58233,
+    "end_ms": 58578
+  },
+  {
+    "word": "de",
+    "start_ms": 58579,
+    "end_ms": 58708
+  },
+  {
+    "word": "minuscules",
+    "start_ms": 58709,
+    "end_ms": 59185
+  },
+  {
+    "word": "régularités",
+    "start_ms": 59186,
+    "end_ms": 59704
+  },
+  {
+    "word": ".",
+    "start_ms": 59705,
+    "end_ms": 59706
+  },
+  {
+    "word": "Ils",
+    "start_ms": 59986,
+    "end_ms": 60157
+  },
+  {
+    "word": "les",
+    "start_ms": 60158,
+    "end_ms": 60330
+  },
+  {
+    "word": "exploitent",
+    "start_ms": 60331,
+    "end_ms": 60806
+  },
+  {
+    "word": "ensuite",
+    "start_ms": 60807,
+    "end_ms": 61152
+  },
+  {
+    "word": "des",
+    "start_ms": 61153,
+    "end_ms": 61325
+  },
+  {
+    "word": "milliers",
+    "start_ms": 61326,
+    "end_ms": 61714
+  },
+  {
+    "word": "de",
+    "start_ms": 61715,
+    "end_ms": 61844
+  },
+  {
+    "word": "fois",
+    "start_ms": 61845,
+    "end_ms": 62060
+  },
+  {
+    "word": "par",
+    "start_ms": 62061,
+    "end_ms": 62233
+  },
+  {
+    "word": "jour",
+    "start_ms": 62234,
+    "end_ms": 62450
+  },
+  {
+    "word": ",",
+    "start_ms": 62451,
+    "end_ms": 62452
+  },
+  {
+    "word": "en",
+    "start_ms": 62451,
+    "end_ms": 62579
+  },
+  {
+    "word": "gardant",
+    "start_ms": 62580,
+    "end_ms": 62925
+  },
+  {
+    "word": "chaque",
+    "start_ms": 62926,
+    "end_ms": 63228
+  },
+  {
+    "word": "pari",
+    "start_ms": 63229,
+    "end_ms": 63444
+  },
+  {
+    "word": "petit",
+    "start_ms": 63445,
+    "end_ms": 63704
+  },
+  {
+    "word": "pour",
+    "start_ms": 63705,
+    "end_ms": 63920
+  },
+  {
+    "word": "survivre",
+    "start_ms": 63921,
+    "end_ms": 64309
+  },
+  {
+    "word": "aux",
+    "start_ms": 64310,
+    "end_ms": 64482
+  },
+  {
+    "word": "séries",
+    "start_ms": 64483,
+    "end_ms": 64785
+  },
+  {
+    "word": "perdantes",
+    "start_ms": 64786,
+    "end_ms": 65217
+  },
+  {
+    "word": ".",
+    "start_ms": 65218,
+    "end_ms": 65219
+  },
+  {
+    "word": "Ces",
+    "start_ms": 65769,
+    "end_ms": 65943
+  },
+  {
+    "word": "régularités",
+    "start_ms": 65944,
+    "end_ms": 66470
+  },
+  {
+    "word": "s'effacent",
+    "start_ms": 66471,
+    "end_ms": 66954
+  },
+  {
+    "word": "dès",
+    "start_ms": 66955,
+    "end_ms": 67129
+  },
+  {
+    "word": "que",
+    "start_ms": 67130,
+    "end_ms": 67305
+  },
+  {
+    "word": "d'autres",
+    "start_ms": 67306,
+    "end_ms": 67700
+  },
+  {
+    "word": "les",
+    "start_ms": 67701,
+    "end_ms": 67876
+  },
+  {
+    "word": "découvrent",
+    "start_ms": 67877,
+    "end_ms": 68359
+  },
+  {
+    "word": ",",
+    "start_ms": 68360,
+    "end_ms": 68361
+  },
+  {
+    "word": "alors",
+    "start_ms": 68360,
+    "end_ms": 68623
+  },
+  {
+    "word": "la",
+    "start_ms": 68624,
+    "end_ms": 68755
+  },
+  {
+    "word": "recherche",
+    "start_ms": 68756,
+    "end_ms": 69194
+  },
+  {
+    "word": "ne",
+    "start_ms": 69195,
+    "end_ms": 69326
+  },
+  {
+    "word": "s'arrête",
+    "start_ms": 69327,
+    "end_ms": 69721
+  },
+  {
+    "word": "jamais",
+    "start_ms": 69722,
+    "end_ms": 70028
+  },
+  {
+    "word": ".",
+    "start_ms": 70029,
+    "end_ms": 70030
+  },
+  {
+    "word": "Un",
+    "start_ms": 70580,
+    "end_ms": 70689
+  },
+  {
+    "word": "quant",
+    "start_ms": 70690,
+    "end_ms": 70909
+  },
+  {
+    "word": "n'essaie",
+    "start_ms": 70910,
+    "end_ms": 71240
+  },
+  {
+    "word": "donc",
+    "start_ms": 71241,
+    "end_ms": 71423
+  },
+  {
+    "word": "pas",
+    "start_ms": 71424,
+    "end_ms": 71570
+  },
+  {
+    "word": "de",
+    "start_ms": 71571,
+    "end_ms": 71681
+  },
+  {
+    "word": "prédire",
+    "start_ms": 71682,
+    "end_ms": 71974
+  },
+  {
+    "word": "demain",
+    "start_ms": 71975,
+    "end_ms": 72232
+  },
+  {
+    "word": ".",
+    "start_ms": 72233,
+    "end_ms": 72234
+  },
+  {
+    "word": "Il",
+    "start_ms": 72513,
+    "end_ms": 72633
+  },
+  {
+    "word": "cherche",
+    "start_ms": 72634,
+    "end_ms": 72956
+  },
+  {
+    "word": "une",
+    "start_ms": 72957,
+    "end_ms": 73117
+  },
+  {
+    "word": "pièce",
+    "start_ms": 73118,
+    "end_ms": 73360
+  },
+  {
+    "word": "très",
+    "start_ms": 73361,
+    "end_ms": 73562
+  },
+  {
+    "word": "légèrement",
+    "start_ms": 73563,
+    "end_ms": 74006
+  },
+  {
+    "word": "truquée",
+    "start_ms": 74007,
+    "end_ms": 74329
+  },
+  {
+    "word": ",",
+    "start_ms": 74330,
+    "end_ms": 74331
+  },
+  {
+    "word": "et",
+    "start_ms": 74330,
+    "end_ms": 74450
+  },
+  {
+    "word": "il",
+    "start_ms": 74451,
+    "end_ms": 74572
+  },
+  {
+    "word": "la",
+    "start_ms": 74573,
+    "end_ms": 74693
+  },
+  {
+    "word": "lance",
+    "start_ms": 74694,
+    "end_ms": 74935
+  },
+  {
+    "word": "plus",
+    "start_ms": 74936,
+    "end_ms": 75137
+  },
+  {
+    "word": "souvent",
+    "start_ms": 75138,
+    "end_ms": 75460
+  },
+  {
+    "word": "que",
+    "start_ms": 75461,
+    "end_ms": 75622
+  },
+  {
+    "word": "tout",
+    "start_ms": 75623,
+    "end_ms": 75824
+  },
+  {
+    "word": "le",
+    "start_ms": 75825,
+    "end_ms": 75945
+  },
+  {
+    "word": "monde",
+    "start_ms": 75946,
+    "end_ms": 76187
+  },
+  {
+    "word": ".",
+    "start_ms": 76188,
+    "end_ms": 76189
+  }
+]
