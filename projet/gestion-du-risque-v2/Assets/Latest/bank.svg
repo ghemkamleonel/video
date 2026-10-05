@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+<polygon points="120,14 224,72 16,72" fill="#F2C94C" stroke="#121212" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="120" cy="50" r="12" fill="#121212"/><text x="120" y="56" font-family="Arial" font-weight="bold" font-size="17" fill="#F2C94C" text-anchor="middle">$</text>
+<rect x="18" y="72" width="204" height="16" fill="#FFFFFF" stroke="#121212" stroke-width="5"/>
+<rect x="38" y="92" width="20" height="104" fill="#E5E5E5" stroke="#121212" stroke-width="4"/><rect x="33" y="86" width="30" height="10" fill="#FFFFFF" stroke="#121212" stroke-width="4"/><rect x="74" y="92" width="20" height="104" fill="#E5E5E5" stroke="#121212" stroke-width="4"/><rect x="69" y="86" width="30" height="10" fill="#FFFFFF" stroke="#121212" stroke-width="4"/><rect x="110" y="92" width="20" height="104" fill="#E5E5E5" stroke="#121212" stroke-width="4"/><rect x="105" y="86" width="30" height="10" fill="#FFFFFF" stroke="#121212" stroke-width="4"/><rect x="146" y="92" width="20" height="104" fill="#E5E5E5" stroke="#121212" stroke-width="4"/><rect x="141" y="86" width="30" height="10" fill="#FFFFFF" stroke="#121212" stroke-width="4"/><rect x="182" y="92" width="20" height="104" fill="#E5E5E5" stroke="#121212" stroke-width="4"/><rect x="177" y="86" width="30" height="10" fill="#FFFFFF" stroke="#121212" stroke-width="4"/>
+<rect x="12" y="196" width="216" height="14" fill="#FFFFFF" stroke="#121212" stroke-width="5"/>
+<rect x="2" y="210" width="236" height="16" fill="#E5E5E5" stroke="#121212" stroke-width="5"/>
+</svg>

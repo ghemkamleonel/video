@@ -1,0 +1,11 @@
+TOTAL: 5.25 / 9.0  (independent critic agent, OVG rubric)
+1 Opening + Angle 0.75 -- over-explains before tension (hook lands in sentence 3)
+2 Emotional arc 1.0 -- closer summarises
+3 Visual translatability 1.0
+4 Escalation 0.75 -- loss-asymmetry block floats free of the coin game
+5 Tightness 0.5 -- 'smart people fail' and 'bet size' each stated twice
+6 Audience 0.25 -- 33-word sentence; cap / capital / default / LTCM / Fed used before introduced
+7 Closer 0.5 -- summary with 'donc', not-X-but-Y template, 2-word fragment
+8 Accuracy 0.25 -- 'une perte se creuse plus vite' misleading; LTCM timeline imprecise (losses began before the Russian default)
+9 Moat 0.25 -- Kelly mechanism asserted, not shown
+FACT-CHECK (4 adversarial agents with web search): Haghani-Dewey 2016 (61 players, 25 USD, 60 percent coin, 30 min, 28 percent bust, 250 USD cap, 21 percent reached it, Kelly ~94 percent reach cap) all correct; Kelly 1956 Bell Labs, f*=2p-1=20 percent, growth negative beyond ~39 percent correct; 0.6^10=0.6 percent correct; LTCM 2 Nobels, ~25:1, 4.6 bn in < 4 months correct, but losses started before the August 1998 default -> fix timeline.

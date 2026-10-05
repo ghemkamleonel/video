@@ -1,0 +1,14 @@
+[
+  {
+    "name": "bank",
+    "description": "Classical bank building with columns and pediment (created from scratch, vox palette)",
+    "file_format": "svg",
+    "asset_type": "emoji"
+  },
+  {
+    "name": "hourglass",
+    "description": "Hourglass with gold sand (created from scratch, vox palette)",
+    "file_format": "svg",
+    "asset_type": "emoji"
+  }
+]

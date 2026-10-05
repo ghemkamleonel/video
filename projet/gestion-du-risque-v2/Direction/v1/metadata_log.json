@@ -1,0 +1,30 @@
+{
+  "manifest": {
+    "metadata": {
+      "video_ratio": "16:9",
+      "video_style": "vox",
+      "viewport_width": 1920,
+      "viewport_height": 1080
+    },
+    "Research": null,
+    "Scripts": "Outputs/gestion-du-risque-v2/Scripts/script-user-input.md",
+    "Audio": "Outputs/gestion-du-risque-v2/Audio/v1/Audio-v1.mp3",
+    "Direction": "Outputs/gestion-du-risque-v2/Direction/v1/Direction-v1.json",
+    "Design": {
+      "version": 0,
+      "path": null,
+      "current_gen_version": 0,
+      "subagents_completed": []
+    },
+    "Transcript": "Outputs/gestion-du-risque-v2/Transcript/v0/Transcript-v0.json"
+  },
+  "generated": {
+    "asset_type": "Direction",
+    "version": 1
+  },
+  "Direction": {
+    "type": "claude_cli",
+    "Course-Creation/Video/Director/Direction-Creation-Prompt-Modular": null,
+    "prompt_tag": "production"
+  }
+}

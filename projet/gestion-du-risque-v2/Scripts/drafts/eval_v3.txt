@@ -1,0 +1,5 @@
+TOTAL 8.5 / 9.0 (independent critic agent)
+Tightness 0.75 -- three examples of loss recovery (half, ninety, total)
+Audience 0.75 -- opening sentence 22 words
+All other dimensions at max; technical accuracy re-verified.
+FIX -> v4: split opening sentence, drop the ninety-percent example, renflouer -> sauver.

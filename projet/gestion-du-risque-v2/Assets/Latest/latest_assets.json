@@ -1,0 +1,18 @@
+{
+  "assets": [
+    {
+      "name": "bank",
+      "asset_type": "",
+      "url": "bank.svg",
+      "composition": "",
+      "aspect_ratio": "1:1"
+    },
+    {
+      "name": "hourglass",
+      "asset_type": "",
+      "url": "hourglass.svg",
+      "composition": "",
+      "aspect_ratio": "1:1"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "manifest": {
+    "metadata": {
+      "video_ratio": "16:9",
+      "video_style": "vox",
+      "viewport_width": 1920,
+      "viewport_height": 1080,
+      "totalFrames": 3100,
+      "totalScenes": 13
+    },
+    "Research": null,
+    "Scripts": "Outputs/gestion-du-risque-v2/Scripts/script-user-input.md",
+    "Audio": "Outputs/gestion-du-risque-v2/Audio/v1/Audio-v1.mp3",
+    "Direction": "Outputs/gestion-du-risque-v2/Direction/v1/Direction-v1.json",
+    "Assets": "Outputs/gestion-du-risque-v2/Assets/v1/Assets-v1.json",
+    "Design": {
+      "version": 0,
+      "path": null,
+      "current_gen_version": 0,
+      "subagents_completed": []
+    },
+    "Video": "Outputs/gestion-du-risque-v2/Video/v1/Video-v1.tsx",
+    "Transcript": "Outputs/gestion-du-risque-v2/Transcript/v0/Transcript-v0.json"
+  },
+  "generated": {
+    "asset_type": "Video",
+    "version": 1
+  },
+  "Video": {
+    "Course-Creation/Video/Scene/Scene-Creation-Prompt-Modular": null,
+    "prompt_tag": "production",
+    "type": "claude_cli",
+    "total_scenes": 13,
+    "scene_durations": [
+      229,
+      232,
+      177,
+      219,
+      215,
+      489,
+      177,
+      235,
+      300,
+      137,
+      301,
+      120,
+      269
+    ],
+    "total_duration_frames": 3100,
+    "fps": 30
+  }
+}

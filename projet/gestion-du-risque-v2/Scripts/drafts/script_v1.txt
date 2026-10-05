@@ -1,0 +1,13 @@
+En deux mille seize, soixante et un joueurs ont reçu vingt-cinq dollars et une pièce truquée en leur faveur. Elle tombait du bon côté six fois sur dix. Une demi-heure plus tard, plus d'un joueur sur quatre avait tout perdu.
+
+Ces joueurs étaient des étudiants en économie et de jeunes professionnels de la finance. Leur problème n'était pas la pièce. C'était la taille de leurs mises.
+
+Une perte se creuse plus vite qu'elle ne se répare. Perdez cinquante pour cent, et il faut ensuite gagner cent pour cent pour revenir au départ. Perdez quatre-vingt-dix pour cent, et il faut multiplier ce qui reste par dix.
+
+Miser tout son argent à chaque lancer, c'est gagner souvent, puis tout perdre au premier mauvais tirage. Même avec six chances sur dix, survivre à dix lancers d'affilée arrive moins d'une fois sur cent.
+
+La réponse mathématique date de mille neuf cent cinquante-six. John Kelly, un chercheur des laboratoires Bell, a montré qu'il faut miser une fraction fixe de son capital. Ici, cette fraction vaut vingt pour cent. Miser davantage ralentit la croissance, et au-delà du double, le capital finit par fondre. Avec cette règle, la grande majorité des joueurs aurait atteint le plafond de deux cent cinquante dollars. Seuls vingt et un pour cent y sont arrivés.
+
+Les plus brillants ne sont pas à l'abri. En mille neuf cent quatre-vingt-dix-huit, le fonds LTCM comptait deux prix Nobel d'économie parmi ses associés. Il empruntait environ vingt-cinq dollars pour chaque dollar de capital. Avec un tel levier, une baisse de quatre pour cent suffit à effacer tout le capital. Après le défaut de la Russie, le fonds a perdu quatre virgule six milliards de dollars en moins de quatre mois, et la Réserve fédérale de New York a dû organiser son sauvetage.
+
+Gérer le risque ne consiste donc pas à éviter les pertes. Elles arriveront. Il s'agit de choisir la taille de chaque pari pour qu'aucune perte, même la pire, ne vous sorte du jeu.

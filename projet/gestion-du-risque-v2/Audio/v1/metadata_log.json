@@ -1,0 +1,36 @@
+{
+  "manifest": {
+    "metadata": {
+      "video_ratio": "16:9",
+      "video_style": "vox",
+      "viewport_width": 1920,
+      "viewport_height": 1080
+    },
+    "Research": null,
+    "Scripts": "Outputs/gestion-du-risque-v2/Scripts/script-user-input.md",
+    "Audio": "Outputs/gestion-du-risque-v2/Audio/v1/Audio-v1.mp3",
+    "Assets": null,
+    "Design": {
+      "version": 0,
+      "path": null,
+      "current_gen_version": 0,
+      "subagents_completed": []
+    },
+    "Transcript": "Outputs/gestion-du-risque-v2/Transcript/v0/Transcript-v0.json"
+  },
+  "generated": {
+    "asset_type": "Audio",
+    "version": 1
+  },
+  "Audio": {
+    "type": "claude_cli",
+    "config": {
+      "voice_id": "mI8xLTBNjMXAf31I4xlB",
+      "speed": "1.1",
+      "stability": "1.0",
+      "similarity": "0.65"
+    },
+    "model_used": "eleven_v3",
+    "tts_char_count": 2072
+  }
+}

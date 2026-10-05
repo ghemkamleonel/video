@@ -1,0 +1,2 @@
+v2 = critic revisions applied (opening tension in sentence 2, cap introduced before use, asymmetry chained into ruin, Kelly mechanism shown as 60-40=20, LTCM timeline fixed, closer reframes).
+Fact-check v2 (adversarial agent): 5 imprecisions -> fixed in v3 (coin lands heads and players knew; cap on payout not profit; only the ruined were ruined by bet size; threshold ~40 percent; Russia stopped paying part of its debts; Fed gathered 14 private banks).
