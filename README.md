@@ -95,6 +95,23 @@ Ce dossier contient le patch, appliqué sur le commit indiqué dans `BASE_COMMIT
 
   Ces outils contiennent des chemins propres au conteneur de génération.
 
+## Utiliser sa propre voix
+
+`ovg-patches/voice_align.py` remplace la voix de synthèse par un enregistrement réel, sans modèle de
+reconnaissance vocale. Il synthétise le texte connu avec la voix hors-ligne, dont le minutage mot à mot
+est connu, puis aligne cette référence sur l'enregistrement par DTW sur des MFCC. Il produit le même
+transcript mot à mot que le backend ElevenLabs, donc les scènes se calent sur la vraie voix.
+
+Test sur 14 phrases lues par une autre voix, plus lente, avec des pauses irrégulières : erreur moyenne
+de 19 ms sur le début des phrases, 118 ms au maximum.
+
+Prérequis : l'enregistrement doit suivre le texte fourni. Les écarts d'improvisation dégradent le calage.
+
+```bash
+python -m scripts.utility.voice_align --audio ma_voix.m4a --script Outputs/T/script.md \
+  --out-audio Outputs/T/Audio/latest.mp3 --out-transcript Outputs/T/Transcript/latest.json
+```
+
 ## Re-générer
 
 ```bash
