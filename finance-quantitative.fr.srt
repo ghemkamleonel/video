@@ -1,0 +1,138 @@
+1
+00:00:00,000 --> 00:00:02,840
+Entre 1988 et 2018,
+
+2
+00:00:02,860 --> 00:00:06,960
+un fonds d'investissement a gagné en
+moyenne 66 % par an, avant frais.
+
+3
+00:00:07,360 --> 00:00:09,002
+Ses fondateurs n'étaient pas des traders.
+
+4
+00:00:09,131 --> 00:00:12,538
+C'étaient des mathématiciens, et ils se
+trompaient presque une fois sur deux.
+
+5
+00:00:12,938 --> 00:00:14,268
+Ce fonds s'appelle Medallion.
+
+6
+00:00:14,398 --> 00:00:16,775
+Il a été créé par le mathématicien
+Jim Simons.
+
+7
+00:00:17,174 --> 00:00:19,690
+L'un de ses dirigeants a résumé
+leur secret en une phrase :
+
+8
+00:00:19,710 --> 00:00:22,966
+nous avons raison 50,75 % du temps.
+
+9
+00:00:23,095 --> 00:00:24,967
+C'est à peine mieux qu'une
+pièce lancée en l'air.
+
+10
+00:00:25,366 --> 00:00:28,006
+Sur un seul pari, cet avantage
+est invisible.
+
+11
+00:00:28,136 --> 00:00:29,441
+Misez 1 € 10 000 fois,
+
+12
+00:00:29,461 --> 00:00:31,589
+et vous gagnez en moyenne 150 €,
+
+13
+00:00:31,609 --> 00:00:33,772
+avec encore une chance sur 15 de perdre.
+
+14
+00:00:34,171 --> 00:00:35,262
+Misez un million de fois,
+
+15
+00:00:35,282 --> 00:00:37,433
+et le gain moyen grimpe à 15 000 €.
+
+16
+00:00:37,563 --> 00:00:38,760
+Les écarts dus au hasard,
+
+17
+00:00:38,780 --> 00:00:40,587
+eux, restent autour de 1 000 €.
+
+18
+00:00:40,716 --> 00:00:42,682
+Perdre devient presque impossible.
+
+19
+00:00:43,081 --> 00:00:45,192
+Un casino fonctionne exactement comme ça.
+
+20
+00:00:45,321 --> 00:00:48,897
+À la roulette, la banque ne garde
+que 2,7 % de chaque mise.
+
+21
+00:00:49,026 --> 00:00:50,897
+Elle ne devine jamais où tombera la bille.
+
+22
+00:00:51,026 --> 00:00:52,506
+Elle compte sur les millions de tours.
+
+23
+00:00:52,905 --> 00:00:55,808
+La finance quantitative applique
+cette logique aux marchés.
+
+24
+00:00:55,937 --> 00:00:59,856
+Des ordinateurs fouillent des décennies de prix
+pour repérer de minuscules régularités.
+
+25
+00:00:59,986 --> 00:01:02,431
+Ils les exploitent ensuite des
+milliers de fois par jour,
+
+26
+00:01:02,451 --> 00:01:05,369
+en gardant chaque pari petit pour
+survivre aux séries perdantes.
+
+27
+00:01:05,769 --> 00:01:08,340
+Ces régularités s'effacent dès
+que d'autres les découvrent,
+
+28
+00:01:08,360 --> 00:01:10,180
+alors la recherche ne s'arrête jamais.
+
+29
+00:01:10,580 --> 00:01:12,384
+Un quant n'essaie donc
+pas de prédire demain.
+
+30
+00:01:12,513 --> 00:01:14,310
+Il cherche une pièce très
+légèrement truquée,
+
+31
+00:01:14,330 --> 00:01:16,339
+et il la lance plus souvent
+que tout le monde.

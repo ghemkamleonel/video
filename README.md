@@ -5,6 +5,8 @@ Vidéo explicative en français sur la finance quantitative. Elle a été géné
 
 **▶ Vidéo finale : [`finance-quantitative.mp4`](./finance-quantitative.mp4)** (1920×1080, 30 i/s, 78 s)
 
+**Sous-titres français :** [`finance-quantitative.fr.srt`](./finance-quantitative.fr.srt), aussi intégrés au MP4 comme piste activable (à choisir dans le lecteur). Ils sont générés à partir du transcript mot à mot, et les nombres y sont écrits en chiffres.
+
 ## Le propos
 
 > Entre 1988 et 2018, le fonds Medallion de Jim Simons a gagné en moyenne 66 % par an avant frais.
