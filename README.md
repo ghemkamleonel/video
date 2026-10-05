@@ -5,7 +5,9 @@ Vidéo explicative en français sur la finance quantitative. Elle a été géné
 
 **▶ Vidéo finale : [`finance-quantitative.mp4`](./finance-quantitative.mp4)** (1920×1080, 30 i/s, 78 s)
 
-**Sous-titres français :** [`finance-quantitative.fr.srt`](./finance-quantitative.fr.srt), aussi intégrés au MP4 comme piste activable (à choisir dans le lecteur). Ils sont générés à partir du transcript mot à mot, et les nombres y sont écrits en chiffres.
+**Sous-titres français :** [`finance-quantitative.fr.srt`](./finance-quantitative.fr.srt), générés à partir du transcript mot à mot (nombres en chiffres). À charger dans le lecteur (VLC : Sous-titres → Ajouter un fichier).
+
+La vidéo est encodée en H.264 (yuv420p) + AAC avec `faststart`, pour être lisible dans les navigateurs et sur mobile.
 
 ## Le propos
 
