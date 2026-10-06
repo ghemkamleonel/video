@@ -1,0 +1,53 @@
+{
+  "manifest": {
+    "metadata": {
+      "video_ratio": "16:9",
+      "video_style": "vox",
+      "viewport_width": 1920,
+      "viewport_height": 1080,
+      "totalFrames": 4563,
+      "totalScenes": 13,
+      "skipAudioApiCall": true
+    },
+    "Research": null,
+    "Scripts": "Outputs/finance-et-actuariat-v2/Scripts/script-user-input.md",
+    "Audio": "Outputs/finance-et-actuariat-v2/Audio/v1/Audio-v1.mp3",
+    "Direction": "Outputs/finance-et-actuariat-v2/Direction/v1/Direction-v1.json",
+    "Assets": "Outputs/finance-et-actuariat-v2/Assets/v1/Assets-v1.json",
+    "Design": {
+      "version": 0,
+      "path": null,
+      "current_gen_version": 0,
+      "subagents_completed": []
+    },
+    "Video": "Outputs/finance-et-actuariat-v2/Video/v2/Video-v2.tsx",
+    "Transcript": "Outputs/finance-et-actuariat-v2/Transcript/v0/Transcript-v0.json"
+  },
+  "generated": {
+    "asset_type": "Video",
+    "version": 2
+  },
+  "Video": {
+    "Course-Creation/Video/Scene/Scene-Creation-Prompt-Modular": null,
+    "prompt_tag": "production",
+    "type": "claude_cli",
+    "total_scenes": 13,
+    "scene_durations": [
+      255,
+      464,
+      343,
+      216,
+      683,
+      428,
+      354,
+      394,
+      157,
+      333,
+      265,
+      200,
+      471
+    ],
+    "total_duration_frames": 4563,
+    "fps": 30
+  }
+}

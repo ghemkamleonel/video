@@ -5,118 +5,118 @@
       "sceneIndex": 0,
       "audioTranscriptPortion": "Bonjour, moi c'est Jenny Guincamp Franck Lionel. Je m'intéresse à la finance de marché et l'actuariat.",
       "videoDescription": "PHASE 1 -- HELLO: From the very first frame a huge animated price line (like a live stock chart) sweeps across the full width, glowing gold, with candlesticks popping along it, while the word 'BONJOUR' slams in large at center on 'Bonjour'. PHASE 2 -- NAME CARD: On 'moi c'est' a large white name card slides up at center showing the presenter name exactly as spoken: 'JENNY GUINCAMP FRANCK LIONEL' (no portrait, no silhouette, no human -- just a bold typographic card with a gold accent bar). PHASE 3 -- THE TWO TOPICS: On 'finance de marche' a gold chip 'FINANCE DE MARCHE' with a small rising chart icon pops in on the left under the card; on 'l'actuariat' a navy chip 'ACTUARIAT' with a small @shield icon pops in on the right. The background keeps breathing with the scrolling price line and drifting digits.",
-      "sceneStartTime": 0,
-      "sceneEndTime": 5248,
+      "sceneStartTime": 1,
+      "sceneEndTime": 8222,
       "sceneStartFrame": 0,
-      "sceneEndFrame": 166
+      "sceneEndFrame": 255
     },
     {
       "sceneIndex": 1,
       "audioTranscriptPortion": "Étant étudiant à l'école nationale supérieure pour être né, où j'ai fait la filière finance et actuariat en niveau 4, j'ai décidé de créer du contenu pour banaliser la finance et l'actuariat.",
       "videoDescription": "PHASE 1 -- THE SCHOOL: A large @graduation cap drops in at center-left with a tassel swinging; beside it a white card reads 'ECOLE NATIONALE SUPERIEURE' and below a gold chip 'FILIERE FINANCE ET ACTUARIAT' and a navy chip 'NIVEAU 4' that snap in on the spoken words 'filiere' and 'niveau'. PHASE 2 -- THE MISSION: On 'creer du contenu' the card compresses into a large video-player frame (a dark rectangle with a big gold play triangle and a progress bar that fills); on 'banaliser' the title 'BANALISER LA FINANCE ET L'ACTUARIAT' types itself in large white letters under the player, with the words FINANCE and ACTUARIAT highlighted in gold.",
-      "sceneStartTime": 5797,
-      "sceneEndTime": 15424,
-      "sceneStartFrame": 166,
-      "sceneEndFrame": 471
+      "sceneStartTime": 8490,
+      "sceneEndTime": 23689,
+      "sceneStartFrame": 255,
+      "sceneEndFrame": 719
     },
     {
       "sceneIndex": 2,
       "audioTranscriptPortion": "Qu'est-ce que c'est que la finance et l'actuariat? C'est deux métiers qui consistent d'abord à évaluer et gérer le risque de l'argent dans le temps.",
       "videoDescription": "PHASE 1 -- THE QUESTION: A giant gold question mark spins in at center on 'Qu'est-ce que'; the two labels 'FINANCE' and 'ACTUARIAT' orbit around it. PHASE 2 -- TWO JOBS, ONE IDEA: On 'deux metiers' the question mark splits into two large panels side by side titled 'FINANCE' and 'ACTUARIAT'. On 'evaluer' a large gauge needle sweeps in both panels; on 'gerer le risque' a @shield appears over each gauge; on 'l'argent dans le temps' a single horizontal timeline arrow runs under both panels from 'AUJOURD'HUI' to 'DEMAIN', and a stack of gold coins travels along it, growing and wobbling as it moves (money exposed to risk over time). Caption at bottom: 'EVALUER ET GERER LE RISQUE DE L'ARGENT DANS LE TEMPS'.",
-      "sceneStartTime": 15974,
-      "sceneEndTime": 21961,
-      "sceneStartFrame": 471,
-      "sceneEndFrame": 667
+      "sceneStartTime": 24854,
+      "sceneEndTime": 35102,
+      "sceneStartFrame": 719,
+      "sceneEndFrame": 1062
     },
     {
       "sceneIndex": 3,
       "audioTranscriptPortion": "La finance de marché, c'est l'ensemble des activités où l'on achète et vend des titres financiers sur le marché organisé.",
       "videoDescription": "A large, living stock-exchange board fills the frame: a dark trading screen with a header 'MARCHE ORGANISE', rows of tickers with prices flickering green and red, and an order book in the middle with a BUY column (gold) and a SELL column (navy). On 'achete' a gold BUY order slides in from the left; on 'vend' a navy SELL order slides in from the right; they meet at the center and lock together with a bright 'EXECUTE' flash and a price ticks. Title chip at the top: 'LA FINANCE DE MARCHE'. Orders keep arriving and matching in rhythm in the background.",
-      "sceneStartTime": 22510,
-      "sceneEndTime": 28246,
-      "sceneStartFrame": 667,
-      "sceneEndFrame": 856
+      "sceneStartTime": 35370,
+      "sceneEndTime": 42322,
+      "sceneStartFrame": 1062,
+      "sceneEndFrame": 1278
     },
     {
       "sceneIndex": 4,
       "audioTranscriptPortion": "Elle met en relation ceux qui ont l'argent à placer, les épargnants, les assureurs, les fonds, et ceux qui ont besoin de, cette, de, ce, de cet argent-là, les États et les entreprises.",
       "videoDescription": "A two-sided flow diagram built from real objects. LEFT column titled 'ONT DE L'ARGENT A PLACER': three large tiles stack vertically and pop in on their words -- 'EPARGNANTS' (a piggy-bank shape of coins), 'ASSUREURS' (an @umbrella), 'FONDS' (a vault of coins). RIGHT column titled 'ONT BESOIN D'ARGENT': on 'les Etats' a large @bank tile labelled 'ETATS' and on 'les entreprises' a factory tile labelled 'ENTREPRISES'. At the center a large glowing ring labelled 'MARCHE'. Gold coins stream from the left tiles into the ring and out to the right tiles once both sides are present, in a continuous flow. During the hesitation 'de, cette, de, ce' the right column is still empty with a pulsing placeholder, so the visual waits with the speaker.",
-      "sceneStartTime": 28795,
-      "sceneEndTime": 39300,
-      "sceneStartFrame": 856,
-      "sceneEndFrame": 1187
+      "sceneStartTime": 42650,
+      "sceneEndTime": 65076,
+      "sceneStartFrame": 1278,
+      "sceneEndFrame": 1961
     },
     {
       "sceneIndex": 5,
       "audioTranscriptPortion": "Concrètement, on y échange les actions, les parts d'une entreprise, les obligations, les prêts qu'on fait à l'État ou une entreprise. Rembourser avec des intérêts, bien évidemment.",
       "videoDescription": "Three large cards are dealt onto the center of the frame like playing cards, one per spoken item. On 'les actions' the first card 'ACTION' shows a company building split into slices with one slice lifting out, caption 'UNE PART D'UNE ENTREPRISE'. On 'les obligations' the second card 'OBLIGATION' shows a certificate with a coupon strip, caption 'UN PRET A UN ETAT OU UNE ENTREPRISE'. On 'Rembourser avec des interets' the obligation card animates: a stack of coins goes out to a @bank, then comes back bigger with small extra coins labelled '+ INTERETS' ticking in. The cards stay large and readable, side by side.",
-      "sceneStartTime": 39849,
-      "sceneEndTime": 49314,
-      "sceneStartFrame": 1187,
-      "sceneEndFrame": 1488
+      "sceneStartTime": 65244,
+      "sceneEndTime": 79352,
+      "sceneStartFrame": 1961,
+      "sceneEndFrame": 2389
     },
     {
       "sceneIndex": 6,
       "audioTranscriptPortion": "Les produits dérivés, les contrats qui, qui sont utilisés pour se protéger contre la variation des prix.",
       "videoDescription": "A third card 'PRODUIT DERIVE' slides in large at center showing a contract with a signature line. Above it a price line moves violently up and down (a volatile price). On 'se proteger' a gold @shield snaps onto the contract and a horizontal gold band locks the price inside a safe corridor: the wild line keeps moving, but a second line labelled 'PRIX GARANTI' stays flat and calm. Caption: 'SE PROTEGER CONTRE LA VARIATION DES PRIX'.",
-      "sceneStartTime": 49863,
-      "sceneEndTime": 55120,
-      "sceneStartFrame": 1488,
-      "sceneEndFrame": 1662
+      "sceneStartTime": 80264,
+      "sceneEndTime": 91162,
+      "sceneStartFrame": 2389,
+      "sceneEndFrame": 2743
     },
     {
       "sceneIndex": 7,
       "audioTranscriptPortion": "Un remplit trois rôles, trois rôles. Financer l'économie, donner un prix aux actifs et permettre de se protéger contre le risque.",
       "videoDescription": "PHASE 1 -- THREE ROLES: A huge number '3' lands at center and the title 'TROIS ROLES' appears under it; on the repeated 'trois roles' the 3 pulses again. PHASE 2 -- THE ROLES: The 3 splits into three large pillars standing side by side, each rising on its spoken words: pillar 1 'FINANCER L'ECONOMIE' with coins flowing up into a factory and a road; pillar 2 'DONNER UN PRIX AUX ACTIFS' with a price tag swinging and a number settling; pillar 3 'SE PROTEGER CONTRE LE RISQUE' with a @shield deflecting red lightning bolts. The three pillars form a temple-like structure at the end.",
-      "sceneStartTime": 55669,
-      "sceneEndTime": 61937,
-      "sceneStartFrame": 1662,
-      "sceneEndFrame": 1867
+      "sceneStartTime": 91880,
+      "sceneEndTime": 104272,
+      "sceneStartFrame": 2743,
+      "sceneEndFrame": 3137
     },
     {
       "sceneIndex": 8,
       "audioTranscriptPortion": "La finance de marché pour l'Afrique représente un financement alternatif aux banques.",
       "videoDescription": "A large stylized outline of the African continent made of glowing gold dots (abstract dot pattern, not a geographic map with borders or labels) appears at center-left. On 'financement alternatif' two routes branch from it to the right: the upper route goes to a @bank labelled 'BANQUES' (already crowded, heavy), the lower route goes to a market ring labelled 'MARCHES FINANCIERS' that lights up gold. A chip reads 'UN FINANCEMENT ALTERNATIF AUX BANQUES'.",
-      "sceneStartTime": 62487,
-      "sceneEndTime": 66351,
-      "sceneStartFrame": 1867,
-      "sceneEndFrame": 1999
+      "sceneStartTime": 104630,
+      "sceneEndTime": 109515,
+      "sceneStartFrame": 3137,
+      "sceneEndFrame": 3294
     },
     {
       "sceneIndex": 9,
       "audioTranscriptPortion": "En Afrique, L'économie dépend surtout du crédit bancaire et les marchés permettent aux États et aux grandes entreprises de lever des fonds plus rapidement via des obligations ou des actions.",
       "videoDescription": "PHASE 1 -- BANK CREDIT: A tall bar chart titled 'COMMENT L'ECONOMIE SE FINANCE' shows one huge navy bar labelled 'CREDIT BANCAIRE' and one small gold bar labelled 'MARCHES' (qualitative, no exact numbers). PHASE 2 -- FASTER: On 'les marches permettent' two horizontal race lanes appear: lane 'VIA LA BANQUE' with a coin moving slowly through several checkpoint gates, and lane 'VIA LE MARCHE' with a coin sprinting straight to a finish flag. On 'Etats et grandes entreprises' a @bank and a factory sit at the finish line receiving the coins; on 'obligations ou des actions' the fast coin turns into two tickets labelled 'OBLIGATIONS' and 'ACTIONS'. Caption: 'LEVER DES FONDS PLUS RAPIDEMENT'.",
-      "sceneStartTime": 66901,
-      "sceneEndTime": 75182,
-      "sceneStartFrame": 1999,
-      "sceneEndFrame": 2264
+      "sceneStartTime": 110053,
+      "sceneEndTime": 120612,
+      "sceneStartFrame": 3294,
+      "sceneEndFrame": 3627
     },
     {
       "sceneIndex": 10,
       "audioTranscriptPortion": "Un enjeu de souveraineté. Beaucoup de matières premières africaines sont fixées à l'étranger. Le cacao, le café, le pétrole.",
       "videoDescription": "PHASE 1 -- SOVEREIGNTY: The title 'UN ENJEU DE SOUVERAINETE' slams in at the top. PHASE 2 -- PRICES SET ABROAD: Three large commodity tiles drop in a row exactly on their words: '@cocoa pod' labelled 'CACAO', '@coffee cup' labelled 'CAFE', '@oil barrel' labelled 'PETROLE'. Above each tile a price tag dangles on a string; the strings stretch up and away to the top-right corner, toward a distant skyline labelled 'BOURSES ETRANGERES', which pulls the tags and makes the prices jump up and down -- the price of each African commodity is visibly controlled from elsewhere. Caption: 'PRIX FIXES A L'ETRANGER'.",
-      "sceneStartTime": 75732,
-      "sceneEndTime": 82635,
-      "sceneStartFrame": 2264,
-      "sceneEndFrame": 2488
+      "sceneStartTime": 121070,
+      "sceneEndTime": 129436,
+      "sceneStartFrame": 3627,
+      "sceneEndFrame": 3892
     },
     {
       "sceneIndex": 11,
       "audioTranscriptPortion": "Mieux maîtriser la finance de marché, c'est négocier ses prix pour se protéger contre leurs variations.",
       "videoDescription": "The same three commodity tiles ('@cocoa pod' CACAO, '@coffee cup' CAFE, '@oil barrel' PETROLE) stand large at center with their price tags. On 'mieux maitriser' a gold control panel slides in under them with three sliders; on 'negocier ses prix' the strings to the foreign skyline are cut and the tags are re-attached to the control panel, whose sliders set each price. On 'se proteger contre leurs variations' a gold @shield expands over the three tiles and the jumping price lines behind them flatten into calm corridors. Caption: 'NEGOCIER SES PRIX, SE PROTEGER DES VARIATIONS'.",
-      "sceneStartTime": 83184,
-      "sceneEndTime": 87888,
-      "sceneStartFrame": 2488,
-      "sceneEndFrame": 2645
+      "sceneStartTime": 130057,
+      "sceneEndTime": 136129,
+      "sceneStartFrame": 3892,
+      "sceneEndFrame": 4092
     },
     {
       "sceneIndex": 12,
       "audioTranscriptPortion": "Un besoin métier. Les acteurs et les analystes de marché sont rares sur le continent, alors que les assurances et les retraites des fonds de pension en ont un besoin pour accroître le développement.",
       "videoDescription": "PHASE 1 -- A SKILLS GAP: The title 'UN BESOIN METIER' appears. A large board of 40 empty desk tiles fills the frame (each tile is a simple desk with a screen, no people); on 'rares sur le continent' only 4 tiles light up gold with a small chart on their screen labelled 'ANALYSTES', the rest stay dark and empty. PHASE 2 -- THE DEMAND: On 'les assurances' an @umbrella tile and on 'les retraites des fonds de pension' a vault tile appear on the right with pulsing red 'BESOIN' badges pointing at the empty desks. PHASE 3 -- GROWTH: On 'accroitre le developpement' the empty desks light up one after another in a wave and a gold growth curve rises across the whole board; final title: 'FINANCE ET ACTUARIAT : UN METIER D'AVENIR'.",
-      "sceneStartTime": 88437,
-      "sceneEndTime": 97096,
-      "sceneStartFrame": 2645,
-      "sceneEndFrame": 2973
+      "sceneStartTime": 136800,
+      "sceneEndTime": 150100,
+      "sceneStartFrame": 4092,
+      "sceneEndFrame": 4563
     }
   ],
   "required_assets": [
@@ -156,5 +156,5 @@
       "description": "An oil barrel"
     }
   ],
-  "totalFrames": 2973
+  "totalFrames": 4563
 }

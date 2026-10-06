@@ -4,8 +4,9 @@
     "video_style": "vox",
     "viewport_width": 1920,
     "viewport_height": 1080,
-    "totalFrames": 2973,
-    "totalScenes": 13
+    "totalFrames": 4563,
+    "totalScenes": 13,
+    "skipAudioApiCall": true
   },
   "Research": {
     "version": 0,
@@ -48,9 +49,9 @@
     "subagents_completed": []
   },
   "Video": {
-    "version": 1,
-    "path": "Outputs/finance-et-actuariat-v2/Video/v1/Video-v1.tsx",
-    "current_gen_version": 1,
+    "version": 2,
+    "path": "Outputs/finance-et-actuariat-v2/Video/v2/Video-v2.tsx",
+    "current_gen_version": 2,
     "subagents_completed": [],
     "subagents_claimed": []
   },

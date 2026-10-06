@@ -1,2017 +1,2017 @@
 [
   {
     "word": "Bonjour",
-    "start_ms": 0,
-    "end_ms": 417
+    "start_ms": 1,
+    "end_ms": 1277
   },
   {
     "word": ",",
-    "start_ms": 418,
-    "end_ms": 419
+    "start_ms": 1281,
+    "end_ms": 1285
   },
   {
     "word": "moi",
-    "start_ms": 418,
-    "end_ms": 626
+    "start_ms": 1286,
+    "end_ms": 1814
   },
   {
     "word": "c",
-    "start_ms": 627,
-    "end_ms": 730
+    "start_ms": 1815,
+    "end_ms": 2040
   },
   {
     "word": "'",
-    "start_ms": 731,
-    "end_ms": 732
+    "start_ms": 2041,
+    "end_ms": 2042
   },
   {
     "word": "est",
-    "start_ms": 731,
-    "end_ms": 939
+    "start_ms": 2043,
+    "end_ms": 2208
   },
   {
     "word": "Jenny",
-    "start_ms": 940,
-    "end_ms": 1253
+    "start_ms": 2209,
+    "end_ms": 2424
   },
   {
     "word": "Guincamp",
-    "start_ms": 1254,
-    "end_ms": 1723
+    "start_ms": 2425,
+    "end_ms": 3069
   },
   {
     "word": "Franck",
-    "start_ms": 1724,
-    "end_ms": 2089
+    "start_ms": 3070,
+    "end_ms": 3498
   },
   {
     "word": "Lionel",
-    "start_ms": 2090,
-    "end_ms": 2455
+    "start_ms": 3499,
+    "end_ms": 4002
   },
   {
     "word": ".",
-    "start_ms": 2456,
-    "end_ms": 2457
+    "start_ms": 4003,
+    "end_ms": 4004
   },
   {
     "word": "Je",
-    "start_ms": 2736,
-    "end_ms": 2877
+    "start_ms": 5333,
+    "end_ms": 5495
   },
   {
     "word": "m",
-    "start_ms": 2878,
-    "end_ms": 2971
+    "start_ms": 5496,
+    "end_ms": 5519
   },
   {
     "word": "'",
-    "start_ms": 2972,
-    "end_ms": 2973
+    "start_ms": 5520,
+    "end_ms": 5521
   },
   {
     "word": "intéresse",
-    "start_ms": 2972,
-    "end_ms": 3445
+    "start_ms": 5522,
+    "end_ms": 6328
   },
   {
     "word": "à",
-    "start_ms": 3446,
-    "end_ms": 3540
+    "start_ms": 6329,
+    "end_ms": 6397
   },
   {
     "word": "la",
-    "start_ms": 3541,
-    "end_ms": 3682
+    "start_ms": 6398,
+    "end_ms": 6526
   },
   {
     "word": "finance",
-    "start_ms": 3683,
-    "end_ms": 4061
+    "start_ms": 6527,
+    "end_ms": 7000
   },
   {
     "word": "de",
-    "start_ms": 4062,
-    "end_ms": 4203
+    "start_ms": 7001,
+    "end_ms": 7087
   },
   {
     "word": "marché",
-    "start_ms": 4204,
-    "end_ms": 4535
+    "start_ms": 7088,
+    "end_ms": 7417
   },
   {
     "word": "et",
-    "start_ms": 4536,
-    "end_ms": 4677
+    "start_ms": 7418,
+    "end_ms": 7539
   },
   {
     "word": "l",
-    "start_ms": 4678,
-    "end_ms": 4772
+    "start_ms": 7540,
+    "end_ms": 7636
   },
   {
     "word": "'",
-    "start_ms": 4773,
-    "end_ms": 4774
+    "start_ms": 7637,
+    "end_ms": 7638
   },
   {
     "word": "actuariat",
-    "start_ms": 4773,
-    "end_ms": 5246
+    "start_ms": 7639,
+    "end_ms": 8220
   },
   {
     "word": ".",
-    "start_ms": 5247,
-    "end_ms": 5248
+    "start_ms": 8221,
+    "end_ms": 8222
   },
   {
     "word": "Étant",
-    "start_ms": 5797,
-    "end_ms": 6101
+    "start_ms": 8490,
+    "end_ms": 9112
   },
   {
     "word": "étudiant",
-    "start_ms": 6102,
-    "end_ms": 6560
+    "start_ms": 9113,
+    "end_ms": 9688
   },
   {
     "word": "à",
-    "start_ms": 6561,
-    "end_ms": 6661
+    "start_ms": 9689,
+    "end_ms": 9792
   },
   {
     "word": "l",
-    "start_ms": 6662,
-    "end_ms": 6763
+    "start_ms": 9793,
+    "end_ms": 9897
   },
   {
     "word": "'",
-    "start_ms": 6764,
-    "end_ms": 6765
+    "start_ms": 9898,
+    "end_ms": 9899
   },
   {
     "word": "école",
-    "start_ms": 6764,
-    "end_ms": 7069
+    "start_ms": 9901,
+    "end_ms": 10631
   },
   {
     "word": "nationale",
-    "start_ms": 7070,
-    "end_ms": 7578
+    "start_ms": 10636,
+    "end_ms": 11627
   },
   {
     "word": "supérieure",
-    "start_ms": 7579,
-    "end_ms": 8139
+    "start_ms": 11637,
+    "end_ms": 13285
   },
   {
     "word": "pour",
-    "start_ms": 8140,
-    "end_ms": 8393
+    "start_ms": 13286,
+    "end_ms": 13453
   },
   {
     "word": "être",
-    "start_ms": 8394,
-    "end_ms": 8648
+    "start_ms": 13454,
+    "end_ms": 13953
   },
   {
     "word": "né",
-    "start_ms": 8649,
-    "end_ms": 8801
+    "start_ms": 13954,
+    "end_ms": 14162
   },
   {
     "word": ",",
-    "start_ms": 8802,
-    "end_ms": 8803
+    "start_ms": 14163,
+    "end_ms": 14165
   },
   {
     "word": "où",
-    "start_ms": 8802,
-    "end_ms": 8954
+    "start_ms": 14166,
+    "end_ms": 14289
   },
   {
     "word": "j",
-    "start_ms": 8955,
-    "end_ms": 9055
+    "start_ms": 14290,
+    "end_ms": 14368
   },
   {
     "word": "'",
-    "start_ms": 9056,
-    "end_ms": 9057
+    "start_ms": 14369,
+    "end_ms": 14370
   },
   {
     "word": "ai",
-    "start_ms": 9056,
-    "end_ms": 9208
+    "start_ms": 14371,
+    "end_ms": 14440
   },
   {
     "word": "fait",
-    "start_ms": 9209,
-    "end_ms": 9463
+    "start_ms": 14441,
+    "end_ms": 14649
   },
   {
     "word": "la",
-    "start_ms": 9464,
-    "end_ms": 9616
+    "start_ms": 14650,
+    "end_ms": 14704
   },
   {
     "word": "filière",
-    "start_ms": 9617,
-    "end_ms": 10023
+    "start_ms": 14705,
+    "end_ms": 15020
   },
   {
     "word": "finance",
-    "start_ms": 10024,
-    "end_ms": 10431
+    "start_ms": 15021,
+    "end_ms": 15420
   },
   {
     "word": "et",
-    "start_ms": 10432,
-    "end_ms": 10584
+    "start_ms": 15421,
+    "end_ms": 15578
   },
   {
     "word": "actuariat",
-    "start_ms": 10585,
-    "end_ms": 11093
+    "start_ms": 15579,
+    "end_ms": 15968
   },
   {
     "word": "en",
-    "start_ms": 11094,
-    "end_ms": 11246
+    "start_ms": 15969,
+    "end_ms": 16899
   },
   {
     "word": "niveau",
-    "start_ms": 11247,
-    "end_ms": 11602
+    "start_ms": 16900,
+    "end_ms": 17348
   },
   {
     "word": "4",
-    "start_ms": 11603,
-    "end_ms": 11704
+    "start_ms": 17349,
+    "end_ms": 17453
   },
   {
     "word": ",",
-    "start_ms": 11705,
-    "end_ms": 11706
+    "start_ms": 17454,
+    "end_ms": 17456
   },
   {
     "word": "j",
-    "start_ms": 11705,
-    "end_ms": 11806
+    "start_ms": 17457,
+    "end_ms": 17559
   },
   {
     "word": "'",
-    "start_ms": 11807,
-    "end_ms": 11808
+    "start_ms": 17560,
+    "end_ms": 17561
   },
   {
     "word": "ai",
-    "start_ms": 11807,
-    "end_ms": 11959
+    "start_ms": 17562,
+    "end_ms": 17604
   },
   {
     "word": "décidé",
-    "start_ms": 11960,
-    "end_ms": 12315
+    "start_ms": 17605,
+    "end_ms": 17836
   },
   {
     "word": "de",
-    "start_ms": 12316,
-    "end_ms": 12468
+    "start_ms": 17837,
+    "end_ms": 17934
   },
   {
     "word": "créer",
-    "start_ms": 12469,
-    "end_ms": 12774
+    "start_ms": 17935,
+    "end_ms": 18165
   },
   {
     "word": "du",
-    "start_ms": 12775,
-    "end_ms": 12927
+    "start_ms": 18166,
+    "end_ms": 18305
   },
   {
     "word": "contenu",
-    "start_ms": 12928,
-    "end_ms": 13334
+    "start_ms": 18306,
+    "end_ms": 18820
   },
   {
     "word": "pour",
-    "start_ms": 13335,
-    "end_ms": 13589
+    "start_ms": 18822,
+    "end_ms": 19108
   },
   {
     "word": "banaliser",
-    "start_ms": 13590,
-    "end_ms": 14098
+    "start_ms": 19109,
+    "end_ms": 19894
   },
   {
     "word": "la",
-    "start_ms": 14099,
-    "end_ms": 14251
+    "start_ms": 19895,
+    "end_ms": 20099
   },
   {
     "word": "finance",
-    "start_ms": 14252,
-    "end_ms": 14658
+    "start_ms": 20100,
+    "end_ms": 20478
   },
   {
     "word": "et",
-    "start_ms": 14659,
-    "end_ms": 14811
+    "start_ms": 20479,
+    "end_ms": 22006
   },
   {
     "word": "l",
-    "start_ms": 14812,
-    "end_ms": 14913
+    "start_ms": 22007,
+    "end_ms": 22111
   },
   {
     "word": "'",
-    "start_ms": 14914,
-    "end_ms": 14915
+    "start_ms": 22112,
+    "end_ms": 22113
   },
   {
     "word": "actuariat",
-    "start_ms": 14914,
-    "end_ms": 15422
+    "start_ms": 22114,
+    "end_ms": 23687
   },
   {
     "word": ".",
-    "start_ms": 15423,
-    "end_ms": 15424
+    "start_ms": 23688,
+    "end_ms": 23689
   },
   {
     "word": "Qu",
-    "start_ms": 15974,
-    "end_ms": 16091
+    "start_ms": 24854,
+    "end_ms": 24974
   },
   {
     "word": "'",
-    "start_ms": 16092,
-    "end_ms": 16093
+    "start_ms": 24975,
+    "end_ms": 24976
   },
   {
     "word": "est",
-    "start_ms": 16092,
-    "end_ms": 16249
+    "start_ms": 24978,
+    "end_ms": 25136
   },
   {
     "word": "-",
-    "start_ms": 16250,
-    "end_ms": 16251
+    "start_ms": 25138,
+    "end_ms": 25139
   },
   {
     "word": "ce",
-    "start_ms": 16250,
-    "end_ms": 16368
+    "start_ms": 25140,
+    "end_ms": 25272
   },
   {
     "word": "que",
-    "start_ms": 16369,
-    "end_ms": 16526
+    "start_ms": 25275,
+    "end_ms": 25618
   },
   {
     "word": "c",
-    "start_ms": 16527,
-    "end_ms": 16605
+    "start_ms": 25622,
+    "end_ms": 25721
   },
   {
     "word": "'",
-    "start_ms": 16606,
-    "end_ms": 16607
+    "start_ms": 25722,
+    "end_ms": 25723
   },
   {
     "word": "est",
-    "start_ms": 16606,
-    "end_ms": 16763
+    "start_ms": 25724,
+    "end_ms": 25987
   },
   {
     "word": "que",
-    "start_ms": 16764,
-    "end_ms": 16921
+    "start_ms": 25988,
+    "end_ms": 26835
   },
   {
     "word": "la",
-    "start_ms": 16922,
-    "end_ms": 17040
+    "start_ms": 26837,
+    "end_ms": 27055
   },
   {
     "word": "finance",
-    "start_ms": 17041,
-    "end_ms": 17356
+    "start_ms": 27056,
+    "end_ms": 28164
   },
   {
     "word": "et",
-    "start_ms": 17357,
-    "end_ms": 17475
+    "start_ms": 28165,
+    "end_ms": 28287
   },
   {
     "word": "l",
-    "start_ms": 17476,
-    "end_ms": 17554
+    "start_ms": 28288,
+    "end_ms": 28636
   },
   {
     "word": "'",
-    "start_ms": 17555,
-    "end_ms": 17556
+    "start_ms": 28638,
+    "end_ms": 28639
   },
   {
     "word": "actuariat",
-    "start_ms": 17555,
-    "end_ms": 17950
+    "start_ms": 28640,
+    "end_ms": 29880
   },
   {
     "word": "?",
-    "start_ms": 17951,
-    "end_ms": 17952
+    "start_ms": 29881,
+    "end_ms": 29882
   },
   {
     "word": "C",
-    "start_ms": 18231,
-    "end_ms": 18306
+    "start_ms": 30290,
+    "end_ms": 30361
   },
   {
     "word": "'",
-    "start_ms": 18307,
-    "end_ms": 18308
+    "start_ms": 30362,
+    "end_ms": 30363
   },
   {
     "word": "est",
-    "start_ms": 18307,
-    "end_ms": 18460
+    "start_ms": 30364,
+    "end_ms": 30530
   },
   {
     "word": "deux",
-    "start_ms": 18461,
-    "end_ms": 18652
+    "start_ms": 30531,
+    "end_ms": 30829
   },
   {
     "word": "métiers",
-    "start_ms": 18653,
-    "end_ms": 18960
+    "start_ms": 30830,
+    "end_ms": 31112
   },
   {
     "word": "qui",
-    "start_ms": 18961,
-    "end_ms": 19114
+    "start_ms": 31114,
+    "end_ms": 31266
   },
   {
     "word": "consistent",
-    "start_ms": 19115,
-    "end_ms": 19537
+    "start_ms": 31267,
+    "end_ms": 31593
   },
   {
     "word": "d",
-    "start_ms": 19538,
-    "end_ms": 19613
+    "start_ms": 31594,
+    "end_ms": 31676
   },
   {
     "word": "'",
-    "start_ms": 19614,
-    "end_ms": 19615
+    "start_ms": 31677,
+    "end_ms": 31678
   },
   {
     "word": "abord",
-    "start_ms": 19614,
-    "end_ms": 19844
+    "start_ms": 31679,
+    "end_ms": 31947
   },
   {
     "word": "à",
-    "start_ms": 19845,
-    "end_ms": 19921
+    "start_ms": 31948,
+    "end_ms": 32003
   },
   {
     "word": "évaluer",
-    "start_ms": 19922,
-    "end_ms": 20229
+    "start_ms": 32005,
+    "end_ms": 32232
   },
   {
     "word": "et",
-    "start_ms": 20230,
-    "end_ms": 20344
+    "start_ms": 32233,
+    "end_ms": 32930
   },
   {
     "word": "gérer",
-    "start_ms": 20345,
-    "end_ms": 20575
+    "start_ms": 32931,
+    "end_ms": 33183
   },
   {
     "word": "le",
-    "start_ms": 20576,
-    "end_ms": 20690
+    "start_ms": 33185,
+    "end_ms": 33310
   },
   {
     "word": "risque",
-    "start_ms": 20691,
-    "end_ms": 20959
+    "start_ms": 33311,
+    "end_ms": 33506
   },
   {
     "word": "de",
-    "start_ms": 20960,
-    "end_ms": 21074
+    "start_ms": 33508,
+    "end_ms": 33622
   },
   {
     "word": "l",
-    "start_ms": 21075,
-    "end_ms": 21151
+    "start_ms": 33623,
+    "end_ms": 33706
   },
   {
     "word": "'",
-    "start_ms": 21152,
-    "end_ms": 21153
+    "start_ms": 33707,
+    "end_ms": 33709
   },
   {
     "word": "argent",
-    "start_ms": 21152,
-    "end_ms": 21420
+    "start_ms": 33710,
+    "end_ms": 34002
   },
   {
     "word": "dans",
-    "start_ms": 21421,
-    "end_ms": 21613
+    "start_ms": 34003,
+    "end_ms": 34236
   },
   {
     "word": "le",
-    "start_ms": 21614,
-    "end_ms": 21728
+    "start_ms": 34237,
+    "end_ms": 34659
   },
   {
     "word": "temps",
-    "start_ms": 21729,
-    "end_ms": 21959
+    "start_ms": 34660,
+    "end_ms": 35100
   },
   {
     "word": ".",
-    "start_ms": 21960,
-    "end_ms": 21961
+    "start_ms": 35101,
+    "end_ms": 35102
   },
   {
     "word": "La",
-    "start_ms": 22510,
-    "end_ms": 22652
+    "start_ms": 35370,
+    "end_ms": 35486
   },
   {
     "word": "finance",
-    "start_ms": 22653,
-    "end_ms": 23034
+    "start_ms": 35487,
+    "end_ms": 36128
   },
   {
     "word": "de",
-    "start_ms": 23035,
-    "end_ms": 23178
+    "start_ms": 36130,
+    "end_ms": 36357
   },
   {
     "word": "marché",
-    "start_ms": 23179,
-    "end_ms": 23512
+    "start_ms": 36358,
+    "end_ms": 36871
   },
   {
     "word": ",",
-    "start_ms": 23513,
-    "end_ms": 23514
+    "start_ms": 36872,
+    "end_ms": 36873
   },
   {
     "word": "c",
-    "start_ms": 23513,
-    "end_ms": 23608
+    "start_ms": 36874,
+    "end_ms": 36975
   },
   {
     "word": "'",
-    "start_ms": 23609,
-    "end_ms": 23610
+    "start_ms": 36976,
+    "end_ms": 36978
   },
   {
     "word": "est",
-    "start_ms": 23609,
-    "end_ms": 23799
+    "start_ms": 36979,
+    "end_ms": 37212
   },
   {
     "word": "l",
-    "start_ms": 23800,
-    "end_ms": 23894
+    "start_ms": 37213,
+    "end_ms": 37331
   },
   {
     "word": "'",
-    "start_ms": 23895,
-    "end_ms": 23896
+    "start_ms": 37332,
+    "end_ms": 37333
   },
   {
     "word": "ensemble",
-    "start_ms": 23895,
-    "end_ms": 24325
+    "start_ms": 37335,
+    "end_ms": 37811
   },
   {
     "word": "des",
-    "start_ms": 24326,
-    "end_ms": 24516
+    "start_ms": 37813,
+    "end_ms": 38010
   },
   {
     "word": "activités",
-    "start_ms": 24517,
-    "end_ms": 24994
+    "start_ms": 38011,
+    "end_ms": 38718
   },
   {
     "word": "où",
-    "start_ms": 24995,
-    "end_ms": 25137
+    "start_ms": 38720,
+    "end_ms": 38966
   },
   {
     "word": "l",
-    "start_ms": 25138,
-    "end_ms": 25233
+    "start_ms": 38968,
+    "end_ms": 39104
   },
   {
     "word": "'",
-    "start_ms": 25234,
-    "end_ms": 25235
+    "start_ms": 39106,
+    "end_ms": 39108
   },
   {
     "word": "on",
-    "start_ms": 25234,
-    "end_ms": 25376
+    "start_ms": 39109,
+    "end_ms": 39312
   },
   {
     "word": "achète",
-    "start_ms": 25377,
-    "end_ms": 25711
+    "start_ms": 39313,
+    "end_ms": 39619
   },
   {
     "word": "et",
-    "start_ms": 25712,
-    "end_ms": 25854
+    "start_ms": 39620,
+    "end_ms": 39706
   },
   {
     "word": "vend",
-    "start_ms": 25855,
-    "end_ms": 26093
+    "start_ms": 39707,
+    "end_ms": 40152
   },
   {
     "word": "des",
-    "start_ms": 26094,
-    "end_ms": 26284
+    "start_ms": 40153,
+    "end_ms": 40351
   },
   {
     "word": "titres",
-    "start_ms": 26285,
-    "end_ms": 26619
+    "start_ms": 40352,
+    "end_ms": 40587
   },
   {
     "word": "financiers",
-    "start_ms": 26620,
-    "end_ms": 27144
+    "start_ms": 40588,
+    "end_ms": 41112
   },
   {
     "word": "sur",
-    "start_ms": 27145,
-    "end_ms": 27335
+    "start_ms": 41113,
+    "end_ms": 41290
   },
   {
     "word": "le",
-    "start_ms": 27336,
-    "end_ms": 27479
+    "start_ms": 41291,
+    "end_ms": 41440
   },
   {
     "word": "marché",
-    "start_ms": 27480,
-    "end_ms": 27813
+    "start_ms": 41441,
+    "end_ms": 41829
   },
   {
     "word": "organisé",
-    "start_ms": 27814,
-    "end_ms": 28244
+    "start_ms": 41830,
+    "end_ms": 42320
   },
   {
     "word": ".",
-    "start_ms": 28245,
-    "end_ms": 28246
+    "start_ms": 42321,
+    "end_ms": 42322
   },
   {
     "word": "Elle",
-    "start_ms": 28795,
-    "end_ms": 29094
+    "start_ms": 42650,
+    "end_ms": 43719
   },
   {
     "word": "met",
-    "start_ms": 29095,
-    "end_ms": 29334
+    "start_ms": 43720,
+    "end_ms": 44196
   },
   {
     "word": "en",
-    "start_ms": 29335,
-    "end_ms": 29514
+    "start_ms": 44197,
+    "end_ms": 44476
   },
   {
     "word": "relation",
-    "start_ms": 29515,
-    "end_ms": 30054
+    "start_ms": 44477,
+    "end_ms": 45320
   },
   {
     "word": "ceux",
-    "start_ms": 30055,
-    "end_ms": 30354
+    "start_ms": 45321,
+    "end_ms": 45832
   },
   {
     "word": "qui",
-    "start_ms": 30355,
-    "end_ms": 30594
+    "start_ms": 45833,
+    "end_ms": 46155
   },
   {
     "word": "ont",
-    "start_ms": 30595,
-    "end_ms": 30834
+    "start_ms": 46156,
+    "end_ms": 46317
   },
   {
     "word": "l",
-    "start_ms": 30835,
-    "end_ms": 30954
+    "start_ms": 46318,
+    "end_ms": 46433
   },
   {
     "word": "'",
-    "start_ms": 30955,
-    "end_ms": 30956
+    "start_ms": 46434,
+    "end_ms": 46435
   },
   {
     "word": "argent",
-    "start_ms": 30955,
-    "end_ms": 31374
+    "start_ms": 46436,
+    "end_ms": 46789
   },
   {
     "word": "à",
-    "start_ms": 31375,
-    "end_ms": 31495
+    "start_ms": 46790,
+    "end_ms": 47096
   },
   {
     "word": "placer",
-    "start_ms": 31496,
-    "end_ms": 31915
+    "start_ms": 47101,
+    "end_ms": 47759
   },
   {
     "word": ",",
-    "start_ms": 31916,
-    "end_ms": 31917
+    "start_ms": 47760,
+    "end_ms": 47761
   },
   {
     "word": "les",
-    "start_ms": 31916,
-    "end_ms": 32155
+    "start_ms": 47762,
+    "end_ms": 48337
   },
   {
     "word": "épargnants",
-    "start_ms": 32156,
-    "end_ms": 32815
+    "start_ms": 48338,
+    "end_ms": 50820
   },
   {
     "word": ",",
-    "start_ms": 32816,
-    "end_ms": 32817
+    "start_ms": 50963,
+    "end_ms": 51106
   },
   {
     "word": "les",
-    "start_ms": 32816,
-    "end_ms": 33055
+    "start_ms": 51250,
+    "end_ms": 51785
   },
   {
     "word": "assureurs",
-    "start_ms": 33056,
-    "end_ms": 33655
+    "start_ms": 51786,
+    "end_ms": 52695
   },
   {
     "word": ",",
-    "start_ms": 33656,
-    "end_ms": 33657
+    "start_ms": 52696,
+    "end_ms": 52697
   },
   {
     "word": "les",
-    "start_ms": 33656,
-    "end_ms": 33895
+    "start_ms": 52698,
+    "end_ms": 53038
   },
   {
     "word": "fonds",
-    "start_ms": 33896,
-    "end_ms": 34256
+    "start_ms": 53039,
+    "end_ms": 53612
   },
   {
     "word": ",",
-    "start_ms": 34257,
-    "end_ms": 34258
+    "start_ms": 53613,
+    "end_ms": 53614
   },
   {
     "word": "et",
-    "start_ms": 34257,
-    "end_ms": 34436
+    "start_ms": 53615,
+    "end_ms": 53879
   },
   {
     "word": "ceux",
-    "start_ms": 34437,
-    "end_ms": 34736
+    "start_ms": 53880,
+    "end_ms": 54203
   },
   {
     "word": "qui",
-    "start_ms": 34737,
-    "end_ms": 34976
+    "start_ms": 54204,
+    "end_ms": 54535
   },
   {
     "word": "ont",
-    "start_ms": 34977,
-    "end_ms": 35216
+    "start_ms": 54536,
+    "end_ms": 54589
   },
   {
     "word": "besoin",
-    "start_ms": 35217,
-    "end_ms": 35636
+    "start_ms": 54590,
+    "end_ms": 54977
   },
   {
     "word": "de",
-    "start_ms": 35637,
-    "end_ms": 35816
+    "start_ms": 54978,
+    "end_ms": 55670
   },
   {
     "word": ",",
-    "start_ms": 35817,
-    "end_ms": 35818
+    "start_ms": 55866,
+    "end_ms": 56063
   },
   {
     "word": "cette",
-    "start_ms": 35817,
-    "end_ms": 36176
+    "start_ms": 56260,
+    "end_ms": 57860
   },
   {
     "word": ",",
-    "start_ms": 36177,
-    "end_ms": 36178
+    "start_ms": 58486,
+    "end_ms": 59113
   },
   {
     "word": "de",
-    "start_ms": 36177,
-    "end_ms": 36356
+    "start_ms": 59740,
+    "end_ms": 59796
   },
   {
     "word": ",",
-    "start_ms": 36357,
-    "end_ms": 36358
+    "start_ms": 59797,
+    "end_ms": 59798
   },
   {
     "word": "ce",
-    "start_ms": 36357,
-    "end_ms": 36536
+    "start_ms": 59799,
+    "end_ms": 59893
   },
   {
     "word": ",",
-    "start_ms": 36537,
-    "end_ms": 36538
+    "start_ms": 59894,
+    "end_ms": 59895
   },
   {
     "word": "de",
-    "start_ms": 36537,
-    "end_ms": 36717
+    "start_ms": 59896,
+    "end_ms": 60031
   },
   {
     "word": "cet",
-    "start_ms": 36718,
-    "end_ms": 36957
+    "start_ms": 60038,
+    "end_ms": 61789
   },
   {
     "word": "argent",
-    "start_ms": 36958,
-    "end_ms": 37377
+    "start_ms": 61795,
+    "end_ms": 63238
   },
   {
     "word": "-",
-    "start_ms": 37378,
-    "end_ms": 37379
+    "start_ms": 63239,
+    "end_ms": 63240
   },
   {
     "word": "là",
-    "start_ms": 37378,
-    "end_ms": 37557
+    "start_ms": 63241,
+    "end_ms": 63493
   },
   {
     "word": ",",
-    "start_ms": 37558,
-    "end_ms": 37559
+    "start_ms": 63494,
+    "end_ms": 63495
   },
   {
     "word": "les",
-    "start_ms": 37558,
-    "end_ms": 37797
+    "start_ms": 63496,
+    "end_ms": 63697
   },
   {
     "word": "États",
-    "start_ms": 37798,
-    "end_ms": 38157
+    "start_ms": 63698,
+    "end_ms": 63867
   },
   {
     "word": "et",
-    "start_ms": 38158,
-    "end_ms": 38337
+    "start_ms": 63869,
+    "end_ms": 64054
   },
   {
     "word": "les",
-    "start_ms": 38338,
-    "end_ms": 38577
+    "start_ms": 64055,
+    "end_ms": 64402
   },
   {
     "word": "entreprises",
-    "start_ms": 38578,
-    "end_ms": 39298
+    "start_ms": 64403,
+    "end_ms": 65073
   },
   {
     "word": ".",
-    "start_ms": 39299,
-    "end_ms": 39300
+    "start_ms": 65074,
+    "end_ms": 65076
   },
   {
     "word": "Concrètement",
-    "start_ms": 39849,
-    "end_ms": 40529
+    "start_ms": 65244,
+    "end_ms": 65849
   },
   {
     "word": ",",
-    "start_ms": 40530,
-    "end_ms": 40531
+    "start_ms": 65850,
+    "end_ms": 65851
   },
   {
     "word": "on",
-    "start_ms": 40530,
-    "end_ms": 40686
+    "start_ms": 65852,
+    "end_ms": 65948
   },
   {
     "word": "y",
-    "start_ms": 40687,
-    "end_ms": 40791
+    "start_ms": 65949,
+    "end_ms": 66037
   },
   {
     "word": "échange",
-    "start_ms": 40792,
-    "end_ms": 41211
+    "start_ms": 66038,
+    "end_ms": 66547
   },
   {
     "word": "les",
-    "start_ms": 41212,
-    "end_ms": 41421
+    "start_ms": 66548,
+    "end_ms": 66716
   },
   {
     "word": "actions",
-    "start_ms": 41422,
-    "end_ms": 41840
+    "start_ms": 66717,
+    "end_ms": 67527
   },
   {
     "word": ",",
-    "start_ms": 41841,
-    "end_ms": 41842
+    "start_ms": 67528,
+    "end_ms": 67530
   },
   {
     "word": "les",
-    "start_ms": 41841,
-    "end_ms": 42050
+    "start_ms": 67531,
+    "end_ms": 67769
   },
   {
     "word": "parts",
-    "start_ms": 42051,
-    "end_ms": 42364
+    "start_ms": 67770,
+    "end_ms": 68401
   },
   {
     "word": "d",
-    "start_ms": 42365,
-    "end_ms": 42469
+    "start_ms": 68402,
+    "end_ms": 68541
   },
   {
     "word": "'",
-    "start_ms": 42470,
-    "end_ms": 42471
+    "start_ms": 68542,
+    "end_ms": 68543
   },
   {
     "word": "une",
-    "start_ms": 42470,
-    "end_ms": 42679
+    "start_ms": 68544,
+    "end_ms": 69420
   },
   {
     "word": "entreprise",
-    "start_ms": 42680,
-    "end_ms": 43256
+    "start_ms": 69422,
+    "end_ms": 70145
   },
   {
     "word": ",",
-    "start_ms": 43257,
-    "end_ms": 43258
+    "start_ms": 70146,
+    "end_ms": 70147
   },
   {
     "word": "les",
-    "start_ms": 43257,
-    "end_ms": 43465
+    "start_ms": 70148,
+    "end_ms": 70237
   },
   {
     "word": "obligations",
-    "start_ms": 43466,
-    "end_ms": 44095
+    "start_ms": 70238,
+    "end_ms": 70739
   },
   {
     "word": ",",
-    "start_ms": 44096,
-    "end_ms": 44097
+    "start_ms": 70740,
+    "end_ms": 70741
   },
   {
     "word": "les",
-    "start_ms": 44096,
-    "end_ms": 44304
+    "start_ms": 70742,
+    "end_ms": 70933
   },
   {
     "word": "prêts",
-    "start_ms": 44305,
-    "end_ms": 44619
+    "start_ms": 70934,
+    "end_ms": 71396
   },
   {
     "word": "qu",
-    "start_ms": 44620,
-    "end_ms": 44776
+    "start_ms": 71397,
+    "end_ms": 71586
   },
   {
     "word": "'",
-    "start_ms": 44777,
-    "end_ms": 44778
+    "start_ms": 71591,
+    "end_ms": 71596
   },
   {
     "word": "on",
-    "start_ms": 44777,
-    "end_ms": 44934
+    "start_ms": 71597,
+    "end_ms": 71842
   },
   {
     "word": "fait",
-    "start_ms": 44935,
-    "end_ms": 45196
+    "start_ms": 71843,
+    "end_ms": 72407
   },
   {
     "word": "à",
-    "start_ms": 45197,
-    "end_ms": 45301
+    "start_ms": 72408,
+    "end_ms": 72536
   },
   {
     "word": "l",
-    "start_ms": 45302,
-    "end_ms": 45406
+    "start_ms": 72537,
+    "end_ms": 72668
   },
   {
     "word": "'",
-    "start_ms": 45407,
-    "end_ms": 45408
+    "start_ms": 72669,
+    "end_ms": 72670
   },
   {
     "word": "État",
-    "start_ms": 45407,
-    "end_ms": 45668
+    "start_ms": 72671,
+    "end_ms": 73022
   },
   {
     "word": "ou",
-    "start_ms": 45669,
-    "end_ms": 45825
+    "start_ms": 73025,
+    "end_ms": 73565
   },
   {
     "word": "une",
-    "start_ms": 45826,
-    "end_ms": 46035
+    "start_ms": 73580,
+    "end_ms": 74264
   },
   {
     "word": "entreprise",
-    "start_ms": 46036,
-    "end_ms": 46612
+    "start_ms": 74265,
+    "end_ms": 75358
   },
   {
     "word": ".",
-    "start_ms": 46613,
-    "end_ms": 46614
+    "start_ms": 75359,
+    "end_ms": 75360
   },
   {
     "word": "Rembourser",
-    "start_ms": 46893,
-    "end_ms": 47483
+    "start_ms": 75656,
+    "end_ms": 75996
   },
   {
     "word": "avec",
-    "start_ms": 47484,
-    "end_ms": 47752
+    "start_ms": 75997,
+    "end_ms": 76233
   },
   {
     "word": "des",
-    "start_ms": 47753,
-    "end_ms": 47967
+    "start_ms": 76234,
+    "end_ms": 76416
   },
   {
     "word": "intérêts",
-    "start_ms": 47968,
-    "end_ms": 48451
+    "start_ms": 76417,
+    "end_ms": 77490
   },
   {
     "word": ",",
-    "start_ms": 48452,
-    "end_ms": 48453
+    "start_ms": 77730,
+    "end_ms": 77970
   },
   {
     "word": "bien",
-    "start_ms": 48452,
-    "end_ms": 48720
+    "start_ms": 78210,
+    "end_ms": 78549
   },
   {
     "word": "évidemment",
-    "start_ms": 48721,
-    "end_ms": 49312
+    "start_ms": 78550,
+    "end_ms": 79350
   },
   {
     "word": ".",
-    "start_ms": 49313,
-    "end_ms": 49314
+    "start_ms": 79351,
+    "end_ms": 79352
   },
   {
     "word": "Les",
-    "start_ms": 49863,
-    "end_ms": 50068
+    "start_ms": 80264,
+    "end_ms": 80444
   },
   {
     "word": "produits",
-    "start_ms": 50069,
-    "end_ms": 50531
+    "start_ms": 80445,
+    "end_ms": 80780
   },
   {
     "word": "dérivés",
-    "start_ms": 50532,
-    "end_ms": 50944
+    "start_ms": 80781,
+    "end_ms": 81750
   },
   {
     "word": ",",
-    "start_ms": 50945,
-    "end_ms": 50946
+    "start_ms": 81976,
+    "end_ms": 82203
   },
   {
     "word": "les",
-    "start_ms": 50945,
-    "end_ms": 51150
+    "start_ms": 82430,
+    "end_ms": 83416
   },
   {
     "word": "contrats",
-    "start_ms": 51151,
-    "end_ms": 51614
+    "start_ms": 83417,
+    "end_ms": 84232
   },
   {
     "word": "qui",
-    "start_ms": 51615,
-    "end_ms": 51820
+    "start_ms": 84234,
+    "end_ms": 85550
   },
   {
     "word": ",",
-    "start_ms": 51821,
-    "end_ms": 51822
+    "start_ms": 85650,
+    "end_ms": 85750
   },
   {
     "word": "qui",
-    "start_ms": 51821,
-    "end_ms": 52026
+    "start_ms": 85850,
+    "end_ms": 86351
   },
   {
     "word": "sont",
-    "start_ms": 52027,
-    "end_ms": 52283
+    "start_ms": 86353,
+    "end_ms": 86713
   },
   {
     "word": "utilisés",
-    "start_ms": 52284,
-    "end_ms": 52747
+    "start_ms": 86715,
+    "end_ms": 87222
   },
   {
     "word": "pour",
-    "start_ms": 52748,
-    "end_ms": 53005
+    "start_ms": 87224,
+    "end_ms": 87520
   },
   {
     "word": "se",
-    "start_ms": 53006,
-    "end_ms": 53159
+    "start_ms": 87521,
+    "end_ms": 87810
   },
   {
     "word": "protéger",
-    "start_ms": 53160,
-    "end_ms": 53623
+    "start_ms": 87812,
+    "end_ms": 88651
   },
   {
     "word": "contre",
-    "start_ms": 53624,
-    "end_ms": 53984
+    "start_ms": 88653,
+    "end_ms": 89255
   },
   {
     "word": "la",
-    "start_ms": 53985,
-    "end_ms": 54138
+    "start_ms": 89257,
+    "end_ms": 89440
   },
   {
     "word": "variation",
-    "start_ms": 54139,
-    "end_ms": 54654
+    "start_ms": 89442,
+    "end_ms": 90277
   },
   {
     "word": "des",
-    "start_ms": 54655,
-    "end_ms": 54860
+    "start_ms": 90278,
+    "end_ms": 90560
   },
   {
     "word": "prix",
-    "start_ms": 54861,
-    "end_ms": 55118
+    "start_ms": 90562,
+    "end_ms": 91160
   },
   {
     "word": ".",
-    "start_ms": 55119,
-    "end_ms": 55120
+    "start_ms": 91161,
+    "end_ms": 91162
   },
   {
     "word": "Un",
-    "start_ms": 55669,
-    "end_ms": 55801
+    "start_ms": 91880,
+    "end_ms": 92161
   },
   {
     "word": "remplit",
-    "start_ms": 55802,
-    "end_ms": 56156
+    "start_ms": 92162,
+    "end_ms": 92636
   },
   {
     "word": "trois",
-    "start_ms": 56157,
-    "end_ms": 56423
+    "start_ms": 92637,
+    "end_ms": 93038
   },
   {
     "word": "rôles",
-    "start_ms": 56424,
-    "end_ms": 56689
+    "start_ms": 93039,
+    "end_ms": 94770
   },
   {
     "word": ",",
-    "start_ms": 56690,
-    "end_ms": 56691
+    "start_ms": 95090,
+    "end_ms": 95410
   },
   {
     "word": "trois",
-    "start_ms": 56690,
-    "end_ms": 56956
+    "start_ms": 95730,
+    "end_ms": 96258
   },
   {
     "word": "rôles",
-    "start_ms": 56957,
-    "end_ms": 57223
+    "start_ms": 96259,
+    "end_ms": 96750
   },
   {
     "word": ".",
-    "start_ms": 57224,
-    "end_ms": 57225
+    "start_ms": 96751,
+    "end_ms": 96752
   },
   {
     "word": "Financer",
-    "start_ms": 57504,
-    "end_ms": 57941
+    "start_ms": 98470,
+    "end_ms": 98656
   },
   {
     "word": "l",
-    "start_ms": 57942,
-    "end_ms": 58038
+    "start_ms": 98657,
+    "end_ms": 98712
   },
   {
     "word": "'",
-    "start_ms": 58039,
-    "end_ms": 58040
+    "start_ms": 98713,
+    "end_ms": 98714
   },
   {
     "word": "économie",
-    "start_ms": 58039,
-    "end_ms": 58477
+    "start_ms": 98715,
+    "end_ms": 99220
   },
   {
     "word": ",",
-    "start_ms": 58478,
-    "end_ms": 58479
+    "start_ms": 99660,
+    "end_ms": 100090
   },
   {
     "word": "donner",
-    "start_ms": 58478,
-    "end_ms": 58818
+    "start_ms": 100100,
+    "end_ms": 101094
   },
   {
     "word": "un",
-    "start_ms": 58819,
-    "end_ms": 58964
+    "start_ms": 101095,
+    "end_ms": 101402
   },
   {
     "word": "prix",
-    "start_ms": 58965,
-    "end_ms": 59208
+    "start_ms": 101403,
+    "end_ms": 101798
   },
   {
     "word": "aux",
-    "start_ms": 59209,
-    "end_ms": 59402
+    "start_ms": 101799,
+    "end_ms": 101963
   },
   {
     "word": "actifs",
-    "start_ms": 59403,
-    "end_ms": 59743
+    "start_ms": 101964,
+    "end_ms": 102286
   },
   {
     "word": "et",
-    "start_ms": 59744,
-    "end_ms": 59890
+    "start_ms": 102287,
+    "end_ms": 102364
   },
   {
     "word": "permettre",
-    "start_ms": 59891,
-    "end_ms": 60377
+    "start_ms": 102365,
+    "end_ms": 102793
   },
   {
     "word": "de",
-    "start_ms": 60378,
-    "end_ms": 60523
+    "start_ms": 102794,
+    "end_ms": 102890
   },
   {
     "word": "se",
-    "start_ms": 60524,
-    "end_ms": 60669
+    "start_ms": 102891,
+    "end_ms": 102986
   },
   {
     "word": "protéger",
-    "start_ms": 60670,
-    "end_ms": 61107
+    "start_ms": 102987,
+    "end_ms": 103487
   },
   {
     "word": "contre",
-    "start_ms": 61108,
-    "end_ms": 61448
+    "start_ms": 103488,
+    "end_ms": 103770
   },
   {
     "word": "le",
-    "start_ms": 61449,
-    "end_ms": 61594
+    "start_ms": 103771,
+    "end_ms": 103937
   },
   {
     "word": "risque",
-    "start_ms": 61595,
-    "end_ms": 61935
+    "start_ms": 103938,
+    "end_ms": 104270
   },
   {
     "word": ".",
-    "start_ms": 61936,
-    "end_ms": 61937
+    "start_ms": 104271,
+    "end_ms": 104272
   },
   {
     "word": "La",
-    "start_ms": 62487,
-    "end_ms": 62622
+    "start_ms": 104630,
+    "end_ms": 104745
   },
   {
     "word": "finance",
-    "start_ms": 62623,
-    "end_ms": 62986
+    "start_ms": 104746,
+    "end_ms": 105145
   },
   {
     "word": "de",
-    "start_ms": 62987,
-    "end_ms": 63122
+    "start_ms": 105146,
+    "end_ms": 105147
   },
   {
     "word": "marché",
-    "start_ms": 63123,
-    "end_ms": 63440
+    "start_ms": 105148,
+    "end_ms": 105356
   },
   {
     "word": "pour",
-    "start_ms": 63441,
-    "end_ms": 63667
+    "start_ms": 105357,
+    "end_ms": 105565
   },
   {
     "word": "l",
-    "start_ms": 63668,
-    "end_ms": 63758
+    "start_ms": 105566,
+    "end_ms": 105656
   },
   {
     "word": "'",
-    "start_ms": 63759,
-    "end_ms": 63760
+    "start_ms": 105657,
+    "end_ms": 105658
   },
   {
     "word": "Afrique",
-    "start_ms": 63759,
-    "end_ms": 64122
+    "start_ms": 105659,
+    "end_ms": 106442
   },
   {
     "word": "représente",
-    "start_ms": 64123,
-    "end_ms": 64622
+    "start_ms": 106443,
+    "end_ms": 107007
   },
   {
     "word": "un",
-    "start_ms": 64623,
-    "end_ms": 64758
+    "start_ms": 107008,
+    "end_ms": 107144
   },
   {
     "word": "financement",
-    "start_ms": 64759,
-    "end_ms": 65304
+    "start_ms": 107145,
+    "end_ms": 108025
   },
   {
     "word": "alternatif",
-    "start_ms": 65305,
-    "end_ms": 65804
+    "start_ms": 108026,
+    "end_ms": 108876
   },
   {
     "word": "aux",
-    "start_ms": 65805,
-    "end_ms": 65986
+    "start_ms": 108878,
+    "end_ms": 109073
   },
   {
     "word": "banques",
-    "start_ms": 65987,
-    "end_ms": 66349
+    "start_ms": 109074,
+    "end_ms": 109512
   },
   {
     "word": ".",
-    "start_ms": 66350,
-    "end_ms": 66351
+    "start_ms": 109514,
+    "end_ms": 109515
   },
   {
     "word": "En",
-    "start_ms": 66901,
-    "end_ms": 67031
+    "start_ms": 110053,
+    "end_ms": 110164
   },
   {
     "word": "Afrique",
-    "start_ms": 67032,
-    "end_ms": 67381
+    "start_ms": 110165,
+    "end_ms": 110405
   },
   {
     "word": ",",
-    "start_ms": 67382,
-    "end_ms": 67383
+    "start_ms": 110406,
+    "end_ms": 110407
   },
   {
     "word": "L",
-    "start_ms": 67382,
-    "end_ms": 67469
+    "start_ms": 110408,
+    "end_ms": 110474
   },
   {
     "word": "'",
-    "start_ms": 67470,
-    "end_ms": 67471
+    "start_ms": 110475,
+    "end_ms": 110476
   },
   {
     "word": "économie",
-    "start_ms": 67470,
-    "end_ms": 67863
+    "start_ms": 110477,
+    "end_ms": 110528
   },
   {
     "word": "dépend",
-    "start_ms": 67864,
-    "end_ms": 68170
+    "start_ms": 110529,
+    "end_ms": 110766
   },
   {
     "word": "surtout",
-    "start_ms": 68171,
-    "end_ms": 68521
+    "start_ms": 110767,
+    "end_ms": 111059
   },
   {
     "word": "du",
-    "start_ms": 68522,
-    "end_ms": 68652
+    "start_ms": 111060,
+    "end_ms": 111262
   },
   {
     "word": "crédit",
-    "start_ms": 68653,
-    "end_ms": 68959
+    "start_ms": 111263,
+    "end_ms": 111640
   },
   {
     "word": "bancaire",
-    "start_ms": 68960,
-    "end_ms": 69353
+    "start_ms": 111641,
+    "end_ms": 112197
   },
   {
     "word": "et",
-    "start_ms": 69354,
-    "end_ms": 69485
+    "start_ms": 112198,
+    "end_ms": 112345
   },
   {
     "word": "les",
-    "start_ms": 69486,
-    "end_ms": 69660
+    "start_ms": 112347,
+    "end_ms": 112505
   },
   {
     "word": "marchés",
-    "start_ms": 69661,
-    "end_ms": 70010
+    "start_ms": 112506,
+    "end_ms": 112797
   },
   {
     "word": "permettent",
-    "start_ms": 70011,
-    "end_ms": 70492
+    "start_ms": 112798,
+    "end_ms": 113654
   },
   {
     "word": "aux",
-    "start_ms": 70493,
-    "end_ms": 70668
+    "start_ms": 113655,
+    "end_ms": 113810
   },
   {
     "word": "États",
-    "start_ms": 70669,
-    "end_ms": 70930
+    "start_ms": 113811,
+    "end_ms": 114667
   },
   {
     "word": "et",
-    "start_ms": 70931,
-    "end_ms": 71062
+    "start_ms": 114668,
+    "end_ms": 115439
   },
   {
     "word": "aux",
-    "start_ms": 71063,
-    "end_ms": 71237
+    "start_ms": 115448,
+    "end_ms": 115961
   },
   {
     "word": "grandes",
-    "start_ms": 71238,
-    "end_ms": 71588
+    "start_ms": 115962,
+    "end_ms": 116384
   },
   {
     "word": "entreprises",
-    "start_ms": 71589,
-    "end_ms": 72113
+    "start_ms": 116386,
+    "end_ms": 117194
   },
   {
     "word": "de",
-    "start_ms": 72114,
-    "end_ms": 72245
+    "start_ms": 117195,
+    "end_ms": 117327
   },
   {
     "word": "lever",
-    "start_ms": 72246,
-    "end_ms": 72508
+    "start_ms": 117328,
+    "end_ms": 117742
   },
   {
     "word": "des",
-    "start_ms": 72509,
-    "end_ms": 72683
+    "start_ms": 117743,
+    "end_ms": 118072
   },
   {
     "word": "fonds",
-    "start_ms": 72684,
-    "end_ms": 72946
+    "start_ms": 118074,
+    "end_ms": 118420
   },
   {
     "word": "plus",
-    "start_ms": 72947,
-    "end_ms": 73165
+    "start_ms": 118422,
+    "end_ms": 118634
   },
   {
     "word": "rapidement",
-    "start_ms": 73166,
-    "end_ms": 73647
+    "start_ms": 118635,
+    "end_ms": 119138
   },
   {
     "word": "via",
-    "start_ms": 73648,
-    "end_ms": 73822
+    "start_ms": 119139,
+    "end_ms": 119314
   },
   {
     "word": "des",
-    "start_ms": 73823,
-    "end_ms": 73997
+    "start_ms": 119315,
+    "end_ms": 119511
   },
   {
     "word": "obligations",
-    "start_ms": 73998,
-    "end_ms": 74523
+    "start_ms": 119512,
+    "end_ms": 119969
   },
   {
     "word": "ou",
-    "start_ms": 74524,
-    "end_ms": 74655
+    "start_ms": 119970,
+    "end_ms": 120082
   },
   {
     "word": "des",
-    "start_ms": 74656,
-    "end_ms": 74830
+    "start_ms": 120083,
+    "end_ms": 120248
   },
   {
     "word": "actions",
-    "start_ms": 74831,
-    "end_ms": 75180
+    "start_ms": 120249,
+    "end_ms": 120610
   },
   {
     "word": ".",
-    "start_ms": 75181,
-    "end_ms": 75182
+    "start_ms": 120611,
+    "end_ms": 120612
   },
   {
     "word": "Un",
-    "start_ms": 75732,
-    "end_ms": 75863
+    "start_ms": 121070,
+    "end_ms": 121305
   },
   {
     "word": "enjeu",
-    "start_ms": 75864,
-    "end_ms": 76128
+    "start_ms": 121307,
+    "end_ms": 121871
   },
   {
     "word": "de",
-    "start_ms": 76129,
-    "end_ms": 76260
+    "start_ms": 121872,
+    "end_ms": 121982
   },
   {
     "word": "souveraineté",
-    "start_ms": 76261,
-    "end_ms": 76834
+    "start_ms": 121984,
+    "end_ms": 122870
   },
   {
     "word": ".",
-    "start_ms": 76835,
-    "end_ms": 76836
+    "start_ms": 122871,
+    "end_ms": 122872
   },
   {
     "word": "Beaucoup",
-    "start_ms": 77115,
-    "end_ms": 77507
+    "start_ms": 123140,
+    "end_ms": 123816
   },
   {
     "word": "de",
-    "start_ms": 77508,
-    "end_ms": 77639
+    "start_ms": 123817,
+    "end_ms": 124138
   },
   {
     "word": "matières",
-    "start_ms": 77640,
-    "end_ms": 78033
+    "start_ms": 124140,
+    "end_ms": 125080
   },
   {
     "word": "premières",
-    "start_ms": 78034,
-    "end_ms": 78471
+    "start_ms": 125081,
+    "end_ms": 125457
   },
   {
     "word": "africaines",
-    "start_ms": 78472,
-    "end_ms": 78952
+    "start_ms": 125458,
+    "end_ms": 125945
   },
   {
     "word": "sont",
-    "start_ms": 78953,
-    "end_ms": 79171
+    "start_ms": 125946,
+    "end_ms": 126076
   },
   {
     "word": "fixées",
-    "start_ms": 79172,
-    "end_ms": 79477
+    "start_ms": 126077,
+    "end_ms": 126315
   },
   {
     "word": "à",
-    "start_ms": 79478,
-    "end_ms": 79565
+    "start_ms": 126316,
+    "end_ms": 126412
   },
   {
     "word": "l",
-    "start_ms": 79566,
-    "end_ms": 79653
+    "start_ms": 126414,
+    "end_ms": 126510
   },
   {
     "word": "'",
-    "start_ms": 79654,
-    "end_ms": 79655
+    "start_ms": 126511,
+    "end_ms": 126512
   },
   {
     "word": "étranger",
-    "start_ms": 79654,
-    "end_ms": 80047
+    "start_ms": 126513,
+    "end_ms": 126879
   },
   {
     "word": ".",
-    "start_ms": 80048,
-    "end_ms": 80049
+    "start_ms": 126880,
+    "end_ms": 126881
   },
   {
     "word": "Le",
-    "start_ms": 80328,
-    "end_ms": 80574
+    "start_ms": 127123,
+    "end_ms": 127314
   },
   {
     "word": "cacao",
-    "start_ms": 80575,
-    "end_ms": 81068
+    "start_ms": 127315,
+    "end_ms": 127502
   },
   {
     "word": ",",
-    "start_ms": 81069,
-    "end_ms": 81070
+    "start_ms": 127503,
+    "end_ms": 127504
   },
   {
     "word": "le",
-    "start_ms": 81069,
-    "end_ms": 81315
+    "start_ms": 127505,
+    "end_ms": 127673
   },
   {
     "word": "café",
-    "start_ms": 81316,
-    "end_ms": 81727
+    "start_ms": 127674,
+    "end_ms": 128150
   },
   {
     "word": ",",
-    "start_ms": 81728,
-    "end_ms": 81729
+    "start_ms": 128290,
+    "end_ms": 128360
   },
   {
     "word": "le",
-    "start_ms": 81728,
-    "end_ms": 81974
+    "start_ms": 128430,
+    "end_ms": 128764
   },
   {
     "word": "pétrole",
-    "start_ms": 81975,
-    "end_ms": 82633
+    "start_ms": 128765,
+    "end_ms": 129431
   },
   {
     "word": ".",
-    "start_ms": 82634,
-    "end_ms": 82635
+    "start_ms": 129433,
+    "end_ms": 129436
   },
   {
     "word": "Mieux",
-    "start_ms": 83184,
-    "end_ms": 83459
+    "start_ms": 130057,
+    "end_ms": 130228
   },
   {
     "word": "maîtriser",
-    "start_ms": 83460,
-    "end_ms": 83920
+    "start_ms": 130229,
+    "end_ms": 130694
   },
   {
     "word": "la",
-    "start_ms": 83921,
-    "end_ms": 84059
+    "start_ms": 130695,
+    "end_ms": 130822
   },
   {
     "word": "finance",
-    "start_ms": 84060,
-    "end_ms": 84427
+    "start_ms": 130823,
+    "end_ms": 131062
   },
   {
     "word": "de",
-    "start_ms": 84428,
-    "end_ms": 84566
+    "start_ms": 131063,
+    "end_ms": 131157
   },
   {
     "word": "marché",
-    "start_ms": 84567,
-    "end_ms": 84888
+    "start_ms": 131158,
+    "end_ms": 131744
   },
   {
     "word": ",",
-    "start_ms": 84889,
-    "end_ms": 84890
+    "start_ms": 131745,
+    "end_ms": 131746
   },
   {
     "word": "c",
-    "start_ms": 84889,
-    "end_ms": 84981
+    "start_ms": 131747,
+    "end_ms": 131785
   },
   {
     "word": "'",
-    "start_ms": 84982,
-    "end_ms": 84983
+    "start_ms": 131786,
+    "end_ms": 131787
   },
   {
     "word": "est",
-    "start_ms": 84982,
-    "end_ms": 85165
+    "start_ms": 131788,
+    "end_ms": 131935
   },
   {
     "word": "négocier",
-    "start_ms": 85166,
-    "end_ms": 85580
+    "start_ms": 131936,
+    "end_ms": 132524
   },
   {
     "word": "ses",
-    "start_ms": 85581,
-    "end_ms": 85765
+    "start_ms": 132525,
+    "end_ms": 132684
   },
   {
     "word": "prix",
-    "start_ms": 85766,
-    "end_ms": 85995
+    "start_ms": 132685,
+    "end_ms": 132908
   },
   {
     "word": "pour",
-    "start_ms": 85996,
-    "end_ms": 86226
+    "start_ms": 132909,
+    "end_ms": 133152
   },
   {
     "word": "se",
-    "start_ms": 86227,
-    "end_ms": 86364
+    "start_ms": 133153,
+    "end_ms": 133301
   },
   {
     "word": "protéger",
-    "start_ms": 86365,
-    "end_ms": 86779
+    "start_ms": 133307,
+    "end_ms": 134866
   },
   {
     "word": "contre",
-    "start_ms": 86780,
-    "end_ms": 87102
+    "start_ms": 134867,
+    "end_ms": 135258
   },
   {
     "word": "leurs",
-    "start_ms": 87103,
-    "end_ms": 87378
+    "start_ms": 135259,
+    "end_ms": 135595
   },
   {
     "word": "variations",
-    "start_ms": 87379,
-    "end_ms": 87886
+    "start_ms": 135596,
+    "end_ms": 136126
   },
   {
     "word": ".",
-    "start_ms": 87887,
-    "end_ms": 87888
+    "start_ms": 136127,
+    "end_ms": 136129
   },
   {
     "word": "Un",
-    "start_ms": 88437,
-    "end_ms": 88584
+    "start_ms": 136800,
+    "end_ms": 137069
   },
   {
     "word": "besoin",
-    "start_ms": 88585,
-    "end_ms": 88929
+    "start_ms": 137070,
+    "end_ms": 137434
   },
   {
     "word": "métier",
-    "start_ms": 88930,
-    "end_ms": 89275
+    "start_ms": 137435,
+    "end_ms": 137800
   },
   {
     "word": ".",
-    "start_ms": 89276,
-    "end_ms": 89277
+    "start_ms": 137801,
+    "end_ms": 137802
   },
   {
     "word": "Les",
-    "start_ms": 89556,
-    "end_ms": 89723
+    "start_ms": 138850,
+    "end_ms": 139027
   },
   {
     "word": "acteurs",
-    "start_ms": 89724,
-    "end_ms": 90060
+    "start_ms": 139028,
+    "end_ms": 139394
   },
   {
     "word": "et",
-    "start_ms": 90061,
-    "end_ms": 90186
+    "start_ms": 139395,
+    "end_ms": 139470
   },
   {
     "word": "les",
-    "start_ms": 90187,
-    "end_ms": 90355
+    "start_ms": 139471,
+    "end_ms": 139639
   },
   {
     "word": "analystes",
-    "start_ms": 90356,
-    "end_ms": 90776
+    "start_ms": 139640,
+    "end_ms": 140190
   },
   {
     "word": "de",
-    "start_ms": 90777,
-    "end_ms": 90902
+    "start_ms": 140191,
+    "end_ms": 140316
   },
   {
     "word": "marché",
-    "start_ms": 90903,
-    "end_ms": 91197
+    "start_ms": 140317,
+    "end_ms": 140641
   },
   {
     "word": "sont",
-    "start_ms": 91198,
-    "end_ms": 91408
+    "start_ms": 140642,
+    "end_ms": 140892
   },
   {
     "word": "rares",
-    "start_ms": 91409,
-    "end_ms": 91661
+    "start_ms": 140893,
+    "end_ms": 141145
   },
   {
     "word": "sur",
-    "start_ms": 91662,
-    "end_ms": 91829
+    "start_ms": 141146,
+    "end_ms": 141273
   },
   {
     "word": "le",
-    "start_ms": 91830,
-    "end_ms": 91956
+    "start_ms": 141274,
+    "end_ms": 141400
   },
   {
     "word": "continent",
-    "start_ms": 91957,
-    "end_ms": 92377
+    "start_ms": 141401,
+    "end_ms": 141791
   },
   {
     "word": ",",
-    "start_ms": 92378,
-    "end_ms": 92379
+    "start_ms": 141792,
+    "end_ms": 141793
   },
   {
     "word": "alors",
-    "start_ms": 92378,
-    "end_ms": 92629
+    "start_ms": 141794,
+    "end_ms": 142203
   },
   {
     "word": "que",
-    "start_ms": 92630,
-    "end_ms": 92798
+    "start_ms": 142204,
+    "end_ms": 142390
   },
   {
     "word": "les",
-    "start_ms": 92799,
-    "end_ms": 92966
+    "start_ms": 142392,
+    "end_ms": 142786
   },
   {
     "word": "assurances",
-    "start_ms": 92967,
-    "end_ms": 93430
+    "start_ms": 142798,
+    "end_ms": 143294
   },
   {
     "word": "et",
-    "start_ms": 93431,
-    "end_ms": 93556
+    "start_ms": 143295,
+    "end_ms": 143420
   },
   {
     "word": "les",
-    "start_ms": 93557,
-    "end_ms": 93725
+    "start_ms": 143421,
+    "end_ms": 143559
   },
   {
     "word": "retraites",
-    "start_ms": 93726,
-    "end_ms": 94146
+    "start_ms": 143560,
+    "end_ms": 143960
   },
   {
     "word": "des",
-    "start_ms": 94147,
-    "end_ms": 94314
+    "start_ms": 143961,
+    "end_ms": 144208
   },
   {
     "word": "fonds",
-    "start_ms": 94315,
-    "end_ms": 94567
+    "start_ms": 144209,
+    "end_ms": 144461
   },
   {
     "word": "de",
-    "start_ms": 94568,
-    "end_ms": 94693
+    "start_ms": 144462,
+    "end_ms": 144567
   },
   {
     "word": "pension",
-    "start_ms": 94694,
-    "end_ms": 95030
+    "start_ms": 144568,
+    "end_ms": 145044
   },
   {
     "word": "en",
-    "start_ms": 95031,
-    "end_ms": 95157
+    "start_ms": 145045,
+    "end_ms": 145901
   },
   {
     "word": "ont",
-    "start_ms": 95158,
-    "end_ms": 95325
+    "start_ms": 145902,
+    "end_ms": 146669
   },
   {
     "word": "un",
-    "start_ms": 95326,
-    "end_ms": 95452
+    "start_ms": 146670,
+    "end_ms": 146868
   },
   {
     "word": "besoin",
-    "start_ms": 95453,
-    "end_ms": 95747
+    "start_ms": 146870,
+    "end_ms": 147201
   },
   {
     "word": "pour",
-    "start_ms": 95748,
-    "end_ms": 95957
+    "start_ms": 147202,
+    "end_ms": 147431
   },
   {
     "word": "accroître",
-    "start_ms": 95958,
-    "end_ms": 96378
+    "start_ms": 147432,
+    "end_ms": 149402
   },
   {
     "word": "le",
-    "start_ms": 96379,
-    "end_ms": 96505
+    "start_ms": 149403,
+    "end_ms": 149509
   },
   {
     "word": "développement",
-    "start_ms": 96506,
-    "end_ms": 97094
+    "start_ms": 149510,
+    "end_ms": 150098
   },
   {
     "word": ".",
-    "start_ms": 97095,
-    "end_ms": 97096
+    "start_ms": 150099,
+    "end_ms": 150100
   }
 ]

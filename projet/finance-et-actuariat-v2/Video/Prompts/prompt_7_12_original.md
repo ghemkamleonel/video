@@ -171,10 +171,10 @@ working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code.
 
 <input>
   <scene_index>7</scene_index>
-  <scene_startFrame>1662</scene_startFrame>
-  <scene_endFrame>1867</scene_endFrame>
+  <scene_startFrame>2743</scene_startFrame>
+  <scene_endFrame>3137</scene_endFrame>
   <direction_video_description>PHASE 1 -- THREE ROLES: A huge number '3' lands at center and the title 'TROIS ROLES' appears under it; on the repeated 'trois roles' the 3 pulses again. PHASE 2 -- THE ROLES: The 3 splits into three large pillars standing side by side, each rising on its spoken words: pillar 1 'FINANCER L'ECONOMIE' with coins flowing up into a factory and a road; pillar 2 'DONNER UN PRIX AUX ACTIFS' with a price tag swinging and a number settling; pillar 3 'SE PROTEGER CONTRE LE RISQUE' with a @shield deflecting red lightning bolts. The three pillars form a temple-like structure at the end.</direction_video_description>
-  <audio_transcript_with_timings>Un, 8, remplit, 12, trois, 23, rôles, 31, ,, 39, trois, 39, rôles, 47, ., 55, Financer, 63, l, 76, ', 79, économie, 79, ,, 92, donner, 92, un, 103, prix, 107, aux, 114, actifs, 120, et, 130, permettre, 135, de, 149, se, 154, protéger, 158, contre, 171, le, 181, risque, 186, ., 196</audio_transcript_with_timings>
+  <audio_transcript_with_timings>Un, 13, remplit, 22, trois, 36, rôles, 48, ,, 110, trois, 129, rôles, 145, ., 160, Financer, 211, l, 217, ', 218, économie, 218, ,, 247, donner, 260, un, 290, prix, 299, aux, 311, actifs, 316, et, 326, permettre, 328, de, 341, se, 344, protéger, 347, contre, 362, le, 370, risque, 375, ., 385</audio_transcript_with_timings>
 </input>
 
 ---
@@ -188,10 +188,10 @@ working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code.
 
 <input>
   <scene_index>8</scene_index>
-  <scene_startFrame>1867</scene_startFrame>
-  <scene_endFrame>1999</scene_endFrame>
+  <scene_startFrame>3137</scene_startFrame>
+  <scene_endFrame>3294</scene_endFrame>
   <direction_video_description>A large stylized outline of the African continent made of glowing gold dots (abstract dot pattern, not a geographic map with borders or labels) appears at center-left. On 'financement alternatif' two routes branch from it to the right: the upper route goes to a @bank labelled 'BANQUES' (already crowded, heavy), the lower route goes to a market ring labelled 'MARCHES FINANCIERS' that lights up gold. A chip reads 'UN FINANCEMENT ALTERNATIF AUX BANQUES'.</direction_video_description>
-  <audio_transcript_with_timings>La, 8, finance, 12, de, 23, marché, 27, pour, 36, l, 43, ', 46, Afrique, 46, représente, 57, un, 72, financement, 76, alternatif, 92, aux, 107, banques, 113, ., 123</audio_transcript_with_timings>
+  <audio_transcript_with_timings>La, 2, finance, 5, de, 17, marché, 17, pour, 24, l, 30, ', 33, Afrique, 33, représente, 56, un, 73, financement, 77, alternatif, 104, aux, 129, banques, 135, ., 148</audio_transcript_with_timings>
 </input>
 
 ---
@@ -205,10 +205,10 @@ working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code.
 
 <input>
   <scene_index>9</scene_index>
-  <scene_startFrame>1999</scene_startFrame>
-  <scene_endFrame>2264</scene_endFrame>
+  <scene_startFrame>3294</scene_startFrame>
+  <scene_endFrame>3627</scene_endFrame>
   <direction_video_description>PHASE 1 -- BANK CREDIT: A tall bar chart titled 'COMMENT L'ECONOMIE SE FINANCE' shows one huge navy bar labelled 'CREDIT BANCAIRE' and one small gold bar labelled 'MARCHES' (qualitative, no exact numbers). PHASE 2 -- FASTER: On 'les marches permettent' two horizontal race lanes appear: lane 'VIA LA BANQUE' with a coin moving slowly through several checkpoint gates, and lane 'VIA LE MARCHE' with a coin sprinting straight to a finish flag. On 'Etats et grandes entreprises' a @bank and a factory sit at the finish line receiving the coins; on 'obligations ou des actions' the fast coin turns into two tickets labelled 'OBLIGATIONS' and 'ACTIONS'. Caption: 'LEVER DES FONDS PLUS RAPIDEMENT'.</direction_video_description>
-  <audio_transcript_with_timings>En, 8, Afrique, 12, ,, 22, L, 22, ', 25, économie, 25, dépend, 37, surtout, 46, du, 57, crédit, 61, bancaire, 70, et, 82, les, 86, marchés, 91, permettent, 101, aux, 116, États, 121, et, 129, aux, 133, grandes, 138, entreprises, 149, de, 164, lever, 168, des, 176, fonds, 182, plus, 189, rapidement, 196, via, 210, des, 216, obligations, 221, ou, 237, des, 241, actions, 246, ., 256</audio_transcript_with_timings>
+  <audio_transcript_with_timings>En, 8, Afrique, 11, ,, 18, L, 18, ', 20, économie, 20, dépend, 22, surtout, 29, du, 38, crédit, 44, bancaire, 55, et, 72, les, 76, marchés, 81, permettent, 90, aux, 116, États, 120, et, 146, aux, 169, grandes, 185, entreprises, 198, de, 222, lever, 226, des, 238, fonds, 248, plus, 259, rapidement, 265, via, 280, des, 285, obligations, 291, ou, 305, des, 308, actions, 313, ., 324</audio_transcript_with_timings>
 </input>
 
 ---
@@ -222,10 +222,10 @@ working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code.
 
 <input>
   <scene_index>10</scene_index>
-  <scene_startFrame>2264</scene_startFrame>
-  <scene_endFrame>2488</scene_endFrame>
+  <scene_startFrame>3627</scene_startFrame>
+  <scene_endFrame>3892</scene_endFrame>
   <direction_video_description>PHASE 1 -- SOVEREIGNTY: The title 'UN ENJEU DE SOUVERAINETE' slams in at the top. PHASE 2 -- PRICES SET ABROAD: Three large commodity tiles drop in a row exactly on their words: '@cocoa pod' labelled 'CACAO', '@coffee cup' labelled 'CAFE', '@oil barrel' labelled 'PETROLE'. Above each tile a price tag dangles on a string; the strings stretch up and away to the top-right corner, toward a distant skyline labelled 'BOURSES ETRANGERES', which pulls the tags and makes the prices jump up and down -- the price of each African commodity is visibly controlled from elsewhere. Caption: 'PRIX FIXES A L'ETRANGER'.</direction_video_description>
-  <audio_transcript_with_timings>Un, 8, enjeu, 12, de, 20, souveraineté, 24, ., 41, Beaucoup, 49, de, 61, matières, 65, premières, 77, africaines, 90, sont, 105, fixées, 111, à, 120, l, 123, ', 126, étranger, 126, ., 137, Le, 146, cacao, 153, ,, 168, le, 168, café, 175, ,, 188, le, 188, pétrole, 195, ., 215</audio_transcript_with_timings>
+  <audio_transcript_with_timings>Un, 5, enjeu, 12, de, 29, souveraineté, 33, ., 59, Beaucoup, 67, de, 88, matières, 97, premières, 125, africaines, 137, sont, 151, fixées, 155, à, 162, l, 165, ', 168, étranger, 168, ., 179, Le, 187, cacao, 192, ,, 198, le, 198, café, 203, ,, 222, le, 226, pétrole, 236, ., 256</audio_transcript_with_timings>
 </input>
 
 ---
@@ -239,10 +239,10 @@ working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code.
 
 <input>
   <scene_index>11</scene_index>
-  <scene_startFrame>2488</scene_startFrame>
-  <scene_endFrame>2645</scene_endFrame>
+  <scene_startFrame>3892</scene_startFrame>
+  <scene_endFrame>4092</scene_endFrame>
   <direction_video_description>The same three commodity tiles ('@cocoa pod' CACAO, '@coffee cup' CAFE, '@oil barrel' PETROLE) stand large at center with their price tags. On 'mieux maitriser' a gold control panel slides in under them with three sliders; on 'negocier ses prix' the strings to the foreign skyline are cut and the tags are re-attached to the control panel, whose sliders set each price. On 'se proteger contre leurs variations' a gold @shield expands over the three tiles and the jumping price lines behind them flatten into calm corridors. Caption: 'NEGOCIER SES PRIX, SE PROTEGER DES VARIATIONS'.</direction_video_description>
-  <audio_transcript_with_timings>Mieux, 8, maîtriser, 16, la, 30, finance, 34, de, 45, marché, 49, ,, 59, c, 59, ', 61, est, 61, négocier, 67, ses, 79, prix, 85, pour, 92, se, 99, protéger, 103, contre, 115, leurs, 125, variations, 133, ., 149</audio_transcript_with_timings>
+  <audio_transcript_with_timings>Mieux, 10, maîtriser, 15, la, 29, finance, 33, de, 40, marché, 43, ,, 60, c, 60, ', 62, est, 62, négocier, 66, ses, 84, prix, 89, pour, 95, se, 103, protéger, 107, contre, 154, leurs, 166, variations, 176, ., 192</audio_transcript_with_timings>
 </input>
 
 ---
@@ -256,10 +256,10 @@ working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code.
 
 <input>
   <scene_index>12</scene_index>
-  <scene_startFrame>2645</scene_startFrame>
-  <scene_endFrame>2973</scene_endFrame>
+  <scene_startFrame>4092</scene_startFrame>
+  <scene_endFrame>4563</scene_endFrame>
   <direction_video_description>PHASE 1 -- A SKILLS GAP: The title 'UN BESOIN METIER' appears. A large board of 40 empty desk tiles fills the frame (each tile is a simple desk with a screen, no people); on 'rares sur le continent' only 4 tiles light up gold with a small chart on their screen labelled 'ANALYSTES', the rest stay dark and empty. PHASE 2 -- THE DEMAND: On 'les assurances' an @umbrella tile and on 'les retraites des fonds de pension' a vault tile appear on the right with pulsing red 'BESOIN' badges pointing at the empty desks. PHASE 3 -- GROWTH: On 'accroitre le developpement' the empty desks light up one after another in a wave and a gold growth curve rises across the whole board; final title: 'FINANCE ET ACTUARIAT : UN METIER D'AVENIR'.</direction_video_description>
-  <audio_transcript_with_timings>Un, 8, besoin, 13, métier, 23, ., 33, Les, 42, acteurs, 47, et, 57, les, 61, analystes, 66, de, 78, marché, 82, sont, 91, rares, 97, sur, 105, le, 110, continent, 114, ,, 126, alors, 126, que, 134, les, 139, assurances, 144, et, 158, les, 162, retraites, 167, des, 179, fonds, 184, de, 192, pension, 196, en, 206, ont, 210, un, 215, besoin, 219, pour, 227, accroître, 234, le, 246, développement, 250, ., 268</audio_transcript_with_timings>
+  <audio_transcript_with_timings>Un, 12, besoin, 20, métier, 31, ., 42, Les, 74, acteurs, 79, et, 90, les, 92, analystes, 97, de, 114, marché, 118, sont, 127, rares, 135, sur, 142, le, 146, continent, 150, ,, 162, alors, 162, que, 174, les, 180, assurances, 192, et, 207, les, 211, retraites, 215, des, 227, fonds, 234, de, 242, pension, 245, en, 259, ont, 285, un, 308, besoin, 314, pour, 324, accroître, 331, le, 390, développement, 393, ., 411</audio_transcript_with_timings>
 </input>
 
 ---

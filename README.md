@@ -7,7 +7,7 @@ Trois vidéos explicatives en français, produites avec le pipeline
 |---|---|---|---|
 | La finance quantitative | 78 s | [`finance-quantitative.mp4`](./finance-quantitative.mp4) | [`finance-quantitative.fr.srt`](./finance-quantitative.fr.srt) |
 | La gestion du risque | 103 s | [`gestion-du-risque.mp4`](./gestion-du-risque.mp4) | [`gestion-du-risque.fr.srt`](./gestion-du-risque.fr.srt) |
-| La finance de marché et l'actuariat (texte du présentateur) | 99 s | [`finance-et-actuariat.mp4`](./finance-et-actuariat.mp4) | [`finance-et-actuariat.fr.srt`](./finance-et-actuariat.fr.srt) |
+| La finance de marché et l'actuariat (texte et voix du présentateur) | 152 s | [`finance-et-actuariat.mp4`](./finance-et-actuariat.mp4) | [`finance-et-actuariat.fr.srt`](./finance-et-actuariat.fr.srt) |
 
 Toutes sont en 1920×1080, 30 i/s, encodées en H.264 (yuv420p) + AAC avec `faststart` : elles se lisent
 dans un navigateur, sur mobile, dans VLC ou QuickTime. Les sous-titres sont générés à partir du
@@ -71,11 +71,16 @@ Le texte fourni par le présentateur est utilisé **mot pour mot** comme narrati
 
 Les hésitations du discours oral restent dans la narration et les sous-titres, mais pas dans les textes à l'écran.
 
-**Voix provisoire.** L'enregistrement original du présentateur n'a pas été transmis. La vidéo utilise donc
-la voix de synthèse hors-ligne, en attendant ce fichier. Les scènes sont construites pour accueillir la vraie voix
-sans être recodées (voir « Utiliser sa propre voix » ci-dessous). Le remplacement a été testé de bout en bout
-avec un enregistrement simulé de 114,6 s (voix provisoire : 97 s) : les 13 scènes ont été recalées et revalidées
-automatiquement, et chaque élément apparaît sur son mot.
+**Voix du présentateur.** La narration est l'enregistrement original du présentateur (note vocale WhatsApp de
+150 s), simplement nettoyé : grondement filtré et volume normalisé. Elle a été alignée mot à mot sur le texte
+sans modèle de reconnaissance vocale, puis les 13 scènes ont été recalées automatiquement sur ce rythme naturel :
+pendant les hésitations, l'image attend.
+
+Contrôles du calage (détails dans `projet/finance-et-actuariat-v2/Transcript/alignement_voix.png`) :
+
+- les frontières de phrase qui tombent sur une pause y tombent exactement (écart médian de 0 ms) ;
+- le débit par phrase est régulier, autour de 5 syllabes/s, sauf aux hésitations ;
+- sur un test de référence à vérité connue, l'aligneur est précis à 10 ms en moyenne (67 ms au pire).
 
 ## Comment elles ont été produites (pipeline OVG)
 

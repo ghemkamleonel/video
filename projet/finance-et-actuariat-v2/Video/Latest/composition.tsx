@@ -233,43 +233,43 @@ export const MyComposition: React.FC<CompositionProps> = ({ audioUrl, cssString 
       {cssString && <style dangerouslySetInnerHTML={{ __html: cssString }} />}
       {audioUrl && <Html5Audio src={audioUrl} volume={1} />}
       <Series>
-        <Series.Sequence durationInFrames={166}>
+        <Series.Sequence durationInFrames={255}>
           <Scene0 Arrow={Arrow} Text={Text} seededRandom={seededRandom} mapboxToken={MAPBOX_TOKEN} />
         </Series.Sequence>
-        <Series.Sequence durationInFrames={305}>
+        <Series.Sequence durationInFrames={464}>
           <Scene1 Arrow={Arrow} Text={Text} seededRandom={seededRandom} mapboxToken={MAPBOX_TOKEN} />
         </Series.Sequence>
-        <Series.Sequence durationInFrames={196}>
+        <Series.Sequence durationInFrames={343}>
           <Scene2 Arrow={Arrow} Text={Text} seededRandom={seededRandom} mapboxToken={MAPBOX_TOKEN} />
         </Series.Sequence>
-        <Series.Sequence durationInFrames={189}>
+        <Series.Sequence durationInFrames={216}>
           <Scene3 Arrow={Arrow} Text={Text} seededRandom={seededRandom} mapboxToken={MAPBOX_TOKEN} />
         </Series.Sequence>
-        <Series.Sequence durationInFrames={331}>
+        <Series.Sequence durationInFrames={683}>
           <Scene4 Arrow={Arrow} Text={Text} seededRandom={seededRandom} mapboxToken={MAPBOX_TOKEN} />
         </Series.Sequence>
-        <Series.Sequence durationInFrames={301}>
+        <Series.Sequence durationInFrames={428}>
           <Scene5 Arrow={Arrow} Text={Text} seededRandom={seededRandom} mapboxToken={MAPBOX_TOKEN} />
         </Series.Sequence>
-        <Series.Sequence durationInFrames={174}>
+        <Series.Sequence durationInFrames={354}>
           <Scene6 Arrow={Arrow} Text={Text} seededRandom={seededRandom} mapboxToken={MAPBOX_TOKEN} />
         </Series.Sequence>
-        <Series.Sequence durationInFrames={205}>
+        <Series.Sequence durationInFrames={394}>
           <Scene7 Arrow={Arrow} Text={Text} seededRandom={seededRandom} mapboxToken={MAPBOX_TOKEN} />
         </Series.Sequence>
-        <Series.Sequence durationInFrames={132}>
+        <Series.Sequence durationInFrames={157}>
           <Scene8 Arrow={Arrow} Text={Text} seededRandom={seededRandom} mapboxToken={MAPBOX_TOKEN} />
         </Series.Sequence>
-        <Series.Sequence durationInFrames={265}>
+        <Series.Sequence durationInFrames={333}>
           <Scene9 Arrow={Arrow} Text={Text} seededRandom={seededRandom} mapboxToken={MAPBOX_TOKEN} />
         </Series.Sequence>
-        <Series.Sequence durationInFrames={224}>
+        <Series.Sequence durationInFrames={265}>
           <Scene10 Arrow={Arrow} Text={Text} seededRandom={seededRandom} mapboxToken={MAPBOX_TOKEN} />
         </Series.Sequence>
-        <Series.Sequence durationInFrames={157}>
+        <Series.Sequence durationInFrames={200}>
           <Scene11 Arrow={Arrow} Text={Text} seededRandom={seededRandom} mapboxToken={MAPBOX_TOKEN} />
         </Series.Sequence>
-        <Series.Sequence durationInFrames={328}>
+        <Series.Sequence durationInFrames={471}>
           <Scene12 Arrow={Arrow} Text={Text} seededRandom={seededRandom} mapboxToken={MAPBOX_TOKEN} />
         </Series.Sequence>
       </Series>

@@ -172,9 +172,9 @@ working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code.
 <input>
   <scene_index>0</scene_index>
   <scene_startFrame>0</scene_startFrame>
-  <scene_endFrame>166</scene_endFrame>
+  <scene_endFrame>255</scene_endFrame>
   <direction_video_description>PHASE 1 -- HELLO: From the very first frame a huge animated price line (like a live stock chart) sweeps across the full width, glowing gold, with candlesticks popping along it, while the word 'BONJOUR' slams in large at center on 'Bonjour'. PHASE 2 -- NAME CARD: On 'moi c'est' a large white name card slides up at center showing the presenter name exactly as spoken: 'JENNY GUINCAMP FRANCK LIONEL' (no portrait, no silhouette, no human -- just a bold typographic card with a gold accent bar). PHASE 3 -- THE TWO TOPICS: On 'finance de marche' a gold chip 'FINANCE DE MARCHE' with a small rising chart icon pops in on the left under the card; on 'l'actuariat' a navy chip 'ACTUARIAT' with a small @shield icon pops in on the right. The background keeps breathing with the scrolling price line and drifting digits.</direction_video_description>
-  <audio_transcript_with_timings>Bonjour, 0, ,, 13, moi, 13, c, 19, ', 22, est, 22, Jenny, 28, Guincamp, 38, Franck, 52, Lionel, 63, ., 74, Je, 82, m, 86, ', 89, intéresse, 89, à, 103, la, 106, finance, 110, de, 122, marché, 126, et, 136, l, 140, ', 143, actuariat, 143, ., 157</audio_transcript_with_timings>
+  <audio_transcript_with_timings>Bonjour, 0, ,, 38, moi, 39, c, 54, ', 61, est, 61, Jenny, 66, Guincamp, 73, Franck, 92, Lionel, 105, ., 120, Je, 160, m, 165, ', 166, intéresse, 166, à, 190, la, 192, finance, 196, de, 210, marché, 213, et, 223, l, 226, ', 229, actuariat, 229, ., 247</audio_transcript_with_timings>
 </input>
 
 ---
@@ -188,10 +188,10 @@ working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code.
 
 <input>
   <scene_index>1</scene_index>
-  <scene_startFrame>166</scene_startFrame>
-  <scene_endFrame>471</scene_endFrame>
+  <scene_startFrame>255</scene_startFrame>
+  <scene_endFrame>719</scene_endFrame>
   <direction_video_description>PHASE 1 -- THE SCHOOL: A large @graduation cap drops in at center-left with a tassel swinging; beside it a white card reads 'ECOLE NATIONALE SUPERIEURE' and below a gold chip 'FILIERE FINANCE ET ACTUARIAT' and a navy chip 'NIVEAU 4' that snap in on the spoken words 'filiere' and 'niveau'. PHASE 2 -- THE MISSION: On 'creer du contenu' the card compresses into a large video-player frame (a dark rectangle with a big gold play triangle and a progress bar that fills); on 'banaliser' the title 'BANALISER LA FINANCE ET L'ACTUARIAT' types itself in large white letters under the player, with the words FINANCE and ACTUARIAT highlighted in gold.</direction_video_description>
-  <audio_transcript_with_timings>Étant, 8, étudiant, 17, à, 31, l, 34, ', 37, école, 37, nationale, 46, supérieure, 61, pour, 78, être, 86, né, 93, ,, 98, où, 98, j, 103, ', 106, ai, 106, fait, 110, la, 118, filière, 123, finance, 135, et, 147, actuariat, 152, en, 167, niveau, 171, 4, 182, ,, 185, j, 185, ', 188, ai, 188, décidé, 193, de, 203, créer, 208, du, 217, contenu, 222, pour, 234, banaliser, 242, la, 257, finance, 262, et, 274, l, 278, ', 281, actuariat, 281, ., 297</audio_transcript_with_timings>
+  <audio_transcript_with_timings>Étant, 0, étudiant, 18, à, 36, l, 39, ', 42, école, 42, nationale, 64, supérieure, 94, pour, 144, être, 149, né, 164, ,, 170, où, 170, j, 174, ', 176, ai, 176, fait, 178, la, 185, filière, 186, finance, 196, et, 208, actuariat, 212, en, 224, niveau, 252, 4, 265, ,, 269, j, 269, ', 272, ai, 272, décidé, 273, de, 280, créer, 283, du, 290, contenu, 294, pour, 310, banaliser, 318, la, 342, finance, 348, et, 359, l, 405, ', 408, actuariat, 408, ., 456</audio_transcript_with_timings>
 </input>
 
 ---
@@ -205,10 +205,10 @@ working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code.
 
 <input>
   <scene_index>2</scene_index>
-  <scene_startFrame>471</scene_startFrame>
-  <scene_endFrame>667</scene_endFrame>
+  <scene_startFrame>719</scene_startFrame>
+  <scene_endFrame>1062</scene_endFrame>
   <direction_video_description>PHASE 1 -- THE QUESTION: A giant gold question mark spins in at center on 'Qu'est-ce que'; the two labels 'FINANCE' and 'ACTUARIAT' orbit around it. PHASE 2 -- TWO JOBS, ONE IDEA: On 'deux metiers' the question mark splits into two large panels side by side titled 'FINANCE' and 'ACTUARIAT'. On 'evaluer' a large gauge needle sweeps in both panels; on 'gerer le risque' a @shield appears over each gauge; on 'l'argent dans le temps' a single horizontal timeline arrow runs under both panels from 'AUJOURD'HUI' to 'DEMAIN', and a stack of gold coins travels along it, growing and wobbling as it moves (money exposed to risk over time). Caption at bottom: 'EVALUER ET GERER LE RISQUE DE L'ARGENT DANS LE TEMPS'.</direction_video_description>
-  <audio_transcript_with_timings>Qu, 8, ', 12, est, 12, -, 17, ce, 17, que, 20, c, 25, ', 27, est, 27, que, 32, la, 37, finance, 40, et, 50, l, 53, ', 56, actuariat, 56, ?, 68, C, 76, ', 78, est, 78, deux, 83, métiers, 89, qui, 98, consistent, 102, d, 115, ', 117, abord, 117, à, 124, évaluer, 127, et, 136, gérer, 139, le, 146, risque, 150, de, 158, l, 161, ', 164, argent, 164, dans, 172, le, 177, temps, 181, ., 188</audio_transcript_with_timings>
+  <audio_transcript_with_timings>Qu, 27, ', 30, est, 30, -, 35, ce, 35, que, 39, c, 50, ', 53, est, 53, que, 61, la, 86, finance, 93, et, 126, l, 130, ', 140, actuariat, 140, ?, 177, C, 190, ', 192, est, 192, deux, 197, métiers, 206, qui, 214, consistent, 219, d, 229, ', 231, abord, 231, à, 239, évaluer, 241, et, 248, gérer, 269, le, 277, risque, 280, de, 286, l, 290, ', 292, argent, 292, dans, 301, le, 308, temps, 321, ., 334</audio_transcript_with_timings>
 </input>
 
 ---
@@ -222,10 +222,10 @@ working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code.
 
 <input>
   <scene_index>3</scene_index>
-  <scene_startFrame>667</scene_startFrame>
-  <scene_endFrame>856</scene_endFrame>
+  <scene_startFrame>1062</scene_startFrame>
+  <scene_endFrame>1278</scene_endFrame>
   <direction_video_description>A large, living stock-exchange board fills the frame: a dark trading screen with a header 'MARCHE ORGANISE', rows of tickers with prices flickering green and red, and an order book in the middle with a BUY column (gold) and a SELL column (navy). On 'achete' a gold BUY order slides in from the left; on 'vend' a navy SELL order slides in from the right; they meet at the center and lock together with a bright 'EXECUTE' flash and a price ticks. Title chip at the top: 'LA FINANCE DE MARCHE'. Orders keep arriving and matching in rhythm in the background.</direction_video_description>
-  <audio_transcript_with_timings>La, 8, finance, 13, de, 24, marché, 28, ,, 38, c, 38, ', 41, est, 41, l, 47, ', 50, ensemble, 50, des, 63, activités, 69, où, 83, l, 87, ', 90, on, 90, achète, 94, et, 104, vend, 109, des, 116, titres, 122, financiers, 132, sur, 147, le, 153, marché, 157, organisé, 167, ., 180</audio_transcript_with_timings>
+  <audio_transcript_with_timings>La, -1, finance, 3, de, 22, marché, 29, ,, 44, c, 44, ', 47, est, 47, l, 54, ', 58, ensemble, 58, des, 72, activités, 78, où, 100, l, 107, ', 111, on, 111, achète, 117, et, 127, vend, 129, des, 143, titres, 149, financiers, 156, sur, 171, le, 177, marché, 181, organisé, 193, ., 208</audio_transcript_with_timings>
 </input>
 
 ---
@@ -239,10 +239,10 @@ working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code.
 
 <input>
   <scene_index>4</scene_index>
-  <scene_startFrame>856</scene_startFrame>
-  <scene_endFrame>1187</scene_endFrame>
+  <scene_startFrame>1278</scene_startFrame>
+  <scene_endFrame>1961</scene_endFrame>
   <direction_video_description>A two-sided flow diagram built from real objects. LEFT column titled 'ONT DE L'ARGENT A PLACER': three large tiles stack vertically and pop in on their words -- 'EPARGNANTS' (a piggy-bank shape of coins), 'ASSUREURS' (an @umbrella), 'FONDS' (a vault of coins). RIGHT column titled 'ONT BESOIN D'ARGENT': on 'les Etats' a large @bank tile labelled 'ETATS' and on 'les entreprises' a factory tile labelled 'ENTREPRISES'. At the center a large glowing ring labelled 'MARCHE'. Gold coins stream from the left tiles into the ring and out to the right tiles once both sides are present, in a continuous flow. During the hesitation 'de, cette, de, ce' the right column is still empty with a pulsing placeholder, so the visual waits with the speaker.</direction_video_description>
-  <audio_transcript_with_timings>Elle, 8, met, 17, en, 24, relation, 29, ceux, 46, qui, 55, ont, 62, l, 69, ', 73, argent, 73, à, 85, placer, 89, ,, 101, les, 101, épargnants, 109, ,, 128, les, 128, assureurs, 136, ,, 154, les, 154, fonds, 161, ,, 172, et, 172, ceux, 177, qui, 186, ont, 193, besoin, 201, de, 213, ,, 219, cette, 219, ,, 229, de, 229, ,, 235, ce, 235, ,, 240, de, 240, cet, 246, argent, 253, -, 265, là, 265, ,, 271, les, 271, États, 278, et, 289, les, 294, entreprises, 301, ., 323</audio_transcript_with_timings>
+  <audio_transcript_with_timings>Elle, 2, met, 34, en, 48, relation, 56, ceux, 82, qui, 97, ont, 107, l, 112, ', 115, argent, 115, à, 126, placer, 135, ,, 155, les, 155, épargnants, 172, ,, 251, les, 260, assureurs, 276, ,, 303, les, 303, fonds, 313, ,, 330, et, 330, ceux, 338, qui, 348, ont, 358, besoin, 360, de, 371, ,, 398, cette, 410, ,, 477, de, 514, ,, 516, ce, 516, ,, 519, de, 519, cet, 523, argent, 576, -, 619, là, 619, ,, 627, les, 627, États, 633, et, 638, les, 644, entreprises, 654, ., 674</audio_transcript_with_timings>
 </input>
 
 ---
@@ -256,10 +256,10 @@ working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code.
 
 <input>
   <scene_index>5</scene_index>
-  <scene_startFrame>1187</scene_startFrame>
-  <scene_endFrame>1488</scene_endFrame>
+  <scene_startFrame>1961</scene_startFrame>
+  <scene_endFrame>2389</scene_endFrame>
   <direction_video_description>Three large cards are dealt onto the center of the frame like playing cards, one per spoken item. On 'les actions' the first card 'ACTION' shows a company building split into slices with one slice lifting out, caption 'UNE PART D'UNE ENTREPRISE'. On 'les obligations' the second card 'OBLIGATION' shows a certificate with a coupon strip, caption 'UN PRET A UN ETAT OU UNE ENTREPRISE'. On 'Rembourser avec des interets' the obligation card animates: a stack of coins goes out to a @bank, then comes back bigger with small extra coins labelled '+ INTERETS' ticking in. The cards stay large and readable, side by side.</direction_video_description>
-  <audio_transcript_with_timings>Concrètement, 8, ,, 29, on, 29, y, 34, échange, 37, les, 49, actions, 56, ,, 68, les, 68, parts, 75, d, 84, ', 87, une, 87, entreprise, 93, ,, 111, les, 111, obligations, 117, ,, 136, les, 136, prêts, 142, qu, 152, ', 156, on, 156, fait, 161, à, 169, l, 172, ', 175, État, 175, ou, 183, une, 188, entreprise, 194, ., 211, Rembourser, 220, avec, 238, des, 246, intérêts, 252, ,, 267, bien, 267, évidemment, 275, ., 292</audio_transcript_with_timings>
+  <audio_transcript_with_timings>Concrètement, -4, ,, 14, on, 15, y, 17, échange, 20, les, 35, actions, 41, ,, 65, les, 65, parts, 72, d, 91, ', 95, une, 95, entreprise, 122, ,, 143, les, 143, obligations, 146, ,, 161, les, 161, prêts, 167, qu, 181, ', 187, on, 187, fait, 194, à, 211, l, 215, ', 219, État, 219, ou, 230, une, 246, entreprise, 267, ., 300, Rembourser, 309, avec, 319, des, 326, intérêts, 332, ,, 371, bien, 385, évidemment, 395, ., 420</audio_transcript_with_timings>
 </input>
 
 ---
@@ -273,10 +273,10 @@ working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code.
 
 <input>
   <scene_index>6</scene_index>
-  <scene_startFrame>1488</scene_startFrame>
-  <scene_endFrame>1662</scene_endFrame>
+  <scene_startFrame>2389</scene_startFrame>
+  <scene_endFrame>2743</scene_endFrame>
   <direction_video_description>A third card 'PRODUIT DERIVE' slides in large at center showing a contract with a signature line. Above it a price line moves violently up and down (a volatile price). On 'se proteger' a gold @shield snaps onto the contract and a horizontal gold band locks the price inside a safe corridor: the wild line keeps moving, but a second line labelled 'PRIX GARANTI' stays flat and calm. Caption: 'SE PROTEGER CONTRE LA VARIATION DES PRIX'.</direction_video_description>
-  <audio_transcript_with_timings>Les, 8, produits, 14, dérivés, 28, ,, 40, les, 40, contrats, 47, qui, 60, ,, 67, qui, 67, sont, 73, utilisés, 81, pour, 94, se, 102, protéger, 107, contre, 121, la, 132, variation, 136, des, 152, prix, 158, ., 166</audio_transcript_with_timings>
+  <audio_transcript_with_timings>Les, 19, produits, 24, dérivés, 34, ,, 70, les, 84, contrats, 114, qui, 138, ,, 181, qui, 187, sont, 202, utilisés, 212, pour, 228, se, 237, protéger, 245, contre, 271, la, 289, variation, 294, des, 319, prix, 328, ., 346</audio_transcript_with_timings>
 </input>
 
 ---
