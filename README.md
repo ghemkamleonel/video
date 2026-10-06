@@ -1,14 +1,15 @@
 # Vidéos explicatives de finance, générées avec OVG
 
-Deux vidéos explicatives en français, produites avec le pipeline
+Trois vidéos explicatives en français, produites avec le pipeline
 **OVG — Outscal Video Generator** ([outscal/video-generator](https://github.com/outscal/video-generator)).
 
 | Vidéo | Durée | Fichier | Sous-titres |
 |---|---|---|---|
 | La finance quantitative | 78 s | [`finance-quantitative.mp4`](./finance-quantitative.mp4) | [`finance-quantitative.fr.srt`](./finance-quantitative.fr.srt) |
 | La gestion du risque | 103 s | [`gestion-du-risque.mp4`](./gestion-du-risque.mp4) | [`gestion-du-risque.fr.srt`](./gestion-du-risque.fr.srt) |
+| La finance de marché et l'actuariat (texte du présentateur) | 99 s | [`finance-et-actuariat.mp4`](./finance-et-actuariat.mp4) | [`finance-et-actuariat.fr.srt`](./finance-et-actuariat.fr.srt) |
 
-Les deux sont en 1920×1080, 30 i/s, encodées en H.264 (yuv420p) + AAC avec `faststart` : elles se lisent
+Toutes sont en 1920×1080, 30 i/s, encodées en H.264 (yuv420p) + AAC avec `faststart` : elles se lisent
 dans un navigateur, sur mobile, dans VLC ou QuickTime. Les sous-titres sont générés à partir du
 transcript mot à mot, avec les nombres écrits en chiffres. Pour les afficher dans VLC : Sous-titres →
 Ajouter un fichier de sous-titres.
@@ -55,6 +56,27 @@ Les traces sont dans `projet/gestion-du-risque-v2/Scripts/drafts/eval_v*.txt`. C
 corrigées entre le v2 et le v3 : la chronologie de LTCM, le plafond qui porte sur le montant encaissé,
 le seuil de Kelly « environ 40 % », etc.
 
+## 3. La finance de marché et l'actuariat (texte du présentateur)
+
+Le texte fourni par le présentateur est utilisé **mot pour mot** comme narration
+(`projet/finance-et-actuariat-v2/script.md`). Les 13 scènes illustrent chaque passage :
+
+- la présentation et la filière finance et actuariat ;
+- la définition des deux métiers ;
+- le marché organisé ;
+- épargnants, assureurs et fonds face aux États et aux entreprises ;
+- actions, obligations et dérivés ;
+- les trois rôles des marchés ;
+- l'Afrique : financement alternatif, souveraineté sur les prix du cacao, du café et du pétrole, besoin d'analystes.
+
+Les hésitations du discours oral restent dans la narration et les sous-titres, mais pas dans les textes à l'écran.
+
+**Voix provisoire.** L'enregistrement original du présentateur n'a pas été transmis. La vidéo utilise donc
+la voix de synthèse hors-ligne, en attendant ce fichier. Les scènes sont construites pour accueillir la vraie voix
+sans être recodées (voir « Utiliser sa propre voix » ci-dessous). Le remplacement a été testé de bout en bout
+avec un enregistrement simulé de 114,6 s (voix provisoire : 97 s) : les 13 scènes ont été recalées et revalidées
+automatiquement, et chaque élément apparaît sur son mot.
+
 ## Comment elles ont été produites (pipeline OVG)
 
 | Étape OVG | Finance quantitative | Gestion du risque |
@@ -97,20 +119,25 @@ Ce dossier contient le patch, appliqué sur le commit indiqué dans `BASE_COMMIT
 
 ## Utiliser sa propre voix
 
-`ovg-patches/voice_align.py` remplace la voix de synthèse par un enregistrement réel, sans modèle de
-reconnaissance vocale. Il synthétise le texte connu avec la voix hors-ligne, dont le minutage mot à mot
-est connu, puis aligne cette référence sur l'enregistrement par DTW sur des MFCC. Il produit le même
-transcript mot à mot que le backend ElevenLabs, donc les scènes se calent sur la vraie voix.
-
-Test sur 14 phrases lues par une autre voix, plus lente, avec des pauses irrégulières : erreur moyenne
-de 19 ms sur le début des phrases, 118 ms au maximum.
-
-Prérequis : l'enregistrement doit suivre le texte fourni. Les écarts d'improvisation dégradent le calage.
+Le présentateur peut remplacer la voix de synthèse par son propre enregistrement, en lisant le texte du script.
+Une seule commande suffit, depuis la racine d'OVG :
 
 ```bash
-python -m scripts.utility.voice_align --audio ma_voix.m4a --script Outputs/T/script.md \
-  --out-audio Outputs/T/Audio/latest.mp3 --out-transcript Outputs/T/Transcript/latest.json
+bash scripts/utility/use_my_voice.sh finance-et-actuariat-v2 ma_voix.m4a
+python studio.py finance-et-actuariat-v2        # aperçu ; ou ovg-patches/tools/finalize.sh pour le MP4
 ```
+
+Ce que fait la commande :
+
+1. **Alignement** (`voice_align.py`) : le texte est synthétisé avec la voix hors-ligne, dont le minutage mot à
+   mot est connu, puis aligné sur l'enregistrement par DTW sur des MFCC. Aucun modèle de reconnaissance vocale
+   n'est nécessaire. Test sur 14 phrases lues par une autre voix : erreur moyenne de 19 ms, 118 ms au maximum.
+2. **Minutage des scènes** : il est recalculé par OVG sans appel TTS (`skipAudioApiCall`).
+3. **Recalage** (`retime_scenes.py`) : chaque scène s'ancre sur les mots (`at("mot")`) et non sur des numéros
+   d'image. Seul le bloc `@ovg-timings` de chaque scène est régénéré.
+4. **Revalidation** de toutes les scènes, puis **composition**.
+
+Prérequis : l'enregistrement doit suivre le texte. Les écarts d'improvisation dégradent le calage.
 
 ## Re-générer
 
@@ -118,7 +145,8 @@ python -m scripts.utility.voice_align --audio ma_voix.m4a --script Outputs/T/scr
 git clone https://github.com/outscal/video-generator && cd video-generator
 git checkout $(cat ../ovg-patches/BASE_COMMIT) && git apply ../ovg-patches/ovg-offline.patch
 cp ../ovg-patches/offline_tts.py scripts/utility/
-cp -r ../projet/finance-quantitative-v2 ../projet/gestion-du-risque-v2 Outputs/
+cp ../ovg-patches/{voice_align.py,retime_scenes.py,use_my_voice.sh} scripts/utility/
+cp -r ../projet/finance-quantitative-v2 ../projet/gestion-du-risque-v2 ../projet/finance-et-actuariat-v2 Outputs/
 cd studio && npm install --legacy-peer-deps && cd ..
 python studio.py gestion-du-risque-v2     # aperçu sur http://localhost:3000
 ```

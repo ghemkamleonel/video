@@ -40,14 +40,23 @@ def _split_sentences(paragraph: str) -> List[str]:
     return [p.strip() for p in parts if p.strip()]
 
 
+# Same token split as the ElevenLabs backend: punctuation, apostrophes and hyphens are their own tokens.
+SPLIT_CHARS = set(PUNCT) | set("()[]{}\"'-") | {chr(0x2019), chr(0x2013), chr(0x2014)}
+
+
 def _tokenize(sentence: str) -> List[str]:
-    tokens = []
-    for raw in sentence.split():
-        word = raw.strip(PUNCT)
-        if word:
-            tokens.append(word)
-        trailing = raw[len(raw.rstrip(PUNCT)):]
-        tokens.extend(ch for ch in trailing)
+    tokens, word = [], ""
+    for ch in sentence:
+        if ch.isspace() or ch in SPLIT_CHARS:
+            if word:
+                tokens.append(word)
+                word = ""
+            if ch in SPLIT_CHARS:
+                tokens.append(ch)
+            continue
+        word += ch
+    if word:
+        tokens.append(word)
     return tokens
 
 
@@ -81,7 +90,7 @@ def _silence(path: str, ms: int) -> None:
 
 
 def _time_words(tokens: List[str], start_ms: int, duration_ms: int) -> List[Dict]:
-    weights = [len(t) + 1 if t not in PUNCT else 0 for t in tokens]
+    weights = [len(t) + 1 if t not in SPLIT_CHARS else 0 for t in tokens]
     total = sum(weights) or 1
     words, cursor = [], float(start_ms)
     for token, weight in zip(tokens, weights):

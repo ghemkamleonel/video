@@ -1,0 +1,44 @@
+[
+  {
+    "name": "shield",
+    "description": "shield (created from scratch, vox palette)",
+    "file_format": "svg",
+    "asset_type": "emoji"
+  },
+  {
+    "name": "graduation cap",
+    "description": "graduation cap (created from scratch, vox palette)",
+    "file_format": "svg",
+    "asset_type": "emoji"
+  },
+  {
+    "name": "umbrella",
+    "description": "umbrella (created from scratch, vox palette)",
+    "file_format": "svg",
+    "asset_type": "emoji"
+  },
+  {
+    "name": "bank",
+    "description": "bank (created from scratch, vox palette)",
+    "file_format": "svg",
+    "asset_type": "emoji"
+  },
+  {
+    "name": "cocoa pod",
+    "description": "cocoa pod (created from scratch, vox palette)",
+    "file_format": "svg",
+    "asset_type": "emoji"
+  },
+  {
+    "name": "coffee cup",
+    "description": "coffee cup (created from scratch, vox palette)",
+    "file_format": "svg",
+    "asset_type": "emoji"
+  },
+  {
+    "name": "oil barrel",
+    "description": "oil barrel (created from scratch, vox palette)",
+    "file_format": "svg",
+    "asset_type": "emoji"
+  }
+]

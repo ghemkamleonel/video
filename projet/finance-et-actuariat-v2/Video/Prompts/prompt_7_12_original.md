@@ -1,0 +1,304 @@
+<video_aspect_ratio>16:9</video_aspect_ratio>
+<viewport_width>1920</viewport_width>
+<viewport_height>1080</viewport_height><artstyle>{
+  "description": "High-contrast, and authoritative. A sophisticated dark-mode aesthetic that utilizes motion to explain relationships between linguistics and visual perception. Main visuals are perfectly centered and the canvas is fully utilised",
+  "colors": {
+    "background": {
+      "primary": "#121212",
+      "secondary": "#000000"
+    },
+    "data_palette": [
+      "#2E4F70",
+      "#44344E",
+      "#443832",
+      "#FFFFFF"
+    ],
+    "functional_accents": {
+      "label_backgrounds": "#FFFFFF (Pantone style) or #000000 (Inverse tags)",
+      "highlight_glow": "Outer glow #FFFFFF",
+      "linguistic_grouping": "#F2C94C (Yellow used for English grouping label)"
+    },
+    "text": {
+      "primary": "#FFFFFF",
+      "inverse_on_chip": "#000000",
+      "highlight": "#FFFF00"
+    },
+    "color_scheme_type": "utilitarian multicolor \u2014 colors are the *subject*, not just decoration",
+    "contrast_level": "extremely high (pure white text on almost black background)"
+  },
+  "typography": {
+    "font_families": [
+      {
+        "name": "Jost",
+        "weights": [
+          "100",
+          "200",
+          "300",
+          "400",
+          "500",
+          "600",
+          "700",
+          "800",
+          "900"
+        ],
+        "subsets": [
+          "cyrillic",
+          "latin",
+          "latin-ext"
+        ]
+      },
+      {
+        "name": "IBMPlexMono",
+        "weights": [
+          "100",
+          "200",
+          "300",
+          "400",
+          "500",
+          "600",
+          "700"
+        ],
+        "subsets": [
+          "cyrillic",
+          "cyrillic-ext",
+          "latin",
+          "latin-ext",
+          "vietnamese"
+        ]
+      },
+      {
+        "name": "PlayfairDisplay",
+        "weights": [
+          "400",
+          "500",
+          "600",
+          "700",
+          "800",
+          "900"
+        ],
+        "subsets": [
+          "cyrillic",
+          "latin",
+          "latin-ext",
+          "vietnamese"
+        ]
+      },
+      {
+        "name": "IBMPlexSerif",
+        "weights": [
+          "100",
+          "200",
+          "300",
+          "400",
+          "500",
+          "600",
+          "700"
+        ],
+        "subsets": [
+          "cyrillic",
+          "cyrillic-ext",
+          "latin",
+          "latin-ext",
+          "vietnamese"
+        ]
+      }
+    ],
+    "text_formatting": [
+      "Title Case for Names (Blue, Wob\u00e9, Kpe)",
+      "UPPERCASE for categories (ENGLISH, DARK, LIGHT)",
+      "Specific tracking (slightly tight letter spacing)"
+    ],
+    "hierarchy": {
+      "primary_label": "White, Sans-Serif, Heavy, approx 48-60px",
+      "sub_data": "Black, Sans-Serif, on white card background, approx 14px",
+      "header": "White, centered, animated entrance"
+    }
+  },
+  "shapes": {
+    "primary_forms": [
+      "sharp rectangles (chips, bars)",
+      "hollow stroke rectangles",
+      "squares (pixels)",
+      "connecting brackets"
+    ],
+    "corner_radius": "0px - sharp corners on all data elements; distinct lack of rounding",
+    "edge_quality": "razor-sharp vector edges",
+    "dimensionality": "strictly 2D flat, organized in Z-space layers (camera moves, not objects)",
+    "complexity_level": "geometric abstraction (color swatches represent abstract concepts)"
+  },
+  "lines_and_arrows": {
+    "line_style": "straight solid lines or 'bracket' connectors",
+    "arrow_tips": "none \u2014 connections are implied by brackets or lines drawing between objects",
+    "thickness": "2-3px white stroke",
+    "colors": [
+      "#FFFFFF"
+    ],
+    "curved_connectors": "minimal \u2014 branching data lines use straight angular paths or slight mechanical bends",
+    "forbidden": [
+      "wobbly lines",
+      "hand-drawn sketchiness",
+      "dashed lines",
+      "arrowheads"
+    ]
+  },
+  "animation_style": {
+    "technique": "2.5D Motion Graphics with shape morphing",
+    "easing_type": "Exponential Ease-Out (Quintic)",
+    "easing_description": "Snappy starts with very long, smooth decelerations. Objects arrive quickly and slide imperceptibly into place.",
+    "movement_quality": "Mechanical and Precise. No overshoot, no bounce, no elasticity.",
+    "timing": {
+      "snappy": "150ms for text appearing",
+      "flow": "600ms for element sliding/sorting",
+      "morph": "800ms for object-to-text transformation"
+    }
+  },
+  "texture_and_imperfection": {
+    "primary": "Clean Digital Vectors (99% of runtime)",
+    "secondary": "Analog Glitch (1% of runtime - only used for impact/brand reveal)",
+    "glitch_type": "VHS Tracking Error, Chromatic Aberration offset (Red/Cyan separation), Scanlines"
+  }
+}</artstyle>
+
+
+---
+
+# Scene 7
+
+<video_id>finance-et-actuariat</video_id>
+<scene_index>7</scene_index>
+
+working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code. You will read all required references from this root directory.
+
+<input>
+  <scene_index>7</scene_index>
+  <scene_startFrame>1662</scene_startFrame>
+  <scene_endFrame>1867</scene_endFrame>
+  <direction_video_description>PHASE 1 -- THREE ROLES: A huge number '3' lands at center and the title 'TROIS ROLES' appears under it; on the repeated 'trois roles' the 3 pulses again. PHASE 2 -- THE ROLES: The 3 splits into three large pillars standing side by side, each rising on its spoken words: pillar 1 'FINANCER L'ECONOMIE' with coins flowing up into a factory and a road; pillar 2 'DONNER UN PRIX AUX ACTIFS' with a price tag swinging and a number settling; pillar 3 'SE PROTEGER CONTRE LE RISQUE' with a @shield deflecting red lightning bolts. The three pillars form a temple-like structure at the end.</direction_video_description>
+  <audio_transcript_with_timings>Un, 8, remplit, 12, trois, 23, rôles, 31, ,, 39, trois, 39, rôles, 47, ., 55, Financer, 63, l, 76, ', 79, économie, 79, ,, 92, donner, 92, un, 103, prix, 107, aux, 114, actifs, 120, et, 130, permettre, 135, de, 149, se, 154, protéger, 158, contre, 171, le, 181, risque, 186, ., 196</audio_transcript_with_timings>
+</input>
+
+---
+
+# Scene 8
+
+<video_id>finance-et-actuariat</video_id>
+<scene_index>8</scene_index>
+
+working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code. You will read all required references from this root directory.
+
+<input>
+  <scene_index>8</scene_index>
+  <scene_startFrame>1867</scene_startFrame>
+  <scene_endFrame>1999</scene_endFrame>
+  <direction_video_description>A large stylized outline of the African continent made of glowing gold dots (abstract dot pattern, not a geographic map with borders or labels) appears at center-left. On 'financement alternatif' two routes branch from it to the right: the upper route goes to a @bank labelled 'BANQUES' (already crowded, heavy), the lower route goes to a market ring labelled 'MARCHES FINANCIERS' that lights up gold. A chip reads 'UN FINANCEMENT ALTERNATIF AUX BANQUES'.</direction_video_description>
+  <audio_transcript_with_timings>La, 8, finance, 12, de, 23, marché, 27, pour, 36, l, 43, ', 46, Afrique, 46, représente, 57, un, 72, financement, 76, alternatif, 92, aux, 107, banques, 113, ., 123</audio_transcript_with_timings>
+</input>
+
+---
+
+# Scene 9
+
+<video_id>finance-et-actuariat</video_id>
+<scene_index>9</scene_index>
+
+working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code. You will read all required references from this root directory.
+
+<input>
+  <scene_index>9</scene_index>
+  <scene_startFrame>1999</scene_startFrame>
+  <scene_endFrame>2264</scene_endFrame>
+  <direction_video_description>PHASE 1 -- BANK CREDIT: A tall bar chart titled 'COMMENT L'ECONOMIE SE FINANCE' shows one huge navy bar labelled 'CREDIT BANCAIRE' and one small gold bar labelled 'MARCHES' (qualitative, no exact numbers). PHASE 2 -- FASTER: On 'les marches permettent' two horizontal race lanes appear: lane 'VIA LA BANQUE' with a coin moving slowly through several checkpoint gates, and lane 'VIA LE MARCHE' with a coin sprinting straight to a finish flag. On 'Etats et grandes entreprises' a @bank and a factory sit at the finish line receiving the coins; on 'obligations ou des actions' the fast coin turns into two tickets labelled 'OBLIGATIONS' and 'ACTIONS'. Caption: 'LEVER DES FONDS PLUS RAPIDEMENT'.</direction_video_description>
+  <audio_transcript_with_timings>En, 8, Afrique, 12, ,, 22, L, 22, ', 25, économie, 25, dépend, 37, surtout, 46, du, 57, crédit, 61, bancaire, 70, et, 82, les, 86, marchés, 91, permettent, 101, aux, 116, États, 121, et, 129, aux, 133, grandes, 138, entreprises, 149, de, 164, lever, 168, des, 176, fonds, 182, plus, 189, rapidement, 196, via, 210, des, 216, obligations, 221, ou, 237, des, 241, actions, 246, ., 256</audio_transcript_with_timings>
+</input>
+
+---
+
+# Scene 10
+
+<video_id>finance-et-actuariat</video_id>
+<scene_index>10</scene_index>
+
+working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code. You will read all required references from this root directory.
+
+<input>
+  <scene_index>10</scene_index>
+  <scene_startFrame>2264</scene_startFrame>
+  <scene_endFrame>2488</scene_endFrame>
+  <direction_video_description>PHASE 1 -- SOVEREIGNTY: The title 'UN ENJEU DE SOUVERAINETE' slams in at the top. PHASE 2 -- PRICES SET ABROAD: Three large commodity tiles drop in a row exactly on their words: '@cocoa pod' labelled 'CACAO', '@coffee cup' labelled 'CAFE', '@oil barrel' labelled 'PETROLE'. Above each tile a price tag dangles on a string; the strings stretch up and away to the top-right corner, toward a distant skyline labelled 'BOURSES ETRANGERES', which pulls the tags and makes the prices jump up and down -- the price of each African commodity is visibly controlled from elsewhere. Caption: 'PRIX FIXES A L'ETRANGER'.</direction_video_description>
+  <audio_transcript_with_timings>Un, 8, enjeu, 12, de, 20, souveraineté, 24, ., 41, Beaucoup, 49, de, 61, matières, 65, premières, 77, africaines, 90, sont, 105, fixées, 111, à, 120, l, 123, ', 126, étranger, 126, ., 137, Le, 146, cacao, 153, ,, 168, le, 168, café, 175, ,, 188, le, 188, pétrole, 195, ., 215</audio_transcript_with_timings>
+</input>
+
+---
+
+# Scene 11
+
+<video_id>finance-et-actuariat</video_id>
+<scene_index>11</scene_index>
+
+working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code. You will read all required references from this root directory.
+
+<input>
+  <scene_index>11</scene_index>
+  <scene_startFrame>2488</scene_startFrame>
+  <scene_endFrame>2645</scene_endFrame>
+  <direction_video_description>The same three commodity tiles ('@cocoa pod' CACAO, '@coffee cup' CAFE, '@oil barrel' PETROLE) stand large at center with their price tags. On 'mieux maitriser' a gold control panel slides in under them with three sliders; on 'negocier ses prix' the strings to the foreign skyline are cut and the tags are re-attached to the control panel, whose sliders set each price. On 'se proteger contre leurs variations' a gold @shield expands over the three tiles and the jumping price lines behind them flatten into calm corridors. Caption: 'NEGOCIER SES PRIX, SE PROTEGER DES VARIATIONS'.</direction_video_description>
+  <audio_transcript_with_timings>Mieux, 8, maîtriser, 16, la, 30, finance, 34, de, 45, marché, 49, ,, 59, c, 59, ', 61, est, 61, négocier, 67, ses, 79, prix, 85, pour, 92, se, 99, protéger, 103, contre, 115, leurs, 125, variations, 133, ., 149</audio_transcript_with_timings>
+</input>
+
+---
+
+# Scene 12
+
+<video_id>finance-et-actuariat</video_id>
+<scene_index>12</scene_index>
+
+working_directory: /home/user/outscal/video-generator/prompts/orchestrator/code. You will read all required references from this root directory.
+
+<input>
+  <scene_index>12</scene_index>
+  <scene_startFrame>2645</scene_startFrame>
+  <scene_endFrame>2973</scene_endFrame>
+  <direction_video_description>PHASE 1 -- A SKILLS GAP: The title 'UN BESOIN METIER' appears. A large board of 40 empty desk tiles fills the frame (each tile is a simple desk with a screen, no people); on 'rares sur le continent' only 4 tiles light up gold with a small chart on their screen labelled 'ANALYSTES', the rest stay dark and empty. PHASE 2 -- THE DEMAND: On 'les assurances' an @umbrella tile and on 'les retraites des fonds de pension' a vault tile appear on the right with pulsing red 'BESOIN' badges pointing at the empty desks. PHASE 3 -- GROWTH: On 'accroitre le developpement' the empty desks light up one after another in a wave and a gold growth curve rises across the whole board; final title: 'FINANCE ET ACTUARIAT : UN METIER D'AVENIR'.</direction_video_description>
+  <audio_transcript_with_timings>Un, 8, besoin, 13, métier, 23, ., 33, Les, 42, acteurs, 47, et, 57, les, 61, analystes, 66, de, 78, marché, 82, sont, 91, rares, 97, sur, 105, le, 110, continent, 114, ,, 126, alors, 126, que, 134, les, 139, assurances, 144, et, 158, les, 162, retraites, 167, des, 179, fonds, 184, de, 192, pension, 196, en, 206, ont, 210, un, 215, besoin, 219, pour, 227, accroître, 234, le, 246, développement, 250, ., 268</audio_transcript_with_timings>
+</input>
+
+---
+
+<asset_manifest>[
+  {
+    "name": "shield",
+    "aspect_ratio": "1:1",
+    "composition": "",
+    "assetUrl": "shield.svg"
+  },
+  {
+    "name": "bank",
+    "aspect_ratio": "1:1",
+    "composition": "",
+    "assetUrl": "bank.svg"
+  },
+  {
+    "name": "oil barrel",
+    "aspect_ratio": "1:1",
+    "composition": "",
+    "assetUrl": "oil barrel.svg"
+  },
+  {
+    "name": "cocoa pod",
+    "aspect_ratio": "1:1",
+    "composition": "",
+    "assetUrl": "cocoa pod.svg"
+  },
+  {
+    "name": "coffee cup",
+    "aspect_ratio": "1:1",
+    "composition": "",
+    "assetUrl": "coffee cup.svg"
+  },
+  {
+    "name": "umbrella",
+    "aspect_ratio": "1:1",
+    "composition": "",
+    "assetUrl": "umbrella.svg"
+  }
+]</asset_manifest>

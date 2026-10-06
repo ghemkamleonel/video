@@ -61,7 +61,15 @@ def main() -> None:
             merged.append(c)
     out = []
     for i, c in enumerate(merged):
-        text = " ".join(x[0] for x in c)
+        text = ""
+        glue = False
+        for w, _, _ in c:
+            if w in ("'", "-", chr(0x2019)):
+                text += w
+                glue = True
+                continue
+            text += (w if glue or not text else " " + w)
+            glue = False
         for a, b in NUM:
             text = text.replace(a, b)
         end = c[-1][2] + 150

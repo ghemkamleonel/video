@@ -1,0 +1,63 @@
+{
+  "metadata": {
+    "video_ratio": "16:9",
+    "video_style": "vox",
+    "viewport_width": 1920,
+    "viewport_height": 1080,
+    "totalFrames": 2973,
+    "totalScenes": 13
+  },
+  "Research": {
+    "version": 0,
+    "path": null,
+    "current_gen_version": 0,
+    "subagents_completed": []
+  },
+  "Scripts": {
+    "version": 1,
+    "path": "Outputs/finance-et-actuariat-v2/Scripts/script-user-input.md",
+    "current_gen_version": 1,
+    "subagents_completed": []
+  },
+  "Audio": {
+    "version": 1,
+    "path": "Outputs/finance-et-actuariat-v2/Audio/v1/Audio-v1.mp3",
+    "transcript_path": null,
+    "current_gen_version": 1,
+    "subagents_completed": [],
+    "subagents_claimed": []
+  },
+  "Direction": {
+    "version": 1,
+    "path": "Outputs/finance-et-actuariat-v2/Direction/v1/Direction-v1.json",
+    "current_gen_version": 1,
+    "subagents_completed": [],
+    "subagents_claimed": []
+  },
+  "Assets": {
+    "version": 1,
+    "path": "Outputs/finance-et-actuariat-v2/Assets/v1/Assets-v1.json",
+    "current_gen_version": 1,
+    "subagents_completed": [],
+    "subagents_claimed": []
+  },
+  "Design": {
+    "version": 0,
+    "path": null,
+    "current_gen_version": 0,
+    "subagents_completed": []
+  },
+  "Video": {
+    "version": 1,
+    "path": "Outputs/finance-et-actuariat-v2/Video/v1/Video-v1.tsx",
+    "current_gen_version": 1,
+    "subagents_completed": [],
+    "subagents_claimed": []
+  },
+  "Transcript": {
+    "version": 0,
+    "path": "Outputs/finance-et-actuariat-v2/Transcript/v0/Transcript-v0.json",
+    "current_gen_version": 0,
+    "subagents_completed": []
+  }
+}

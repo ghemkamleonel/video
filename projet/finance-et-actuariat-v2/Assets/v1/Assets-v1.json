@@ -1,0 +1,53 @@
+{
+  "assets": [
+    {
+      "name": "shield",
+      "asset_type": "",
+      "url": "shield.svg",
+      "composition": "",
+      "aspect_ratio": "1:1"
+    },
+    {
+      "name": "oil barrel",
+      "asset_type": "",
+      "url": "oil barrel.svg",
+      "composition": "",
+      "aspect_ratio": "1:1"
+    },
+    {
+      "name": "bank",
+      "asset_type": "",
+      "url": "bank.svg",
+      "composition": "",
+      "aspect_ratio": "1:1"
+    },
+    {
+      "name": "graduation cap",
+      "asset_type": "",
+      "url": "graduation cap.svg",
+      "composition": "",
+      "aspect_ratio": "1:1"
+    },
+    {
+      "name": "cocoa pod",
+      "asset_type": "",
+      "url": "cocoa pod.svg",
+      "composition": "",
+      "aspect_ratio": "1:1"
+    },
+    {
+      "name": "umbrella",
+      "asset_type": "",
+      "url": "umbrella.svg",
+      "composition": "",
+      "aspect_ratio": "1:1"
+    },
+    {
+      "name": "coffee cup",
+      "asset_type": "",
+      "url": "coffee cup.svg",
+      "composition": "",
+      "aspect_ratio": "1:1"
+    }
+  ]
+}
